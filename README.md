@@ -1,17 +1,15 @@
 # NCPPB Xanthomonas Genome Audit
 
-This project develops a reproducible workflow to audit how **NCPPB Xanthomonas strains** are represented in public NCBI genomic records.
+This project develops a reproducible workflow to audit how NCPPB Xanthomonas strains are represented in public NCBI genomic records.
 
-The main question is not just whether a species has sequence data. The project asks whether a specific preserved NCPPB strain can be linked to NCBI records such as BioSample, SRA, Assembly, and Taxonomy.
+The project asks whether a specific preserved NCPPB strain can be linked to NCBI records such as BioSample, SRA, Assembly, and Taxonomy.
 
 ## Current Stage
 
-This repository is currently set up for Week 1 and Week 2 work:
+This repository is currently set up for week 1 work:
 
 1. Build the NCPPB Xanthomonas master table.
 2. Generate traceable search terms for each strain.
-3. Run a small NCBI smoke test on 5-10 strains.
-4. Refine evidence-based matching rules before scaling up.
 
 ## Project Logic
 
@@ -24,19 +22,13 @@ NCPPB catalogue
   -> audit categories and summary figures
 ```
 
-## Important Principle
-
-Prefer strain-level evidence over name-only matching.
-
-Strong evidence includes NCPPB catalogue numbers, equivalent collection numbers, BioSample strain fields, culture collection identifiers, and NCBI TaxIDs. Species or pathovar name matches alone should be treated as taxon-level evidence, not proof that the NCBI record belongs to the exact NCPPB strain.
-
 ## First Commands After Environment Setup
 
 ```bash
 cd /home/zhizi/projects/ncppb-xanthomonas-audit
 source .venv/bin/activate
 
-# If you saved the browser results page as HTML:
+# browser results of NCPPB page as HTML:
 python scripts/00_extract_ncppb_html.py \
   --input data/raw/ncppbresult.html \
   --output data/raw/ncppb_catalogue.csv
