@@ -22,11 +22,9 @@ NCPPB catalogue
   -> audit categories and summary figures
 ```
 
-## First Commands After Environment Setup
+## Commands
 
 ```bash
-cd /home/zhizi/projects/ncppb-xanthomonas-audit
-source .venv/bin/activate
 
 # browser results of NCPPB page as HTML:
 python scripts/00_extract_ncppb_html.py \
