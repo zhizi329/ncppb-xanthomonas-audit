@@ -1,0 +1,11 @@
+biopython
+pandas
+requests
+python-dotenv
+pyyaml
+openpyxl
+tqdm
+matplotlib
+seaborn
+lxml
+beautifulsoup4

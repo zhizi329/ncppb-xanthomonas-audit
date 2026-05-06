@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.Rhistory
+**/.Rhistory
+.RData
+.Rproj.user/
+logs/*.log
+results/*.png
+results/*.pdf
+*.tmp
+.DS_Store
