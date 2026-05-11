@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Generate traceable NCBI search terms from the NCPPB master table."""
+"""Generate traceable NCBI search terms from the NCPPB master table.
+
+Writes TSV when the output path ends in `.tsv`; otherwise writes CSV.
+"""
 
 from __future__ import annotations
 
@@ -33,10 +36,14 @@ def add_term(rows: list[dict], ncppb_number: str, term: str, term_type: str) -> 
     rows.append({"ncppb_number": ncppb_number, "term_type": term_type, "search_term": term})
 
 
+def output_separator(path: Path) -> str:
+    return "\t" if path.suffix.lower() == ".tsv" else ","
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--input", required=True, help="NCPPB master CSV")
-    parser.add_argument("--output", required=True, help="Search terms CSV")
+    parser.add_argument("--output", required=True, help="Search terms CSV or TSV")
     args = parser.parse_args()
 
     df = pd.read_csv(args.input, dtype=str).fillna("")
@@ -64,9 +71,10 @@ def main() -> None:
             add_term(rows, ncppb, other, "other_collection_number")
 
     out = pd.DataFrame(rows).drop_duplicates()
-    Path(args.output).parent.mkdir(parents=True, exist_ok=True)
-    out.to_csv(args.output, index=False)
-    print(f"Wrote {len(out)} search terms to {args.output}")
+    output_path = Path(args.output)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    out.to_csv(output_path, index=False, sep=output_separator(output_path))
+    print(f"Wrote {len(out)} search terms to {output_path}")
 
 
 if __name__ == "__main__":

@@ -13,15 +13,16 @@ A full collection-wide search is only useful after the matching rules are tested
 1. Generate search terms from the NCPPB master table.
 2. Choose 5-10 representative strains.
 3. Query NCBI BioSample, Assembly, SRA, and Taxonomy using Biopython Entrez.
-4. Save candidate records to a CSV.
+4. Save candidate records to a TSV so GitHub can preview the results as a table.
 5. Manually compare several results with the NCBI website.
 6. Update the decision rules.
 
 ## Target Outputs
 
 ```text
-data/interim/search_terms.csv
-results/week2_ncbi_smoke_test.csv
+data/interim/search_terms.tsv
+results/week2_ncbi_smoke_test.tsv
+docs/week2_smoke_test_notes.md
 docs/decision_rules.md
 ```
 

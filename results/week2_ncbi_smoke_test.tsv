@@ -1,0 +1,257 @@
+ncppb_number	term_type	search_term	ncbi_db	id_count_returned	ids	status	error
+NCPPB 45	ncppb_number	NCPPB 45	biosample	3	6159902;36346970;27356514	ok	
+NCPPB 45	ncppb_number	NCPPB 45	assembly	5	20548581;10488451;689658;337451;237891	ok	
+NCPPB 45	ncppb_number	NCPPB 45	sra	3	28363862;21117068;21116955	ok	
+NCPPB 45	ncppb_number	NCPPB 45	taxonomy	0		ok	
+NCPPB 45	ncppb_number_compact	NCPPB45	biosample	0		ok	
+NCPPB 45	ncppb_number_compact	NCPPB45	assembly	0		ok	
+NCPPB 45	ncppb_number_compact	NCPPB45	sra	0		ok	
+NCPPB 45	ncppb_number_compact	NCPPB45	taxonomy	0		ok	
+NCPPB 45	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 45"	biosample	0		ok	
+NCPPB 45	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 45"	assembly	0		ok	
+NCPPB 45	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 45"	sra	0		ok	
+NCPPB 45	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 45"	taxonomy	0		ok	
+NCPPB 45	current_name_plus_number	"""Xanthomonas campestris pv. campestris (Pammel 1895) Dowson 1939"" ""NCPPB 45"""	biosample	0		ok	
+NCPPB 45	current_name_plus_number	"""Xanthomonas campestris pv. campestris (Pammel 1895) Dowson 1939"" ""NCPPB 45"""	assembly	0		ok	
+NCPPB 45	current_name_plus_number	"""Xanthomonas campestris pv. campestris (Pammel 1895) Dowson 1939"" ""NCPPB 45"""	sra	0		ok	
+NCPPB 45	current_name_plus_number	"""Xanthomonas campestris pv. campestris (Pammel 1895) Dowson 1939"" ""NCPPB 45"""	taxonomy	0		ok	
+NCPPB 45	received_name_plus_number	"""Xanthomonas campestris (Pammel 1895) Dowson 1939"" ""NCPPB 45"""	biosample	0		ok	
+NCPPB 45	received_name_plus_number	"""Xanthomonas campestris (Pammel 1895) Dowson 1939"" ""NCPPB 45"""	assembly	0		ok	
+NCPPB 45	received_name_plus_number	"""Xanthomonas campestris (Pammel 1895) Dowson 1939"" ""NCPPB 45"""	sra	0		ok	
+NCPPB 45	received_name_plus_number	"""Xanthomonas campestris (Pammel 1895) Dowson 1939"" ""NCPPB 45"""	taxonomy	0		ok	
+NCPPB 101	ncppb_number	NCPPB 101	biosample	5	54086555;54086018;54085048;54070584;54068986	ok	
+NCPPB 101	ncppb_number	NCPPB 101	assembly	4	21743061;21716991;11399401;57581	ok	
+NCPPB 101	ncppb_number	NCPPB 101	sra	1	25233290	ok	
+NCPPB 101	ncppb_number	NCPPB 101	taxonomy	1	56450	ok	
+NCPPB 101	ncppb_number_compact	NCPPB101	biosample	1	22555467	ok	
+NCPPB 101	ncppb_number_compact	NCPPB101	assembly	0		ok	
+NCPPB 101	ncppb_number_compact	NCPPB101	sra	0		ok	
+NCPPB 101	ncppb_number_compact	NCPPB101	taxonomy	0		ok	
+NCPPB 101	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 101"	biosample	0		ok	
+NCPPB 101	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 101"	assembly	0		ok	
+NCPPB 101	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 101"	sra	0		ok	
+NCPPB 101	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 101"	taxonomy	0		ok	
+NCPPB 101	current_name_plus_number	"""Xanthomonas cassavae (ex Wiehe & Dowson 1953) Vauterin et al. 1995"" ""NCPPB 101"""	biosample	0		ok	
+NCPPB 101	current_name_plus_number	"""Xanthomonas cassavae (ex Wiehe & Dowson 1953) Vauterin et al. 1995"" ""NCPPB 101"""	assembly	0		ok	
+NCPPB 101	current_name_plus_number	"""Xanthomonas cassavae (ex Wiehe & Dowson 1953) Vauterin et al. 1995"" ""NCPPB 101"""	sra	0		ok	
+NCPPB 101	current_name_plus_number	"""Xanthomonas cassavae (ex Wiehe & Dowson 1953) Vauterin et al. 1995"" ""NCPPB 101"""	taxonomy	0		ok	
+NCPPB 101	received_name_plus_number	"""Xanthomonas cassavae"" ""NCPPB 101"""	biosample	5	54086555;54086018;54085048;54070584;54068986	ok	
+NCPPB 101	received_name_plus_number	"""Xanthomonas cassavae"" ""NCPPB 101"""	assembly	1	11399401	ok	
+NCPPB 101	received_name_plus_number	"""Xanthomonas cassavae"" ""NCPPB 101"""	sra	1	25233290	ok	
+NCPPB 101	received_name_plus_number	"""Xanthomonas cassavae"" ""NCPPB 101"""	taxonomy	1	56450	ok	
+NCPPB 101	alternative_name_plus_number	"""Xanthomonas campestris pv. cassavae (Wiehe & Dowson 1953) Maraite and Weyns 1979"" ""NCPPB 101"""	biosample	0		ok	
+NCPPB 101	alternative_name_plus_number	"""Xanthomonas campestris pv. cassavae (Wiehe & Dowson 1953) Maraite and Weyns 1979"" ""NCPPB 101"""	assembly	0		ok	
+NCPPB 101	alternative_name_plus_number	"""Xanthomonas campestris pv. cassavae (Wiehe & Dowson 1953) Maraite and Weyns 1979"" ""NCPPB 101"""	sra	0		ok	
+NCPPB 101	alternative_name_plus_number	"""Xanthomonas campestris pv. cassavae (Wiehe & Dowson 1953) Maraite and Weyns 1979"" ""NCPPB 101"""	taxonomy	0		ok	
+NCPPB 101	other_collection_number	ICMP 204	biosample	5	54086555;54086018;54085048;54070584;54068986	ok	
+NCPPB 101	other_collection_number	ICMP 204	assembly	4	21743061;21716991;11399401;57581	ok	
+NCPPB 101	other_collection_number	ICMP 204	sra	1	25233290	ok	
+NCPPB 101	other_collection_number	ICMP 204	taxonomy	1	56450	ok	
+NCPPB 101	other_collection_number	LMG 673	biosample	5	54086555;54086018;54085048;54070584;54068986	ok	
+NCPPB 101	other_collection_number	LMG 673	assembly	4	21743061;21716991;11399401;57581	ok	
+NCPPB 101	other_collection_number	LMG 673	sra	1	25233290	ok	
+NCPPB 101	other_collection_number	LMG 673	taxonomy	1	56450	ok	
+NCPPB 101	other_collection_number	DSM 18958	biosample	0		ok	
+NCPPB 101	other_collection_number	DSM 18958	assembly	0		ok	
+NCPPB 101	other_collection_number	DSM 18958	sra	0		ok	
+NCPPB 101	other_collection_number	DSM 18958	taxonomy	0		ok	
+NCPPB 109	ncppb_number	NCPPB 109	biosample	0		ok	
+NCPPB 109	ncppb_number	NCPPB 109	assembly	1	20546551	ok	
+NCPPB 109	ncppb_number	NCPPB 109	sra	2	21117052;21116904	ok	
+NCPPB 109	ncppb_number	NCPPB 109	taxonomy	0		ok	
+NCPPB 109	ncppb_number_compact	NCPPB109	biosample	0		ok	
+NCPPB 109	ncppb_number_compact	NCPPB109	assembly	0		ok	
+NCPPB 109	ncppb_number_compact	NCPPB109	sra	0		ok	
+NCPPB 109	ncppb_number_compact	NCPPB109	taxonomy	0		ok	
+NCPPB 109	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 109"	biosample	0		ok	
+NCPPB 109	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 109"	assembly	0		ok	
+NCPPB 109	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 109"	sra	0		ok	
+NCPPB 109	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 109"	taxonomy	0		ok	
+NCPPB 109	current_name_plus_number	"""Xanthomonas axonopodis pv. begoniae (Takimoto 1934) Vauterin et al. 1995"" ""NCPPB 109"""	biosample	0		ok	
+NCPPB 109	current_name_plus_number	"""Xanthomonas axonopodis pv. begoniae (Takimoto 1934) Vauterin et al. 1995"" ""NCPPB 109"""	assembly	0		ok	
+NCPPB 109	current_name_plus_number	"""Xanthomonas axonopodis pv. begoniae (Takimoto 1934) Vauterin et al. 1995"" ""NCPPB 109"""	sra	0		ok	
+NCPPB 109	current_name_plus_number	"""Xanthomonas axonopodis pv. begoniae (Takimoto 1934) Vauterin et al. 1995"" ""NCPPB 109"""	taxonomy	0		ok	
+NCPPB 109	received_name_plus_number	"""Xanthomonas begoniae Takimoto 1934"" ""NCPPB 109"""	biosample	0		ok	
+NCPPB 109	received_name_plus_number	"""Xanthomonas begoniae Takimoto 1934"" ""NCPPB 109"""	assembly	0		ok	
+NCPPB 109	received_name_plus_number	"""Xanthomonas begoniae Takimoto 1934"" ""NCPPB 109"""	sra	0		ok	
+NCPPB 109	received_name_plus_number	"""Xanthomonas begoniae Takimoto 1934"" ""NCPPB 109"""	taxonomy	0		ok	
+NCPPB 109	alternative_name_plus_number	"""Xanthomonas campestris pv. begoniae (Takimoto 1934) Dye 1978"" ""NCPPB 109"""	biosample	0		ok	
+NCPPB 109	alternative_name_plus_number	"""Xanthomonas campestris pv. begoniae (Takimoto 1934) Dye 1978"" ""NCPPB 109"""	assembly	0		ok	
+NCPPB 109	alternative_name_plus_number	"""Xanthomonas campestris pv. begoniae (Takimoto 1934) Dye 1978"" ""NCPPB 109"""	sra	0		ok	
+NCPPB 109	alternative_name_plus_number	"""Xanthomonas campestris pv. begoniae (Takimoto 1934) Dye 1978"" ""NCPPB 109"""	taxonomy	0		ok	
+NCPPB 113	ncppb_number	NCPPB 113	biosample	1	42178446	ok	
+NCPPB 113	ncppb_number	NCPPB 113	assembly	3	30347231;25811371;618518	ok	
+NCPPB 113	ncppb_number	NCPPB 113	sra	4	34497659;33497411;24422398;21117056	ok	
+NCPPB 113	ncppb_number	NCPPB 113	taxonomy	1	907774	ok	
+NCPPB 113	ncppb_number_compact	NCPPB113	biosample	0		ok	
+NCPPB 113	ncppb_number_compact	NCPPB113	assembly	0		ok	
+NCPPB 113	ncppb_number_compact	NCPPB113	sra	1	34497659	ok	
+NCPPB 113	ncppb_number_compact	NCPPB113	taxonomy	0		ok	
+NCPPB 113	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 113"	biosample	0		ok	
+NCPPB 113	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 113"	assembly	0		ok	
+NCPPB 113	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 113"	sra	0		ok	
+NCPPB 113	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 113"	taxonomy	0		ok	
+NCPPB 113	current_name_plus_number	"""Xanthomonas axonopodis pv. ricini (Yoshi & Takimoto 1928) Vauterin et al. 1995"" ""NCPPB 113"""	biosample	0		ok	
+NCPPB 113	current_name_plus_number	"""Xanthomonas axonopodis pv. ricini (Yoshi & Takimoto 1928) Vauterin et al. 1995"" ""NCPPB 113"""	assembly	0		ok	
+NCPPB 113	current_name_plus_number	"""Xanthomonas axonopodis pv. ricini (Yoshi & Takimoto 1928) Vauterin et al. 1995"" ""NCPPB 113"""	sra	0		ok	
+NCPPB 113	current_name_plus_number	"""Xanthomonas axonopodis pv. ricini (Yoshi & Takimoto 1928) Vauterin et al. 1995"" ""NCPPB 113"""	taxonomy	0		ok	
+NCPPB 113	received_name_plus_number	"""X. ricinicola."" ""NCPPB 113"""	biosample	0		ok	
+NCPPB 113	received_name_plus_number	"""X. ricinicola."" ""NCPPB 113"""	assembly	0		ok	
+NCPPB 113	received_name_plus_number	"""X. ricinicola."" ""NCPPB 113"""	sra	0		ok	
+NCPPB 113	received_name_plus_number	"""X. ricinicola."" ""NCPPB 113"""	taxonomy	0		ok	
+NCPPB 113	alternative_name_plus_number	"""Xanthomonas campestris pv. ricini (Yoshi & T akimoto 1928) Dye 1978"" ""NCPPB 113"""	biosample	0		ok	
+NCPPB 113	alternative_name_plus_number	"""Xanthomonas campestris pv. ricini (Yoshi & T akimoto 1928) Dye 1978"" ""NCPPB 113"""	assembly	0		ok	
+NCPPB 113	alternative_name_plus_number	"""Xanthomonas campestris pv. ricini (Yoshi & T akimoto 1928) Dye 1978"" ""NCPPB 113"""	sra	0		ok	
+NCPPB 113	alternative_name_plus_number	"""Xanthomonas campestris pv. ricini (Yoshi & T akimoto 1928) Dye 1978"" ""NCPPB 113"""	taxonomy	0		ok	
+NCPPB 151	ncppb_number	NCPPB 151	biosample	2	56511362;27356605	ok	
+NCPPB 151	ncppb_number	NCPPB 151	assembly	2	11412441;10484201	ok	
+NCPPB 151	ncppb_number	NCPPB 151	sra	4	43613092;43419122;24422299;21116999	ok	
+NCPPB 151	ncppb_number	NCPPB 151	taxonomy	0		ok	
+NCPPB 151	ncppb_number_compact	NCPPB151	biosample	0		ok	
+NCPPB 151	ncppb_number_compact	NCPPB151	assembly	0		ok	
+NCPPB 151	ncppb_number_compact	NCPPB151	sra	0		ok	
+NCPPB 151	ncppb_number_compact	NCPPB151	taxonomy	0		ok	
+NCPPB 151	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 151"	biosample	0		ok	
+NCPPB 151	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 151"	assembly	0		ok	
+NCPPB 151	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 151"	sra	0		ok	
+NCPPB 151	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 151"	taxonomy	0		ok	
+NCPPB 151	current_name_plus_number	"""Xanthomonas campestris pv. papavericola (Bryan and McWhorter 1930) Dye 1978"" ""NCPPB 151"""	biosample	0		ok	
+NCPPB 151	current_name_plus_number	"""Xanthomonas campestris pv. papavericola (Bryan and McWhorter 1930) Dye 1978"" ""NCPPB 151"""	assembly	0		ok	
+NCPPB 151	current_name_plus_number	"""Xanthomonas campestris pv. papavericola (Bryan and McWhorter 1930) Dye 1978"" ""NCPPB 151"""	sra	0		ok	
+NCPPB 151	current_name_plus_number	"""Xanthomonas campestris pv. papavericola (Bryan and McWhorter 1930) Dye 1978"" ""NCPPB 151"""	taxonomy	0		ok	
+NCPPB 174	ncppb_number	NCPPB 174	biosample	0		ok	
+NCPPB 174	ncppb_number	NCPPB 174	assembly	1	11412471	ok	
+NCPPB 174	ncppb_number	NCPPB 174	sra	2	24422319;21116951	ok	
+NCPPB 174	ncppb_number	NCPPB 174	taxonomy	0		ok	
+NCPPB 174	ncppb_number_compact	NCPPB174	biosample	0		ok	
+NCPPB 174	ncppb_number_compact	NCPPB174	assembly	0		ok	
+NCPPB 174	ncppb_number_compact	NCPPB174	sra	0		ok	
+NCPPB 174	ncppb_number_compact	NCPPB174	taxonomy	0		ok	
+NCPPB 174	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 174"	biosample	0		ok	
+NCPPB 174	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 174"	assembly	0		ok	
+NCPPB 174	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 174"	sra	0		ok	
+NCPPB 174	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 174"	taxonomy	0		ok	
+NCPPB 174	current_name_plus_number	"""Xanthomonas axonopodis pv. vasculorum (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 174"""	biosample	0		ok	
+NCPPB 174	current_name_plus_number	"""Xanthomonas axonopodis pv. vasculorum (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 174"""	assembly	0		ok	
+NCPPB 174	current_name_plus_number	"""Xanthomonas axonopodis pv. vasculorum (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 174"""	sra	0		ok	
+NCPPB 174	current_name_plus_number	"""Xanthomonas axonopodis pv. vasculorum (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 174"""	taxonomy	0		ok	
+NCPPB 174	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 174"""	biosample	0		ok	
+NCPPB 174	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 174"""	assembly	0		ok	
+NCPPB 174	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 174"""	sra	0		ok	
+NCPPB 174	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 174"""	taxonomy	0		ok	
+NCPPB 174	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 174"""	biosample	0		ok	
+NCPPB 174	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 174"""	assembly	0		ok	
+NCPPB 174	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 174"""	sra	0		ok	
+NCPPB 174	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 174"""	taxonomy	0		ok	
+NCPPB 181	ncppb_number	NCPPB 181	biosample	1	27356633	ok	
+NCPPB 181	ncppb_number	NCPPB 181	assembly	3	24239721;208681;47561	ok	
+NCPPB 181	ncppb_number	NCPPB 181	sra	2	24422423;21116958	ok	
+NCPPB 181	ncppb_number	NCPPB 181	taxonomy	0		ok	
+NCPPB 181	ncppb_number_compact	NCPPB181	biosample	0		ok	
+NCPPB 181	ncppb_number_compact	NCPPB181	assembly	0		ok	
+NCPPB 181	ncppb_number_compact	NCPPB181	sra	0		ok	
+NCPPB 181	ncppb_number_compact	NCPPB181	taxonomy	0		ok	
+NCPPB 181	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 181"	biosample	0		ok	
+NCPPB 181	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 181"	assembly	0		ok	
+NCPPB 181	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 181"	sra	0		ok	
+NCPPB 181	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 181"	taxonomy	0		ok	
+NCPPB 181	current_name_plus_number	"""Xanthomonas axonopodis pv. vasculorum (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 181"""	biosample	0		ok	
+NCPPB 181	current_name_plus_number	"""Xanthomonas axonopodis pv. vasculorum (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 181"""	assembly	0		ok	
+NCPPB 181	current_name_plus_number	"""Xanthomonas axonopodis pv. vasculorum (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 181"""	sra	0		ok	
+NCPPB 181	current_name_plus_number	"""Xanthomonas axonopodis pv. vasculorum (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 181"""	taxonomy	0		ok	
+NCPPB 181	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 181"""	biosample	0		ok	
+NCPPB 181	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 181"""	assembly	0		ok	
+NCPPB 181	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 181"""	sra	0		ok	
+NCPPB 181	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 181"""	taxonomy	0		ok	
+NCPPB 181	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 181"""	biosample	0		ok	
+NCPPB 181	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 181"""	assembly	0		ok	
+NCPPB 181	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 181"""	sra	0		ok	
+NCPPB 181	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 181"""	taxonomy	0		ok	
+NCPPB 182	ncppb_number	NCPPB 182	biosample	1	27356634	ok	
+NCPPB 182	ncppb_number	NCPPB 182	assembly	0		ok	
+NCPPB 182	ncppb_number	NCPPB 182	sra	2	24422302;21116959	ok	
+NCPPB 182	ncppb_number	NCPPB 182	taxonomy	0		ok	
+NCPPB 182	ncppb_number_compact	NCPPB182	biosample	0		ok	
+NCPPB 182	ncppb_number_compact	NCPPB182	assembly	0		ok	
+NCPPB 182	ncppb_number_compact	NCPPB182	sra	0		ok	
+NCPPB 182	ncppb_number_compact	NCPPB182	taxonomy	0		ok	
+NCPPB 182	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 182"	biosample	0		ok	
+NCPPB 182	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 182"	assembly	0		ok	
+NCPPB 182	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 182"	sra	0		ok	
+NCPPB 182	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 182"	taxonomy	0		ok	
+NCPPB 182	current_name_plus_number	"""Xanthomonas sp. (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 182"""	biosample	0		ok	
+NCPPB 182	current_name_plus_number	"""Xanthomonas sp. (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 182"""	assembly	0		ok	
+NCPPB 182	current_name_plus_number	"""Xanthomonas sp. (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 182"""	sra	0		ok	
+NCPPB 182	current_name_plus_number	"""Xanthomonas sp. (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 182"""	taxonomy	0		ok	
+NCPPB 182	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 182"""	biosample	0		ok	
+NCPPB 182	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 182"""	assembly	0		ok	
+NCPPB 182	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 182"""	sra	0		ok	
+NCPPB 182	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 182"""	taxonomy	0		ok	
+NCPPB 182	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 182"""	biosample	0		ok	
+NCPPB 182	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 182"""	assembly	0		ok	
+NCPPB 182	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 182"""	sra	0		ok	
+NCPPB 182	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 182"""	taxonomy	0		ok	
+NCPPB 182	other_collection_number	ATCC 13901	biosample	1	31049308	ok	
+NCPPB 182	other_collection_number	ATCC 13901	assembly	1	40148	ok	
+NCPPB 182	other_collection_number	ATCC 13901	sra	0		ok	
+NCPPB 182	other_collection_number	ATCC 13901	taxonomy	0		ok	
+NCPPB 182	other_collection_number	ICMP 305	biosample	0		ok	
+NCPPB 182	other_collection_number	ICMP 305	assembly	5	24151311;24150501;24132291;24023031;1861641	ok	
+NCPPB 182	other_collection_number	ICMP 305	sra	0		ok	
+NCPPB 182	other_collection_number	ICMP 305	taxonomy	0		ok	
+NCPPB 182	other_collection_number	LMG 896	biosample	2	31048386;2935410	ok	
+NCPPB 182	other_collection_number	LMG 896	assembly	0		ok	
+NCPPB 182	other_collection_number	LMG 896	sra	0		ok	
+NCPPB 182	other_collection_number	LMG 896	taxonomy	0		ok	
+NCPPB 184	ncppb_number	NCPPB 184	biosample	1	27356636	ok	
+NCPPB 184	ncppb_number	NCPPB 184	assembly	0		ok	
+NCPPB 184	ncppb_number	NCPPB 184	sra	2	24422340;21117009	ok	
+NCPPB 184	ncppb_number	NCPPB 184	taxonomy	1	2929161	ok	
+NCPPB 184	ncppb_number_compact	NCPPB184	biosample	0		ok	
+NCPPB 184	ncppb_number_compact	NCPPB184	assembly	0		ok	
+NCPPB 184	ncppb_number_compact	NCPPB184	sra	0		ok	
+NCPPB 184	ncppb_number_compact	NCPPB184	taxonomy	0		ok	
+NCPPB 184	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 184"	biosample	0		ok	
+NCPPB 184	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 184"	assembly	0		ok	
+NCPPB 184	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 184"	sra	0		ok	
+NCPPB 184	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 184"	taxonomy	0		ok	
+NCPPB 184	current_name_plus_number	"""Xanthomonas axonopodis pv. vasculorum (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 184"""	biosample	0		ok	
+NCPPB 184	current_name_plus_number	"""Xanthomonas axonopodis pv. vasculorum (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 184"""	assembly	0		ok	
+NCPPB 184	current_name_plus_number	"""Xanthomonas axonopodis pv. vasculorum (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 184"""	sra	0		ok	
+NCPPB 184	current_name_plus_number	"""Xanthomonas axonopodis pv. vasculorum (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 184"""	taxonomy	0		ok	
+NCPPB 184	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 184"""	biosample	0		ok	
+NCPPB 184	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 184"""	assembly	0		ok	
+NCPPB 184	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 184"""	sra	0		ok	
+NCPPB 184	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 184"""	taxonomy	0		ok	
+NCPPB 184	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 184"""	biosample	0		ok	
+NCPPB 184	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 184"""	assembly	0		ok	
+NCPPB 184	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 184"""	sra	0		ok	
+NCPPB 184	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 184"""	taxonomy	0		ok	
+NCPPB 184	other_collection_number	ATCC 13902	biosample	1	31049309	ok	
+NCPPB 184	other_collection_number	ATCC 13902	assembly	0		ok	
+NCPPB 184	other_collection_number	ATCC 13902	sra	0		ok	
+NCPPB 184	other_collection_number	ATCC 13902	taxonomy	0		ok	
+NCPPB 185	ncppb_number	NCPPB 185	biosample	1	27356637	ok	
+NCPPB 185	ncppb_number	NCPPB 185	assembly	0		ok	
+NCPPB 185	ncppb_number	NCPPB 185	sra	3	24422306;21117028;21117010	ok	
+NCPPB 185	ncppb_number	NCPPB 185	taxonomy	0		ok	
+NCPPB 185	ncppb_number_compact	NCPPB185	biosample	0		ok	
+NCPPB 185	ncppb_number_compact	NCPPB185	assembly	0		ok	
+NCPPB 185	ncppb_number_compact	NCPPB185	sra	0		ok	
+NCPPB 185	ncppb_number_compact	NCPPB185	taxonomy	0		ok	
+NCPPB 185	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 185"	biosample	0		ok	
+NCPPB 185	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 185"	assembly	0		ok	
+NCPPB 185	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 185"	sra	0		ok	
+NCPPB 185	collection_name_plus_number	"""National Collection of Plant Pathogenic Bacteria"" 185"	taxonomy	0		ok	
+NCPPB 185	current_name_plus_number	"""Xanthomonas axonopodis pv. vasculorum (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 185"""	biosample	0		ok	
+NCPPB 185	current_name_plus_number	"""Xanthomonas axonopodis pv. vasculorum (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 185"""	assembly	0		ok	
+NCPPB 185	current_name_plus_number	"""Xanthomonas axonopodis pv. vasculorum (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 185"""	sra	0		ok	
+NCPPB 185	current_name_plus_number	"""Xanthomonas axonopodis pv. vasculorum (Cobb 1893) Vauterin et al. 1995"" ""NCPPB 185"""	taxonomy	0		ok	
+NCPPB 185	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 185"""	biosample	0		ok	
+NCPPB 185	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 185"""	assembly	0		ok	
+NCPPB 185	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 185"""	sra	0		ok	
+NCPPB 185	received_name_plus_number	"""Xanthomonas vasculorum (Cobb 1893) Dowson 1939"" ""NCPPB 185"""	taxonomy	0		ok	
+NCPPB 185	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 185"""	biosample	0		ok	
+NCPPB 185	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 185"""	assembly	0		ok	
+NCPPB 185	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 185"""	sra	0		ok	
+NCPPB 185	alternative_name_plus_number	"""Xanthomonas campestris pv. vasculorum (Cobb 1893) Dye 1978"" ""NCPPB 185"""	taxonomy	0		ok	

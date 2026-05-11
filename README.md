@@ -47,11 +47,11 @@ python scripts/01_clean_ncppb_catalogue.py \
 
 python scripts/02_make_search_terms.py \
   --input data/processed/ncppb_xanthomonas_master.csv \
-  --output data/interim/search_terms.csv
+  --output data/interim/search_terms.tsv
 
 python scripts/03_ncbi_smoke_test.py \
-  --input data/interim/search_terms.csv \
+  --input data/interim/search_terms.tsv \
   --limit-strains 10 \
   --email YOUR_EMAIL@example.com \
-  --output results/week2_ncbi_smoke_test.csv
+  --output results/week2_ncbi_smoke_test.tsv
 ```
