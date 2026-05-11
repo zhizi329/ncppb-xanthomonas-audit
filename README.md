@@ -6,10 +6,11 @@ The project asks whether a specific preserved NCPPB strain can be linked to NCBI
 
 ## Current Stage
 
-This repository is currently set up for week 1 work:
+This repository now contains the Week 1 master table and the Week 2 NCBI smoke test:
 
 1. Build the NCPPB Xanthomonas master table.
-2. Generate traceable search terms for each strain.
+2. Generate traceable TSV search terms for each strain.
+3. Run a small NCBI smoke test and save the results as TSV.
 
 ## Project Logic
 
@@ -25,7 +26,6 @@ NCPPB catalogue
 ## Commands
 
 ```bash
-
 # browser results of NCPPB page as HTML:
 python scripts/00_extract_ncppb_html.py \
   --input data/raw/ncppbresult.html \
