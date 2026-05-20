@@ -1,0 +1,39 @@
+ncppb_number	other_references	matched_text	normalized_identifier	prefix	suffix	rule_name	confidence	include_for_search	biosample_query	context
+NCPPB 45	This isolate was isolated by W.J. Dowson					no_identifier_found	none	no		
+NCPPB 101	This isolate is also in the collections; ICMP 204, LMG 673, DSM 18958	ICMP 204	ICMP 204	ICMP	204	known_collection_prefix	high	yes	ICMP[All Fields] AND 204[All Fields]	This isolate is also in the collections; ICMP 204, LMG 673, DSM 18958
+NCPPB 101	This isolate is also in the collections; ICMP 204, LMG 673, DSM 18958	LMG 673	LMG 673	LMG	673	known_collection_prefix	high	yes	LMG[All Fields] AND 673[All Fields]	This isolate is also in the collections; ICMP 204, LMG 673, DSM 18958
+NCPPB 101	This isolate is also in the collections; ICMP 204, LMG 673, DSM 18958	DSM 18958	DSM 18958	DSM	18958	known_collection_prefix	high	yes	DSM[All Fields] AND 18958[All Fields]	This isolate is also in the collections; ICMP 204, LMG 673, DSM 18958
+NCPPB 109						no_identifier_found	none	no		
+NCPPB 113						no_identifier_found	none	no		
+NCPPB 151						no_identifier_found	none	no		
+NCPPB 174						no_identifier_found	none	no		
+NCPPB 181						no_identifier_found	none	no		
+NCPPB 182	This isolate is also in the collections; ATCC 13901, ICMP 305, LMG 896 The source of this isolate was ex M.T. Cook	ATCC 13901	ATCC 13901	ATCC	13901	known_collection_prefix	high	yes	ATCC[All Fields] AND 13901[All Fields]	This isolate is also in the collections; ATCC 13901, ICMP 305, LMG 896 The source of this isolate was ex M.T. Cook
+NCPPB 182	This isolate is also in the collections; ATCC 13901, ICMP 305, LMG 896 The source of this isolate was ex M.T. Cook	ICMP 305	ICMP 305	ICMP	305	known_collection_prefix	high	yes	ICMP[All Fields] AND 305[All Fields]	This isolate is also in the collections; ATCC 13901, ICMP 305, LMG 896 The source of this isolate was ex M.T. Cook
+NCPPB 182	This isolate is also in the collections; ATCC 13901, ICMP 305, LMG 896 The source of this isolate was ex M.T. Cook	LMG 896	LMG 896	LMG	896	known_collection_prefix	high	yes	LMG[All Fields] AND 896[All Fields]	This isolate is also in the collections; ATCC 13901, ICMP 305, LMG 896 The source of this isolate was ex M.T. Cook
+NCPPB 184	This isolate is also in the collections; ATCC 13902, ICPB XV101	ATCC 13902	ATCC 13902	ATCC	13902	known_collection_prefix	high	yes	ATCC[All Fields] AND 13902[All Fields]	This isolate is also in the collections; ATCC 13902, ICPB XV101
+NCPPB 184	This isolate is also in the collections; ATCC 13902, ICPB XV101	ICPB XV101	ICPB XV101	ICPB	XV101	known_collection_prefix	high	yes	ICPB[All Fields] AND XV101[All Fields]	This isolate is also in the collections; ATCC 13902, ICPB XV101
+NCPPB 184	This isolate is also in the collections; ATCC 13902, ICPB XV101	XV101	XV 101	XV	101	contextual_reference_code	medium	yes	XV[All Fields] AND 101[All Fields]	This isolate is also in the collections; ATCC 13902, ICPB XV101
+NCPPB 185						no_identifier_found	none	no		
+NCPPB 186						no_identifier_found	none	no		
+NCPPB 187						no_identifier_found	none	no		
+NCPPB 195						no_identifier_found	none	no		
+NCPPB 196						no_identifier_found	none	no		
+NCPPB 200						no_identifier_found	none	no		
+NCPPB 205						no_identifier_found	none	no		
+NCPPB 206	This isolate is also in the collections; ICMP 326, LMG 8284, CFBP 7162	ICMP 326	ICMP 326	ICMP	326	known_collection_prefix	high	yes	ICMP[All Fields] AND 326[All Fields]	This isolate is also in the collections; ICMP 326, LMG 8284, CFBP 7162
+NCPPB 206	This isolate is also in the collections; ICMP 326, LMG 8284, CFBP 7162	LMG 8284	LMG 8284	LMG	8284	known_collection_prefix	high	yes	LMG[All Fields] AND 8284[All Fields]	This isolate is also in the collections; ICMP 326, LMG 8284, CFBP 7162
+NCPPB 206	This isolate is also in the collections; ICMP 326, LMG 8284, CFBP 7162	CFBP 7162	CFBP 7162	CFBP	7162	known_collection_prefix	high	yes	CFBP[All Fields] AND 7162[All Fields]	This isolate is also in the collections; ICMP 326, LMG 8284, CFBP 7162
+NCPPB 208	This isolate was isolated by G. Orian PC5	PC5	PC 5	PC	5	uppercase_general_code	medium	yes	PC[All Fields] AND 5[All Fields]	This isolate was isolated by G. Orian PC5
+NCPPB 210	This isolate was isolated by M.K. Patel					no_identifier_found	none	no		
+NCPPB 211						no_identifier_found	none	no		
+NCPPB 212						no_identifier_found	none	no		
+NCPPB 220	The source of this isolate was ex C. Elliott					no_identifier_found	none	no		
+NCPPB 226						no_identifier_found	none	no		
+NCPPB 230						no_identifier_found	none	no		
+NCPPB 232						no_identifier_found	none	no		
+NCPPB 240	This isolate was isolated by W.J. Dowson The source of this isolate was .					no_identifier_found	none	no		
+NCPPB 241	The source of this isolate was ex W.J. Dowson					no_identifier_found	none	no		
+NCPPB 243						no_identifier_found	none	no		
+NCPPB 273	The source of this isolate was ex A.C. Brown B67	B67	B 67	B	67	source_context_single_letter_code	low	yes	B[All Fields] AND 67[All Fields]	The source of this isolate was ex A.C. Brown B67
+NCPPB 279	This isolate was isolated by P.O. Wiehe					no_identifier_found	none	no		
