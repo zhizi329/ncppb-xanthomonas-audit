@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import hashlib
 import json
 import os
 import re
@@ -16,12 +17,23 @@ from urllib.parse import urlencode
 from urllib.request import urlopen
 
 
+QUERY_PROFILES = {
+    "current_all_fields",
+    "strict_xanthomonas",
+    "known_collection_strict",
+    "broad_review",
+}
+
 OUTPUT_COLUMNS = [
     "ncppb_number",
     "query_source",
     "normalized_identifier",
     "prefix",
     "suffix",
+    "query_profile",
+    "rule_name",
+    "confidence",
+    "target_organism_filter",
     "search_term",
     "ncbi_db",
     "ncbi_uid",
@@ -34,6 +46,9 @@ OUTPUT_COLUMNS = [
     "infraspecies",
     "attributes",
     "metadata_text",
+    "count_returned",
+    "ids_fetched",
+    "retmax_saturated",
     "id_count_returned",
     "status",
     "error",
@@ -68,14 +83,53 @@ def ncppb_digits(value: str) -> str:
     return match.group(0) if match else ""
 
 
-def ncppb_query(ncppb_number: str) -> tuple[str, str, str, str]:
+def split_identifier_terms(prefix: str, suffix: str) -> list[str]:
+    prefix_terms = [part for part in re.split(r"[^A-Za-z0-9]+", prefix.upper()) if part]
+    suffix_terms = [part for part in re.split(r"[^A-Za-z0-9]+", suffix.upper()) if part]
+    return [*prefix_terms, *suffix_terms]
+
+
+def fielded_and_terms(terms: list[str], field: str) -> str:
+    return " AND ".join(f"{term}[{field}]" for term in terms)
+
+
+def with_organism_filter(term: str, target_organism: str) -> str:
+    organism = clean_text(target_organism)
+    if not organism:
+        return term
+    return f"({term}) AND {organism}[Organism]"
+
+
+def query_from_parts(prefix: str, suffix: str, query_profile: str, target_organism: str) -> str:
+    terms = split_identifier_terms(prefix, suffix)
+    if not terms:
+        return ""
+    if query_profile == "current_all_fields":
+        return fielded_and_terms(terms, "All Fields")
+    if query_profile == "broad_review":
+        return fielded_and_terms(terms, "Text Word")
+    if query_profile in {"strict_xanthomonas", "known_collection_strict"}:
+        return with_organism_filter(fielded_and_terms(terms, "Text Word"), target_organism)
+    raise ValueError(f"Unsupported query profile: {query_profile}")
+
+
+def ncppb_query(ncppb_number: str, query_profile: str, target_organism: str) -> tuple[str, str, str, str]:
     digits = ncppb_digits(ncppb_number)
-    return f"NCPPB {digits}", "NCPPB", digits, f"NCPPB[All Fields] AND {digits}[All Fields]"
+    prefix = "NCPPB"
+    return f"NCPPB {digits}", prefix, digits, query_from_parts(prefix, digits, query_profile, target_organism)
 
 
-def query_specs(rows: list[dict[str, str]], include_ncppb_number: bool) -> list[dict[str, str]]:
+def query_specs(
+    rows: list[dict[str, str]],
+    include_ncppb_number: bool,
+    query_profile: str = "strict_xanthomonas",
+    target_organism: str = "Xanthomonas",
+) -> list[dict[str, str]]:
+    if query_profile not in QUERY_PROFILES:
+        raise ValueError(f"Unsupported query profile: {query_profile}")
+
     specs: list[dict[str, str]] = []
-    seen: set[tuple[str, str]] = set()
+    seen: set[tuple[str, str, str]] = set()
     strain_order: list[str] = []
 
     for row in rows:
@@ -85,8 +139,10 @@ def query_specs(rows: list[dict[str, str]], include_ncppb_number: bool) -> list[
 
     if include_ncppb_number:
         for ncppb_number in strain_order:
-            normalized, prefix, suffix, term = ncppb_query(ncppb_number)
-            key = (ncppb_number, term)
+            normalized, prefix, suffix, term = ncppb_query(ncppb_number, query_profile, target_organism)
+            if not term:
+                continue
+            key = (ncppb_number, query_profile, term)
             if key in seen:
                 continue
             seen.add(key)
@@ -97,6 +153,10 @@ def query_specs(rows: list[dict[str, str]], include_ncppb_number: bool) -> list[
                     "normalized_identifier": normalized,
                     "prefix": prefix,
                     "suffix": suffix,
+                    "query_profile": query_profile,
+                    "rule_name": "ncppb_number",
+                    "confidence": "high",
+                    "target_organism_filter": clean_text(target_organism),
                     "search_term": term,
                 }
             )
@@ -104,11 +164,24 @@ def query_specs(rows: list[dict[str, str]], include_ncppb_number: bool) -> list[
     for row in rows:
         if clean_text(row.get("include_for_search", "")).lower() != "yes":
             continue
+        rule_name = clean_text(row.get("rule_name", ""))
+        confidence = clean_text(row.get("confidence", ""))
+        if query_profile == "known_collection_strict" and not (
+            rule_name == "known_collection_prefix" and confidence == "high"
+        ):
+            continue
+
         ncppb_number = clean_text(row.get("ncppb_number", ""))
-        term = clean_text(row.get("biosample_query", ""))
+        prefix = clean_text(row.get("prefix", ""))
+        suffix = clean_text(row.get("suffix", ""))
+        if query_profile == "current_all_fields":
+            stored_term = clean_text(row.get("biosample_query", ""))
+            term = stored_term if "[All Fields]" in stored_term else query_from_parts(prefix, suffix, query_profile, target_organism)
+        else:
+            term = query_from_parts(prefix, suffix, query_profile, target_organism)
         if not ncppb_number or not term:
             continue
-        key = (ncppb_number, term)
+        key = (ncppb_number, query_profile, term)
         if key in seen:
             continue
         seen.add(key)
@@ -117,8 +190,12 @@ def query_specs(rows: list[dict[str, str]], include_ncppb_number: bool) -> list[
                 "ncppb_number": ncppb_number,
                 "query_source": "other_reference",
                 "normalized_identifier": clean_text(row.get("normalized_identifier", "")),
-                "prefix": clean_text(row.get("prefix", "")),
-                "suffix": clean_text(row.get("suffix", "")),
+                "prefix": prefix,
+                "suffix": suffix,
+                "query_profile": query_profile,
+                "rule_name": rule_name,
+                "confidence": confidence,
+                "target_organism_filter": clean_text(target_organism),
                 "search_term": term,
             }
         )
@@ -127,15 +204,34 @@ def query_specs(rows: list[dict[str, str]], include_ncppb_number: bool) -> list[
 
 
 class EntrezClient:
-    def __init__(self, email: str, api_key: str, delay: float, timeout: float, tool: str) -> None:
+    def __init__(self, email: str, api_key: str, delay: float, timeout: float, tool: str, cache_dir: Path | None = None) -> None:
         self.email = email
         self.api_key = api_key
         self.delay = delay
         self.timeout = timeout
         self.tool = tool
+        self.cache_dir = cache_dir
         self.request_count = 0
+        self.cache_hits = 0
+        if self.cache_dir is not None:
+            self.cache_dir.mkdir(parents=True, exist_ok=True)
+
+    def cache_path(self, endpoint: str, params: dict[str, Any]) -> Path | None:
+        if self.cache_dir is None:
+            return None
+        cache_key = {
+            "endpoint": endpoint,
+            "params": {key: value for key, value in sorted(params.items())},
+        }
+        digest = hashlib.sha256(json.dumps(cache_key, sort_keys=True).encode("utf-8")).hexdigest()
+        return self.cache_dir / f"{digest}.json"
 
     def get_json(self, endpoint: str, params: dict[str, Any]) -> dict[str, Any]:
+        cache_path = self.cache_path(endpoint, params)
+        if cache_path is not None and cache_path.exists():
+            self.cache_hits += 1
+            return json.loads(cache_path.read_text(encoding="utf-8"))
+
         time.sleep(self.delay)
         query = {"tool": self.tool, "retmode": "json", **params}
         if self.email:
@@ -145,7 +241,10 @@ class EntrezClient:
         url = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{endpoint}.fcgi?{urlencode(query)}"
         self.request_count += 1
         with urlopen(url, timeout=self.timeout) as handle:
-            return json.loads(handle.read().decode("utf-8"), strict=False)
+            data = json.loads(handle.read().decode("utf-8"), strict=False)
+        if cache_path is not None:
+            cache_path.write_text(json.dumps(data, sort_keys=True), encoding="utf-8")
+        return data
 
     def esearch_all(self, term: str, retmax: int, max_ids_per_query: int) -> tuple[int, list[str]]:
         ids: list[str] = []
@@ -229,11 +328,21 @@ def flatten_biosample(uid: str, summary: dict[str, Any]) -> dict[str, str]:
     }
 
 
-def no_hit_row(spec: dict[str, str], total_count: int) -> dict[str, str]:
+def count_metadata(total_count: int, ids: list[str], max_ids_per_query: int) -> dict[str, str]:
+    ids_fetched = len(ids)
+    return {
+        "count_returned": str(total_count),
+        "ids_fetched": str(ids_fetched),
+        "retmax_saturated": "yes" if total_count > ids_fetched and ids_fetched >= max_ids_per_query else "no",
+        "id_count_returned": str(total_count),
+    }
+
+
+def no_hit_row(spec: dict[str, str], total_count: int, max_ids_per_query: int) -> dict[str, str]:
     return {
         **spec,
         "ncbi_db": "biosample",
-        "id_count_returned": str(total_count),
+        **count_metadata(total_count, [], max_ids_per_query),
         "status": "no_hit",
         "error": "",
     }
@@ -243,10 +352,28 @@ def error_row(spec: dict[str, str], error: Exception) -> dict[str, str]:
     return {
         **spec,
         "ncbi_db": "biosample",
+        "count_returned": "",
+        "ids_fetched": "",
+        "retmax_saturated": "",
         "id_count_returned": "",
         "status": "error",
         "error": str(error),
     }
+
+
+def output_columns() -> list[str]:
+    return list(OUTPUT_COLUMNS)
+
+
+def completed_query_keys(rows: list[dict[str, str]]) -> set[tuple[str, str, str]]:
+    keys: set[tuple[str, str, str]] = set()
+    for row in rows:
+        ncppb = clean_text(row.get("ncppb_number", ""))
+        profile = clean_text(row.get("query_profile", ""))
+        term = clean_text(row.get("search_term", ""))
+        if ncppb and term:
+            keys.add((ncppb, profile, term))
+    return keys
 
 
 def parse_args() -> argparse.Namespace:
@@ -261,6 +388,14 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--max-ids-per-query", type=int, default=100, help="Maximum IDs fetched per query")
     parser.add_argument("--summary-batch-size", type=int, default=200, help="IDs per ESummary request")
     parser.add_argument("--limit-strains", type=int, default=0, help="Optional first-N strain limit")
+    parser.add_argument("--query-profile", choices=sorted(QUERY_PROFILES), default="strict_xanthomonas")
+    parser.add_argument(
+        "--target-organism",
+        default="Xanthomonas",
+        help="Optional organism filter used by strict profiles; set empty for full-NCPPB batches",
+    )
+    parser.add_argument("--cache-dir", default="", help="Optional local JSON cache directory for NCBI E-utilities")
+    parser.add_argument("--resume", action="store_true", help="Skip query/profile/term combinations already present in output")
     parser.add_argument(
         "--no-ncppb-number",
         action="store_true",
@@ -288,16 +423,28 @@ def main() -> None:
         allowed_set = set(allowed)
         identifier_rows = [row for row in identifier_rows if row.get("ncppb_number", "") in allowed_set]
 
-    specs = query_specs(identifier_rows, include_ncppb_number=not args.no_ncppb_number)
+    specs = query_specs(
+        identifier_rows,
+        include_ncppb_number=not args.no_ncppb_number,
+        query_profile=args.query_profile,
+        target_organism=args.target_organism,
+    )
+
+    rows: list[dict[str, Any]] = []
+    if args.resume and output_path.exists():
+        rows = read_table(output_path)
+        done = completed_query_keys(rows)
+        specs = [spec for spec in specs if (spec["ncppb_number"], spec["query_profile"], spec["search_term"]) not in done]
+
     client = EntrezClient(
         email=args.email,
         api_key=args.api_key or os.environ.get("NCBI_API_KEY", ""),
         delay=args.delay,
         timeout=args.timeout,
         tool="ncppb_biosample_identifier_harvest",
+        cache_dir=Path(args.cache_dir) if args.cache_dir else None,
     )
 
-    rows: list[dict[str, Any]] = []
     for spec in specs:
         try:
             total_count, ids = client.esearch_all(
@@ -306,15 +453,16 @@ def main() -> None:
                 max_ids_per_query=args.max_ids_per_query,
             )
             if not ids:
-                rows.append(no_hit_row(spec, total_count))
+                rows.append(no_hit_row(spec, total_count, args.max_ids_per_query))
                 continue
             summaries = client.esummary(ids, args.summary_batch_size)
+            metadata = count_metadata(total_count, ids, args.max_ids_per_query)
             for uid in ids:
                 rows.append(
                     {
                         **spec,
                         **flatten_biosample(uid, summaries.get(uid, {})),
-                        "id_count_returned": str(total_count),
+                        **metadata,
                         "status": "ok",
                         "error": "",
                     }
@@ -323,7 +471,10 @@ def main() -> None:
             rows.append(error_row(spec, exc))
 
     write_table(output_path, rows)
-    print(f"Wrote {len(rows)} raw BioSample rows to {output_path}; {client.request_count} NCBI requests")
+    print(
+        f"Wrote {len(rows)} raw BioSample rows to {output_path}; "
+        f"{client.request_count} NCBI requests; {client.cache_hits} cache hits"
+    )
 
 
 if __name__ == "__main__":

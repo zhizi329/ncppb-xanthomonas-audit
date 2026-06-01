@@ -1,0 +1,9 @@
+metric	value
+all_fields_raw_rows	33829
+prior_accepted_rows	612
+clear_noise_rows	31673
+query_no_hit_rows	1242
+supports_review_rows	305
+non_target_organism_rows	31827
+target_organism_rows	760
+query_terms_present_separately_rows	30707

@@ -1,0 +1,9 @@
+section	finding	value	evidence_table	reporting_sentence
+current_result	legacy_all_fields_raw_rows	33829	rejected_biosample_metadata_overview.tsv	旧 All Fields BioSample harvest 共得到 33,829 rows，可作为旧策略的完整复现基线。
+current_result	accepted_rows_preserved	612	rejected_biosample_metadata_overview.tsv	当前严格筛选已确认 612 accepted BioSample rows，这些是下一轮 strict query 需要保留的召回底线。
+rejected_burden	non_accepted_rows	33217	rejected_biosample_metadata_overview.tsv	旧策略产生 33,217 non-accepted rows，需要用 rejected-result 分析反向优化检索参数。
+rejected_burden	non_target_organism_rows	31827	rejected_biosample_metadata_overview.tsv	31,827 个 non-accepted rows 是 non-Xanthomonas organism，说明主要问题是假阳性而不是人工审核不足。
+all_fields_failure_mode	query_terms_present_separately_rows	30707	rejected_by_identifier_evidence.tsv	30,707 个 rows 只是 prefix 与 number 在记录中分散出现，不构成 exact strain identifier match。
+metadata_location	top_rejected_metadata_fields	metadata_text=31975; attributes=28738; identifiers=6760; title=6665; infraspecies=3000	rejected_by_metadata_field.tsv	rejected query terms 主要出现在 metadata_text、attributes、identifiers、title 和 infraspecies，而这些字段中的命中并不都能证明 strain identity。
+manual_review_pool	target_review_and_no_hit_rows	target_non_accepted=148; no_hit=1242	rejected_biosample_metadata_overview.tsv	148 个 target-organism non-accepted rows 和 1,242 个 no-hit rows 应保留为 manual review/rescue 池，而不是直接作为 accepted。
+search_change	primary_script_recommendation	Keep current_all_fields only for reproducibility; make strict_xanthomonas or query-plan generated strict profile the default before the next full rerun.; Use the BioSample database plus documented fields: [Text Word], [Organism], [Attribute], [Title], [Accession].	search_script_modification_recommendations.tsv	下一轮默认检索应使用 Text Word + Organism 的 strict profile，不应把 [All Fields] 机械替换成 [BioSample]。

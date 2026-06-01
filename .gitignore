@@ -1,14 +1,24 @@
-.venv/
+# Python/runtime byproducts
 __pycache__/
-*.pyc
-.ipynb_checkpoints/
-.env
-.Rhistory
-**/.Rhistory
-.RData
-.Rproj.user/
-logs/*.log
-results/*.png
-results/*.pdf
-*.tmp
-.DS_Store
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local temporary analysis and review scratch space
+analysis_tmp/
+review_packages/
+
+# Browser/session-derived catalogue pages; keep curated CSV/import notes instead.
+data/raw/*.html
+
+# Large full-harvest BioSample raw/review tables.
+results/refactored_pipeline/03_biosample_raw_all.tsv
+results/refactored_pipeline/04_biosample_review_all.tsv
+results/refactored_pipeline/04_biosample_matches_all.tsv
+
+# Large or provisional intermediate workspaces.
+data/interim/biosample_identifier_workflow/
+results/llm_audit/

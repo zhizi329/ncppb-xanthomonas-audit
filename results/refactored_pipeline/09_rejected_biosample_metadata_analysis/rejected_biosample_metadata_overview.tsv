@@ -1,0 +1,12 @@
+metric	value	interpretation
+all_fields_raw_rows	33829	Rows produced by the legacy All Fields BioSample harvest.
+all_fields_non_accepted_rows	33217	Rows not accepted by current strict BioSample filtering.
+all_fields_prior_accepted_rows	612	Confirmed accepted rows used as the recall floor for query redesign.
+non_target_organism_non_accepted_rows	31827	Main false-positive burden that fielded queries should reduce.
+target_organism_non_accepted_rows	148	Rows to keep available for review/rescue, not automatic acceptance.
+query_no_hit_rows	1242	No-hit rows retained for per-strain search coverage accounting.
+query_terms_present_separately_rows	30707	Typical All Fields artefact: prefix and number appear somewhere, but not as one identifier.
+top_non_accepted_hit_field	metadata_text:31975	Most common metadata field where rejected query terms were observed.
+top_attribute_key_in_non_accepted_rows	collection_date:18150	Most common BioSample attribute key among rejected rows.
+non_target_rows_with_ncppb_like_metadata	109	Non-target records can still contain NCPPB-like text; organism and conflict checks must remain after retrieval.
+non_target_rows_with_conflicting_ncppb_number	101	These explain why query hit alone cannot prove strain identity.

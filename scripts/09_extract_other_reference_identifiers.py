@@ -176,7 +176,7 @@ def query_from_identifier(prefix: str, suffix: str) -> str:
     prefix_terms = [part for part in re.split(r"[^A-Za-z0-9]+", prefix.upper()) if part]
     suffix_terms = [part for part in re.split(r"[^A-Za-z0-9]+", suffix.upper()) if part]
     terms = [*prefix_terms, *suffix_terms]
-    return " AND ".join(f"{term}[All Fields]" for term in terms)
+    return " AND ".join(f"{term}[Text Word]" for term in terms)
 
 
 def context_window(text: str, start: int, end: int, radius: int = 80) -> str:
@@ -204,22 +204,22 @@ def classify_candidate(
     known_prefix: bool,
 ) -> tuple[str, str, str]:
     if len(prefix) == 1 and (has_trigger(context, SOURCE_TRIGGERS) or has_trigger(context, CONTEXT_TRIGGERS)):
-        return "source_context_single_letter_code", "low", "yes"
+        return "source_context_single_letter_code", "low", "no"
     if prefix == "NO" and has_trigger(context, SOURCE_TRIGGERS):
-        return "source_context_number_label", "low", "yes"
+        return "source_context_number_label", "low", "no"
     if prefix in STOPWORD_PREFIXES:
         return "stopword_prefix", "reject", "no"
     if known_prefix:
         return "known_collection_prefix", "high", "yes"
     if has_initials_before_prefix(context, raw_prefix, matched_text) and len(prefix) > 1:
-        return "person_or_local_reference_code", "low", "yes"
+        return "person_or_local_reference_code", "low", "no"
     if has_trigger(context, CONTEXT_TRIGGERS):
         return "contextual_reference_code", "medium", "yes"
     if raw_prefix.isupper() and len(prefix) >= 2:
         return "uppercase_general_code", "medium", "yes"
     if len(prefix) == 1:
-        return "single_letter_code", "low", "yes"
-    return "general_code_candidate", "low", "yes"
+        return "single_letter_code", "low", "no"
+    return "general_code_candidate", "low", "no"
 
 
 def make_candidate(
