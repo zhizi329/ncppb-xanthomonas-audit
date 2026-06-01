@@ -21,7 +21,7 @@ Current full-scale local outputs include:
 - an 898-row strain review table with 352 confirmed BioSample matches, 40 manual-review cases, and 506 strains with no confirmed BioSample match yet;
 - compact rejected-result analysis tables showing that legacy `[All Fields]` queries produced many non-target hits.
 
-These results are still pre-final. The assisted manual review table is a triage table, not the final human-reviewed result set.
+These results are still pre-final. Manual inspection of selected live NCBI BioSample pages is still in progress, so no final manually reviewed table is included yet.
 
 ## Main Workflow
 
@@ -70,11 +70,8 @@ python scripts/11_filter_biosample_raw.py \
 
 Start with:
 
-- `docs/github_progress_report_en.md`
-- `docs/current_progress_rejected_biosample_analysis.md`
 - `docs/search_result_review_898_notes.md`
-- `docs/current_workflow_deep_dive_and_completion_plan.md`
 - `docs/biosample_raw_data_audit_strategy.md`
-- `docs/ncppb_audit_framework_design.md`
-
+- `docs/decision_rules.md`
+- `docs/data_dictionary.md`
 

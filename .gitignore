@@ -10,6 +10,7 @@ venv/
 # Local temporary analysis and review scratch space
 analysis_tmp/
 review_packages/
+data/interim/
 
 # Browser/session-derived catalogue pages; keep curated CSV/import notes instead.
 data/raw/*.html
@@ -22,3 +23,28 @@ results/refactored_pipeline/04_biosample_matches_all.tsv
 # Large or provisional intermediate workspaces.
 data/interim/biosample_identifier_workflow/
 results/llm_audit/
+
+# Local legacy/pilot result files that are not part of the supervisor review view.
+results/week2_ncbi_*.tsv
+results/week3_ncbi_*.tsv
+results/refactored_pipeline/01_other_references.tsv
+results/refactored_pipeline/02_llm_coverage_check.tsv
+results/refactored_pipeline/02_other_reference_identifiers.tsv
+results/refactored_pipeline/04_biosample_*_30_from_existing_raw.tsv
+results/refactored_pipeline/05_linked_records*.tsv
+results/refactored_pipeline/08_assisted_manual_biosample_review.tsv
+results/refactored_pipeline/09_rejected_biosample_metadata_analysis/rejected_by_biosample_attribute.tsv
+
+# Local planning drafts not needed on the GitHub review page.
+docs/week1_*.md
+docs/week2_*.md
+docs/week3/
+docs/week3_report.md
+docs/week3_search_identifierl_details.md
+docs/search_identifierl_details.md
+docs/assisted_manual_review_and_all_fields_analysis.md
+docs/current_biosample_workflow_summary.md
+docs/current_workflow_deep_dive_and_completion_plan.md
+docs/github_upload_review_manifest.md
+docs/ncppb_audit_framework_design.md
+docs/project_management_architecture_and_database_matching_roadmap.md
