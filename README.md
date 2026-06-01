@@ -77,15 +77,4 @@ Start with:
 - `docs/biosample_raw_data_audit_strategy.md`
 - `docs/ncppb_audit_framework_design.md`
 
-## Tests
 
-```bash
-python3 -m py_compile scripts/*.py
-python3 -m unittest tests.test_ncbi_precision
-```
-
-NCBI live harvests should be run manually with cache/resume support. Unit tests should remain no-network fixture tests.
-
-## Data Publication Note
-
-Large full-harvest raw BioSample tables and temporary analysis directories are excluded from GitHub. The repository should keep compact report tables and reproducible scripts, while large raw rerun outputs should remain local or be released separately with an explicit data policy.
