@@ -65,37 +65,6 @@ python scripts/11_filter_biosample_raw.py \
   --review-output results/refactored_pipeline/04_biosample_review_all.tsv
 ```
 
-## Rejected-Result Analysis
-
-The initial broad BioSample harvest used `[All Fields]` queries for recall. Rejected-result analysis showed that this strategy returned many false positives, especially from short local/person/source codes and records where query terms appeared separately in metadata.
-
-The recommended default search pattern is now:
-
-```text
-(NCPPB[Text Word] AND 45[Text Word]) AND Xanthomonas[Organism]
-```
-
-Trusted other collection identifiers should use the same fielded pattern, for example:
-
-```text
-(ICMP[Text Word] AND 204[Text Word]) AND Xanthomonas[Organism]
-```
-
-Key analysis scripts:
-
-```bash
-python scripts/14_analyze_biosample_rejections.py
-python scripts/15_audit_biosample_raw_candidates.py
-python scripts/19_analyze_rejected_all_fields_keywords.py
-python scripts/20_analyze_rejected_biosample_metadata.py
-```
-
-Compact report tables are in:
-
-```text
-results/refactored_pipeline/09_rejected_biosample_metadata_analysis/
-results/refactored_pipeline/10_all_fields_keyword_analysis/
-```
 
 ## Documentation
 
