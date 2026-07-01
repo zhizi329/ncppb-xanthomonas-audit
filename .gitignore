@@ -4,6 +4,7 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+.cache/
 .venv/
 venv/
 
@@ -27,6 +28,7 @@ results/llm_audit/
 # Local legacy/pilot result files that are not part of the supervisor review view.
 results/week2_ncbi_*.tsv
 results/week3_ncbi_*.tsv
+results/pilot_integrated_pipeline/
 results/refactored_pipeline/01_other_references.tsv
 results/refactored_pipeline/02_llm_coverage_check.tsv
 results/refactored_pipeline/02_other_reference_identifiers.tsv

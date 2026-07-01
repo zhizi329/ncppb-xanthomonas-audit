@@ -1,0 +1,134 @@
+{
+  "counts": {
+    "bioproject_mapping_rows": 1377,
+    "biosample_match_decisions": 874,
+    "catalogue_strains": 897,
+    "identifiers": 3144,
+    "linked_ncbi_records": 2403,
+    "other_reference_clauses": 1585,
+    "parser_review_rows": 18,
+    "phylogeny_input_rows": 897,
+    "query_plan_rows": 1376,
+    "sequence_resource_rows": 3009,
+    "supervisor_rows": 897
+  },
+  "outputs": {
+    "bioproject_mapping.tsv": {
+      "bytes": 394045,
+      "sha256": "eaf64386dee8c4fae0be6dcba1de87bab920cc99415fdd476ea49ce0730e18db"
+    },
+    "biosample_candidates.tsv": {
+      "bytes": 837426,
+      "sha256": "d5c206950c46be9a6b71191ad1f0ffe461f25446ba20ffd7f333ea78c8b64748"
+    },
+    "biosample_match_decisions.tsv": {
+      "bytes": 259321,
+      "sha256": "9785e855f51ca9ca3fc6cac23308ed26276f3e4aa13bb85a0874ac1e4701827d"
+    },
+    "catalogue_snapshot_diff.tsv": {
+      "bytes": 293528,
+      "sha256": "039c6f3cfc8196def96a96c3016facea53277a5494cd11b64e861b6292285d19"
+    },
+    "catalogue_strains.tsv": {
+      "bytes": 323124,
+      "sha256": "007003e5546f7116416c53177c6624b33a94ef64e326adefab795670553961e4"
+    },
+    "linked_ncbi_records.tsv": {
+      "bytes": 6222087,
+      "sha256": "445da3ad7a2f793de4beb92baeed514870e1398f17a30ca1d793afcbfc6cbb16"
+    },
+    "manual_review_queue.tsv": {
+      "bytes": 36728,
+      "sha256": "a1ca0165beef9e09cc2fa8b1b5e2cb460f84d1df5a4a89207f2c532f9a16803a"
+    },
+    "ncbi_query_execution.tsv": {
+      "bytes": 123656,
+      "sha256": "b961b04ead47798fecf6ddd214f23b393094ba5db419b9f45dfbda4b8d544456"
+    },
+    "ncbi_query_plan.tsv": {
+      "bytes": 520062,
+      "sha256": "f6b7de435da1c4dd29415964b063f664fa9fe302fa1185641aae52bcaaeb0ab3"
+    },
+    "other_reference_clauses.tsv": {
+      "bytes": 245298,
+      "sha256": "4dcbe2be51ca80b805b3df6b1295e23d58c9ff9b2a8b6af23f5b49a13253dc03"
+    },
+    "parser_review_queue.tsv": {
+      "bytes": 1889,
+      "sha256": "aa1d9c160badc8ec323c484f1b54388d736c36fc02dc7ec0a98cbad916ca5deb"
+    },
+    "phylogeny_input_manifest.tsv": {
+      "bytes": 261786,
+      "sha256": "df2897726339f11769a55ec04b88c2110711afd593e915d4bb4c21c9e11ecf09"
+    },
+    "run_summary.md": {
+      "bytes": 1776,
+      "sha256": "9bc3a8e983f4cfeb10371eefabb683dec835bbfe191caefbfaad66c676377398"
+    },
+    "sequence_resource_manifest.tsv": {
+      "bytes": 1063770,
+      "sha256": "fc19a840feb9441fde46f44a3ed9d8b9849919718799e93b0cde63421fed2688"
+    },
+    "sequence_retrieval_summary.md": {
+      "bytes": 705,
+      "sha256": "252029d6a87f40be53176504b7f1a1f2573e7c8ce6a98de769980e281de7c7d9"
+    },
+    "strain_identifiers.tsv": {
+      "bytes": 526303,
+      "sha256": "07715bce34c3674ce2db9192930fabbab7ac84f56adecd2572a31f87688f7be8"
+    },
+    "supervisor_sequence_availability.tsv": {
+      "bytes": 248065,
+      "sha256": "1be1b19bc8c66338a5eb4056381f1c74f1c6d5bf1a14925c2ab0f363af000558"
+    },
+    "unmapped_ncppb_prefix_candidates.tsv": {
+      "bytes": 300105,
+      "sha256": "0430d75909dbdebe92aeef4aa19ae371397343300999026763f11973b8bc8626"
+    },
+    "unmapped_other_prefix_candidates.tsv": {
+      "bytes": 1145836,
+      "sha256": "09fba909a96db635593d597afdcd77d40cf6417a07e5d8bbaa059f7e0922d18c"
+    },
+    "v1_regression_recall_audit.tsv": {
+      "bytes": 84346,
+      "sha256": "6eb6553fa638fba92e5cd9ba23780b2375ed6cf8a64f3e79b8fbee6ff1921095"
+    },
+    "v1_v2_accession_changes.tsv": {
+      "bytes": 7331,
+      "sha256": "2a51ed6e4f05168a58be3407ff4f90b944b6420c56488ff521ec798676a3de0d"
+    },
+    "v1_v2_change_analysis.md": {
+      "bytes": 949,
+      "sha256": "bc5b097f2dfbdefdbe97f17381e7a68db8b0185f0bbf1fe2e32c20fe935cbb48"
+    },
+    "v1_v2_comparison.tsv": {
+      "bytes": 139752,
+      "sha256": "0d6267fabd4a2f2ec809c2836e9e2fdfae167550914543bb3bd899b14d88a1d7"
+    }
+  },
+  "parameters": {
+    "api_key_recorded": false,
+    "cache_dir": "v2_1",
+    "email_recorded": true,
+    "input_hash_recorded": false,
+    "limit_strains": 0,
+    "offline_cache_only": true,
+    "query_plan_sha256": "f6b7de435da1c4dd29415964b063f664fa9fe302fa1185641aae52bcaaeb0ab3",
+    "retmax": 100,
+    "run_ncbi": true,
+    "v1_master": "ncppb_xanthomonas_master.csv",
+    "v1_sequence_table": "11_supervisor_sequence_availability.tsv"
+  },
+  "run_timestamp_utc": "2026-07-01T12:40:25.265405+00:00",
+  "runtime": {
+    "platform": "macOS-26.5-arm64-arm-64bit",
+    "python": "3.9.6 (default, Apr 17 2026, 18:15:52) \n[Clang 21.0.0 (clang-2100.1.1.101)]"
+  },
+  "schema_version": 1,
+  "source_html": "National Collection of Plant Pathogenic Bacteria Catalogue.html",
+  "source_html_bytes": 2849677,
+  "source_html_hash_recorded": false,
+  "source_html_sha256": "",
+  "stage_status": "ncbi_complete",
+  "workflow_version": "2.1.0-dev"
+}
