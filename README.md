@@ -6,7 +6,7 @@ The project asks whether a specific preserved NCPPB strain can be linked to publ
 
 ## V2.1 open-source quick start
 
-Supply the NCPPB HTML explicitly. No fixed HTML hash or historical V1 table is required:
+Supply the NCPPB HTML explicitly:
 
 ```bash
 python3 scripts/run_ncppb_audit_v2.py \
@@ -17,7 +17,7 @@ python3 scripts/run_ncppb_audit_v2.py \
   --outdir results/my_v2_1_run
 ```
 
-The API key prompt is hidden and optional; press Enter to continue without a key. The key is never saved. HTML SHA-256 recording is disabled by default and is never used to accept or reject an uploaded file. Researchers who want a provenance fingerprint may opt in with `--record-input-hash`.
+The API key prompt is hidden and optional; press Enter to continue without a key.
 
 The primary final table is `supervisor_sequence_availability.tsv`. The run also produces auditable BioSample decisions, NCBI query execution records, linked Assembly/SRA/BioProject metadata, download commands, and one preferred phylogeny input per current NCPPB strain. See `docs/v2_1_open_source_cli.md`.
 
@@ -67,9 +67,7 @@ exact local strain-evidence filtering, and raw-candidate auditing. The
 derived from rejected-result analysis; it has not yet been executed across all
 898 strains. See `docs/technical_method_walkthrough_zh.md` for the distinction.
 
-## Current Supervisor-Facing Outputs
-
-The current interim deliverables are:
+##The current interim deliverables are:
 
 - `results/refactored_pipeline/07_search_result_review_898.tsv`
 - `results/refactored_pipeline/11_supervisor_sequence_availability.tsv`
@@ -93,30 +91,7 @@ The sequence availability table also includes NCBI BioSample organism/taxid
 metadata and `taxonomic_consistency_status` / `taxonomic_consistency_note`
 columns to flag where NCPPB and NCBI names appear consistent or need review.
 
-## Consolidated Workflow
-
-Use the unnumbered wrapper for the deliverable workflow:
-
-```bash
-NCBI_EMAIL=YOUR_EMAIL@example.com python3 -B scripts/run_ncppb_audit.py \
-  --outdir results/final_pipeline \
-  --resume
-```
-
-For a small no-network check of the local catalogue and identifier-extraction stages:
-
-```bash
-python3 -B scripts/run_ncppb_audit.py \
-  --steps other_references,identifiers \
-  --outdir results/pilot_integrated_pipeline \
-  --limit-strains 30
-```
-
-For sequence-metadata regeneration from an existing local NCBI cache, add
-`--offline-cache-only`. The command will fail on a cache miss rather than
-querying NCBI.
-
-The wrapper writes these final-stage outputs:
+## Workflow outputs:
 
 - `other_references.tsv`
 - `other_reference_identifiers.tsv`
@@ -133,22 +108,6 @@ The wrapper writes these final-stage outputs:
 - `summary_figures/`
 - `validation_report.txt`
 
-The current local supervisor workbook is:
-
-- `outputs/ncppb_supervisor_package/NCPPB_Xanthomonas_sequence_availability_interim.xlsx`
-
-To validate the current interim outputs without requiring all manual review to
-be finished:
-
-```bash
-python3 -B scripts/24_validate_audit_outputs.py \
-  --sequence-table results/refactored_pipeline/11_supervisor_sequence_availability.tsv \
-  --manual-review-table results/refactored_pipeline/12_manual_review_queue.tsv \
-  --final-table results/refactored_pipeline/13_final_audit_table.tsv
-```
-
-For the final frozen submission, add `--require-frozen`; this should only pass
-after all manual-review decisions have been filled.
 
 ## Pipeline Logic
 
@@ -165,18 +124,3 @@ Saved NCPPB catalogue HTML/CSV
   -> expand confirmed BioSamples to linked NCBI records
   -> build final audit draft, manual-review queue, and summary figures
 ```
-
-## Documentation
-
-Start with:
-
-- `docs/technical_method_walkthrough_zh.md` (how the current results were technically derived, with worked strains)
-- `docs/workflow_logic_and_reproducibility_zh.md` (Chinese step-by-step logic and exact replay guide)
-- `docs/completion_audit.md`
-- `docs/deliverable_manifest.md`
-- `docs/final_pipeline_tasks.md`
-- `docs/manual_review_protocol.md`
-- `docs/submission_checklist.md`
-- `docs/decision_rules.md`
-- `docs/data_dictionary.md`
-- `scripts/README.md`
