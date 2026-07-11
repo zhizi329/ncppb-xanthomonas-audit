@@ -241,8 +241,7 @@ def command_select(args: argparse.Namespace) -> None:
 def command_write_download(args: argparse.Namespace) -> None:
     rows = read_tsv(args.selected)
     project_root = Path(__file__).resolve().parents[1]
-    core_bin = project_root / ".cache/conda-envs/srr_phylo_core/bin"
-    snp_bin = project_root / ".cache/conda-envs/srr_phylo_snp/bin"
+    phylogeny_bin = project_root / ".cache/conda-envs/phylogeny/bin"
     raw = args.outdir / "fastq_raw"
     trimmed = args.outdir / "fastq_fastp"
     reports = args.outdir / "fastp_reports"
@@ -250,7 +249,7 @@ def command_write_download(args: argparse.Namespace) -> None:
         "#!/usr/bin/env bash", "set -euo pipefail",
         f"OUTDIR={shlex.quote(str(args.outdir))}",
         f"RAW={shlex.quote(str(raw))}", f"TRIMMED={shlex.quote(str(trimmed))}", f"REPORTS={shlex.quote(str(reports))}",
-        f"export PATH={shlex.quote(str(core_bin))}:{shlex.quote(str(snp_bin))}:\"$PATH\"",
+        f"export PATH={shlex.quote(str(phylogeny_bin))}:\"$PATH\"",
         "mkdir -p \"$RAW\" \"$TRIMMED\" \"$REPORTS\"",
         "THREADS=${THREADS:-4}",
         f"JOBS=${{JOBS:-{args.jobs}}}",
@@ -303,8 +302,7 @@ def command_write_download(args: argparse.Namespace) -> None:
 def command_write_snp(args: argparse.Namespace) -> None:
     rows = read_tsv(args.selected)
     project_root = Path(__file__).resolve().parents[1]
-    core_bin = project_root / ".cache/conda-envs/srr_phylo_core/bin"
-    snp_bin = project_root / ".cache/conda-envs/srr_phylo_snp/bin"
+    phylogeny_bin = project_root / ".cache/conda-envs/phylogeny/bin"
     out = args.outdir
     raw = out / "fastq_raw"
     trimmed = out / "fastq_fastp"
@@ -316,7 +314,7 @@ def command_write_snp(args: argparse.Namespace) -> None:
     lines = [
         "#!/usr/bin/env bash", "set -euo pipefail",
         f"OUTDIR={shlex.quote(str(out))}", f"REFS={shlex.quote(str(refs))}", f"MAP={shlex.quote(str(mappings))}", f"CONS={shlex.quote(str(consensus))}", f"ALN={shlex.quote(str(alignments))}", f"TREES={shlex.quote(str(trees))}",
-        f"export PATH={shlex.quote(str(core_bin))}:{shlex.quote(str(snp_bin))}:\"$PATH\"",
+        f"export PATH={shlex.quote(str(phylogeny_bin))}:\"$PATH\"",
         "THREADS=${THREADS:-4}", "JOBS=${JOBS:-3}", "jobs=0", "mkdir -p \"$MAP\" \"$CONS\" \"$ALN\" \"$TREES\"",
     ]
     for row in rows:

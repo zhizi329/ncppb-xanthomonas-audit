@@ -57,11 +57,23 @@ runs/audit/       frozen authoritative audit run
 runs/phylogeny/   accession/QC/tree-only smoke-test summary
 docs/             concise method and output documentation
 private_inputs/   local proposal and saved NCPPB HTML; ignored by Git
+work -> ../xanthomonas-data
+                  local FASTQ/BAM analysis workspace outside the repository
 ```
 
-FASTQ, BAM, environments, caches, old workbooks and superseded runs are intentionally not retained. Public reads are reconstructed from accession, ENA URL and MD5 metadata.
+FASTQ and BAM live physically in the sibling `../xanthomonas-data/` directory; ignored `work` is only a local symlink. They are never committed to GitHub and are not touched when the repository itself is cleaned or rebuilt. Public reads can be verified or reconstructed from accession, ENA URL and MD5 metadata with `scripts/recover_three_species_fastq.py`.
+
+Set `XANTHOMONAS_DATA_ROOT` only when the external data directory should live somewhere else.
 
 ## Phylogeny smoke test
+
+Create the ignored local analysis environment from the tracked specification:
+
+```bash
+.cache/bin/micromamba create -y -f environment.yml -p .cache/conda-envs/phylogeny
+.cache/bin/micromamba run -p .cache/conda-envs/phylogeny \
+  python scripts/recover_three_species_fastq.py --jobs 8
+```
 
 `runs/phylogeny/2026-07-10_three-species-snp-smoke-summary/` retains only:
 

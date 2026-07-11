@@ -10,6 +10,7 @@ venv/
 # Private inputs and rebuildable working runs
 private_inputs/
 .cache/
+work
 runs/audit/work/
 
 # Large biological payloads must be represented by accession + checksum.
