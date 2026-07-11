@@ -1,0 +1,19 @@
+ncppb_number	review_type	risk_level	raw_text	proposed_value	review_reason	reviewer_decision	reviewer_notes
+NCPPB 582	identifier_collision	high	LMG 867	LMG867	identifier_maps_to:NCPPB 1758; NCPPB 582		
+NCPPB 1452	identifier_collision	high	ICMP 5852	ICMP5852	identifier_maps_to:NCPPB 1452; NCPPB 2977		
+NCPPB 1452	identifier_collision	high	LMG 872	LMG872	identifier_maps_to:NCPPB 1452; NCPPB 2977		
+NCPPB 1452	identifier_collision	high	ATCC 23577	ATCC23577	identifier_maps_to:NCPPB 1452; NCPPB 2977		
+NCPPB 1585	identifier_collision	high	ICMP 5743	ICMP5743	identifier_maps_to:NCPPB 1585; NCPPB 1932		
+NCPPB 1585	identifier_collision	high	ATCC 49072	ATCC49072	identifier_maps_to:NCPPB 1585; NCPPB 1932		
+NCPPB 1758	identifier_collision	high	LMG 867	LMG867	identifier_maps_to:NCPPB 1758; NCPPB 582		
+NCPPB 1932	identifier_collision	high	ICMP 5743	ICMP5743	identifier_maps_to:NCPPB 1585; NCPPB 1932		
+NCPPB 1932	identifier_collision	high	ATCC 49072	ATCC49072	identifier_maps_to:NCPPB 1585; NCPPB 1932		
+NCPPB 2977	identifier_collision	high	ATCC 23577	ATCC23577	identifier_maps_to:NCPPB 1452; NCPPB 2977		
+NCPPB 2977	identifier_collision	high	LMG 872	LMG872	identifier_maps_to:NCPPB 1452; NCPPB 2977		
+NCPPB 2977	identifier_collision	high	ICMP 5852	ICMP5852	identifier_maps_to:NCPPB 1452; NCPPB 2977		
+NCPPB 3061	identifier_collision	high	R662	R662	identifier_maps_to:NCPPB 3061; NCPPB 3192		
+NCPPB 3192	identifier_collision	high	R662	R662	identifier_maps_to:NCPPB 3061; NCPPB 3192		
+NCPPB 3560	identifier_collision	high	ICMP 9261	ICMP9261	identifier_maps_to:NCPPB 3560; NCPPB 4351		
+NCPPB 4351	identifier_collision	high	ICMP 9261	ICMP9261	identifier_maps_to:NCPPB 3560; NCPPB 4351		
+NCPPB 4450	identifier_collision	high	A4832/1	A48321	identifier_maps_to:NCPPB 4450; NCPPB 4451		
+NCPPB 4451	identifier_collision	high	A4832/1	A48321	identifier_maps_to:NCPPB 4450; NCPPB 4451		

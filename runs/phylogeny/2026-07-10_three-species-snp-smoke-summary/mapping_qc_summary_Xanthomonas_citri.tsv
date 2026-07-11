@@ -1,0 +1,38 @@
+species	strain_key	ncppb	run_accession	reference_bases	covered_bases	coverage_percent	mean_depth	coverage_file
+Xanthomonas citri	NCPPB-1471	NCPPB-1471	SRR21684635	5274174	5223979	99.05	227.41	results/three_species_phylogeny/mapping/NCPPB-1471__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_1056	NCPPB 1056	SRR2052425	5274174	4509796	85.51	38.79	results/three_species_phylogeny/mapping/NCPPB_1056__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_1058	NCPPB 1058	SRR2052426	5274174	4526537	85.82	135.10	results/three_species_phylogeny/mapping/NCPPB_1058__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_1158	NCPPB 1158	SRR2052443	5274174	4501412	85.35	34.23	results/three_species_phylogeny/mapping/NCPPB_1158__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_1335	NCPPB 1335	SRR29695113	5274174	4790102	90.82	163.16	results/three_species_phylogeny/mapping/NCPPB_1335__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_1402	NCPPB 1402	SRR2052442	5274174	4511808	85.55	14.97	results/three_species_phylogeny/mapping/NCPPB_1402__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_1433	NCPPB 1433	SRR2052427	5274174	4504960	85.42	44.80	results/three_species_phylogeny/mapping/NCPPB_1433__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_1495	NCPPB 1495	SRR2052458	5274174	4507897	85.47	26.71	results/three_species_phylogeny/mapping/NCPPB_1495__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_1654	NCPPB 1654	SRR2052433	5274174	4505655	85.43	82.59	results/three_species_phylogeny/mapping/NCPPB_1654__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_1713	NCPPB 1713	SRR37629061	5274174	4764425	90.33	432.13	results/three_species_phylogeny/mapping/NCPPB_1713__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_1827	NCPPB 1827	SRR29655371	5274174	4530927	85.91	123.48	results/three_species_phylogeny/mapping/NCPPB_1827__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_1838	WHRI 10263 (NCPPB 1838)	SRR28281415	5274174	4577025	86.78	158.11	results/three_species_phylogeny/mapping/NCPPB_1838__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_2058	NCPPB 2058	SRR29692762	5274174	4478201	84.91	155.03	results/three_species_phylogeny/mapping/NCPPB_2058__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_2060	NCPPB 2060	SRR29655370	5274174	4534185	85.97	149.82	results/three_species_phylogeny/mapping/NCPPB_2060__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_2063	NCPPB 2063	SRR29694808	5274174	4554921	86.36	157.88	results/three_species_phylogeny/mapping/NCPPB_2063__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_2064	NCPPB 2064	SRR37629092	5274174	4729873	89.68	439.01	results/three_species_phylogeny/mapping/NCPPB_2064__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_211	NCPPB_211	SRR11234665	5274174	5181283	98.24	64.46	results/three_species_phylogeny/mapping/NCPPB_211__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_226	NCPPB_226	SRR11234664	5274174	5201210	98.62	74.25	results/three_species_phylogeny/mapping/NCPPB_226__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_2665	NCPPB 2665	SRR2052428	5274174	4510287	85.52	61.89	results/three_species_phylogeny/mapping/NCPPB_2665__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_2832	NCPPB 2832	SRR29692760	5274174	4489951	85.13	151.67	results/three_species_phylogeny/mapping/NCPPB_2832__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_2914	NCPPB 2914	SRR29655369	5274174	4533269	85.95	152.08	results/three_species_phylogeny/mapping/NCPPB_2914__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_3086	NCPPB 3086	SRR29692758	5274174	4674164	88.62	170.05	results/three_species_phylogeny/mapping/NCPPB_3086__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_3114	NCPPB 3114	SRR15305415	5274174	4669260	88.53	129.23	results/three_species_phylogeny/mapping/NCPPB_3114__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_3162	NCPPB 3162	SRR22272560	5274174	4708555	89.28	92.97	results/three_species_phylogeny/mapping/NCPPB_3162__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_3562	NCPPB3562	SRR11234662	5274174	5237643	99.31	398.10	results/three_species_phylogeny/mapping/NCPPB_3562__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_381	WHRI 10261 (NCPPB 381)	SRR28281417	5274174	4490708	85.15	154.98	results/three_species_phylogeny/mapping/NCPPB_381__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_406	NCPPB406	SRR11234661	5274174	5229029	99.14	76.15	results/three_species_phylogeny/mapping/NCPPB_406__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_4590	WHRI 10264 (NCPPB 4590)	SRR28281414	5274174	5223783	99.04	167.46	results/three_species_phylogeny/mapping/NCPPB_4590__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_536	NCPPB 536	SRR29695060	5274174	4753286	90.12	157.44	results/three_species_phylogeny/mapping/NCPPB_536__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_556	NCPPB 556	SRR37629069	5274174	4722486	89.54	515.25	results/three_species_phylogeny/mapping/NCPPB_556__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_557	NCPPB 557	SRR37629068	5274174	4731801	89.72	401.49	results/three_species_phylogeny/mapping/NCPPB_557__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_573	NCPPB 573	SRR29694809	5274174	5001849	94.84	48.62	results/three_species_phylogeny/mapping/NCPPB_573__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_585	NCPPB 585	SRR15305424	5274174	4555724	86.38	163.05	results/three_species_phylogeny/mapping/NCPPB_585__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_633	WHRI 10262 (NCPPB 633)	SRR28281416	5274174	4736724	89.81	157.95	results/three_species_phylogeny/mapping/NCPPB_633__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_646	NCPPB 646	SRR29695059	5274174	4753000	90.12	154.01	results/three_species_phylogeny/mapping/NCPPB_646__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_670	NCPPB 670	SRR2052441	5274174	4526641	85.83	27.20	results/three_species_phylogeny/mapping/NCPPB_670__Xanthomonas_citri.coverage.tsv
+Xanthomonas citri	NCPPB_976	NCPPB 976	SRR7628814	5274174	4761830	90.29	669.22	results/three_species_phylogeny/mapping/NCPPB_976__Xanthomonas_citri.coverage.tsv

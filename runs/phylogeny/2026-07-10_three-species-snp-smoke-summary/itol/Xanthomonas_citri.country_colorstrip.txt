@@ -1,0 +1,46 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Country
+COLOR	#7b6fbd
+LEGEND_TITLE	Country
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+LEGEND_COLORS	#2f6f73	#7b6fbd	#c46a3a	#4d7c3f	#a13e5a	#64748b	#d99a2b	#2563eb	#9333ea	#0f766e	#2f6f73	#7b6fbd	#c46a3a	#4d7c3f	#a13e5a	#64748b
+LEGEND_LABELS	China	United Kingdom	Ethiopia	India	Uganda	Hungary	South Africa	Zimbabwe	Sudan	unassigned	New Zealand	Italy	France	Barbados	Canada	United States
+DATA
+NCPPB-1471__Xanthomonas_citri	#2f6f73	China
+NCPPB_1056__Xanthomonas_citri	#7b6fbd	United Kingdom
+NCPPB_1058__Xanthomonas_citri	#c46a3a	Ethiopia
+NCPPB_1158__Xanthomonas_citri	#7b6fbd	United Kingdom
+NCPPB_1335__Xanthomonas_citri	#4d7c3f	India
+NCPPB_1402__Xanthomonas_citri	#a13e5a	Uganda
+NCPPB_1433__Xanthomonas_citri	#64748b	Hungary
+NCPPB_1495__Xanthomonas_citri	#7b6fbd	United Kingdom
+NCPPB_1654__Xanthomonas_citri	#d99a2b	South Africa
+NCPPB_1713__Xanthomonas_citri	#2563eb	Zimbabwe
+NCPPB_1827__Xanthomonas_citri	#9333ea	Sudan
+NCPPB_1838__Xanthomonas_citri	#0f766e	unassigned
+NCPPB_2058__Xanthomonas_citri	#9333ea	Sudan
+NCPPB_2060__Xanthomonas_citri	#9333ea	Sudan
+NCPPB_2063__Xanthomonas_citri	#9333ea	Sudan
+NCPPB_2064__Xanthomonas_citri	#9333ea	Sudan
+NCPPB_211__Xanthomonas_citri	#4d7c3f	India
+NCPPB_226__Xanthomonas_citri	#2f6f73	New Zealand
+NCPPB_2665__Xanthomonas_citri	#7b6fbd	Italy
+NCPPB_2832__Xanthomonas_citri	#c46a3a	France
+NCPPB_2914__Xanthomonas_citri	#4d7c3f	Barbados
+NCPPB_3086__Xanthomonas_citri	#4d7c3f	India
+NCPPB_3114__Xanthomonas_citri	#4d7c3f	India
+NCPPB_3162__Xanthomonas_citri	#4d7c3f	India
+NCPPB_3562__Xanthomonas_citri	#4d7c3f	India
+NCPPB_381__Xanthomonas_citri	#a13e5a	Canada
+NCPPB_406__Xanthomonas_citri	#2f6f73	New Zealand
+NCPPB_4590__Xanthomonas_citri	#64748b	United States
+NCPPB_536__Xanthomonas_citri	#9333ea	Sudan
+NCPPB_556__Xanthomonas_citri	#9333ea	Sudan
+NCPPB_557__Xanthomonas_citri	#9333ea	Sudan
+NCPPB_573__Xanthomonas_citri	#4d7c3f	India
+NCPPB_585__Xanthomonas_citri	#4d7c3f	India
+NCPPB_633__Xanthomonas_citri	#9333ea	Sudan
+NCPPB_646__Xanthomonas_citri	#9333ea	Sudan
+NCPPB_670__Xanthomonas_citri	#a13e5a	Uganda
+NCPPB_976__Xanthomonas_citri	#64748b	United States

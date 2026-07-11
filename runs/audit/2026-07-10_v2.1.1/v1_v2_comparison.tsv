@@ -1,0 +1,899 @@
+ncppb_number	snapshot_status	v1_sequence_category	v2_sequence_category	sequence_category_changed	v1_biosample_accessions	v2_biosample_accessions	biosample_accessions_changed	v1_assembly_accessions	v2_assembly_accessions	assembly_accessions_changed	v1_sra_run_accessions	v2_sra_run_accessions	sra_accessions_changed	v2_ncppb_track_matches	v2_other_references_track_matches
+NCPPB 45	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36346970	SAMN36346970	no	GCA_035026565.1	GCA_035026565.1	no	SRR25183331	SRR25183331	no	SAMN36346970	
+NCPPB 101	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN22555467	SAMN22555467	no	GCF_020783895.1	GCF_020783895.1	no	SRR22272561	SRR22272561	no	SAMN22555467	
+NCPPB 109	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 113	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN42178446	SAMN42178446	no	GCF_053571385.1	GCF_053571385.1	no	SRR30041332; SRR29654663	SRR29654663; SRR30041332	no	SAMN42178446	
+NCPPB 151	present_in_both	raw_reads_only	raw_reads_only	no	SAMN56511362	SAMN56511362	no			no	SRR37789880; SRR37629063	SRR37629063; SRR37789880	no	SAMN56511362	
+NCPPB 174	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 181	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 182	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 184	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 185	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 186	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 187	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 195	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 196	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 200	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 205	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 206	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36357966; SAMN00991256	SAMN36357966; SAMN00991256	no	GCF_030551425.2; GCF_000278035.1	GCF_030551425.2; GCF_000278035.1	no	SRR25194059; SRR494500	SRR25194059; SRR494500	no	SAMN36357966; SAMN00991256	
+NCPPB 208	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 210	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 211	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN13783128	SAMN13783128	no	GCF_014798375.1	GCF_014798375.1	no	SRR11234665	SRR11234665	no	SAMN13783128	
+NCPPB 212	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 220	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03262509	SAMN03262509	no	GCF_000808715.2	GCF_000808715.2	no	SRR2052885	SRR2052885	no	SAMN03262509	
+NCPPB 226	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN13783184	SAMN13783184	no	GCF_014797395.1	GCF_014797395.1	no	SRR11234664	SRR11234664	no	SAMN13783184	
+NCPPB 230	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN40354569	SAMN40354569	no	GCF_040202495.1		yes	SRR30293564; SRR28281421		yes	SAMN40354569	
+NCPPB 232	present_in_both	complete_genome_available	complete_genome_available	no	SAMEA6962647	SAMEA6962647	no	GCF_903978195.1	GCF_903978195.1	no	ERR4327117; ERR4326259	ERR4326259; ERR4327117	no	SAMEA6962647	
+NCPPB 240	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 241	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 243	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 273	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 279	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 290	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 293	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 301	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03175018	SAMN03175018	no	GCF_000785945.1	GCF_000785945.1	no	SRR2052879	SRR2052879	no	SAMN03175018	
+NCPPB 302	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 305	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 315	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 347	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN22552829; SAMN17385947	SAMN22552829; SAMN17385947	no	GCF_020731405.1	GCF_020731405.1	no	SRR29823152; SRR14648465	SRR29823152; SRR14648465	no	SAMN22552829; SAMN17385947	SAMN17385947
+NCPPB 348	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 362	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 381	present_in_both	complete_genome_available	complete_genome_available	no	SAMN40354536; SAMN03142398; SAMN02903172; SAMN06829306	SAMN03142398; SAMN40354536; SAMN06829306; SAMN02903172	no	GCF_040202995.2; GCF_000788075.1; GCF_001401605.1; GCF_002759215.2	GCF_000788075.1; GCF_040202995.2; GCF_001401605.1	yes	SRR30293625; SRR28281417; SRR2052644; SRR1510073; SRR13997422; SRR13975653	SRR2052644; SRR28281417; SRR30293625; SRR1510073	yes	SAMN03142398; SAMN40354536	SAMN06829306; SAMN02903172
+NCPPB 400	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 403	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 404	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36346971	SAMN36346971	no	GCA_035026745.1	GCA_035026745.1	no	SRR25183330	SRR25183330	no	SAMN36346971	
+NCPPB 405	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 406	present_in_both	no_confirmed_public_sequence_data	draft_assembly_available	yes		SAMN13783185	yes		GCF_014797385.1	yes		SRR11234661	yes	SAMN13783185	
+NCPPB 407	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 408	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 409	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMEA114331998; SAMN13783182	SAMEA114331998; SAMN13783182	no	GCF_963669875.1; GCF_014797425.1	GCF_963669875.1; GCF_014797425.1	no	ERR12095337; SRR11234614	ERR12095337; SRR11234614	no	SAMEA114331998	SAMN13783182
+NCPPB 410	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 411	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03352151; SAMN43400626	SAMN43400626; SAMN03352151	no	GCF_001013475.1	GCF_001013475.1	no			no		SAMN43400626; SAMN03352151
+NCPPB 412	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 414	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 415	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 416	present_in_both	complete_genome_available	complete_genome_available	no	SAMN41996497; SAMN39942831; SAMN00188641	SAMN41996497; SAMN39942831; SAMN00188641	no	GCF_041464225.1	GCF_041464225.1	no	SRR30016867; SRR29500231; SRR27966376	SRR29500231; SRR30016867; SRR27966376	no	SAMN41996497; SAMN39942831	SAMN00188641
+NCPPB 418	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 419	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 420	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 421	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 422	present_in_both	complete_genome_available	complete_genome_available	no	SAMN05823154; SAMN02471773	SAMN02471773; SAMN05823154	no	GCF_001908725.1; GCF_000192025.1	GCF_000192025.1; GCF_001908725.1	no			no		SAMN02471773; SAMN05823154
+NCPPB 423	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 424	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 425	present_in_both	raw_reads_only	taxonomy_review_required_before_sequence_use	yes	SAMN40354566	SAMN40354566	no			no	SRR28281424		yes	SAMN40354566	
+NCPPB 457	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN02903173	SAMN02903173	no	GCF_001401595.1	GCF_001401595.1	no	SRR1509983	SRR1509983	no		SAMN02903173
+NCPPB 464	present_in_both	complete_genome_available	complete_genome_available	no	SAMN41997686; SAMN19988989	SAMN41997686; SAMN19988989	no	GCA_041281645.2; GCA_019201065.3	GCA_041281645.2; GCA_019201065.3	no	SRR30017108; SRR29501486; SRR27397079; SRR15305434	SRR29501486; SRR30017108; SRR15305434; SRR27397079	no	SAMN41997686; SAMN19988989	
+NCPPB 465	present_in_both	complete_genome_available	complete_genome_available	no	SAMN41997687	SAMN41997687	no	GCA_041464235.1	GCA_041464235.1	no	SRR30017107; SRR29501485	SRR29501485; SRR30017107	no	SAMN41997687	
+NCPPB 466	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN09425328; SAMEA3138416	SAMN09425328; SAMEA3138416	no	GCF_000285775.1	GCF_000285775.1	no			no		SAMN09425328; SAMEA3138416
+NCPPB 473	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 476	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 477	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 478	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN42178451	SAMN42178451	no	GCF_053646535.1	GCF_053646535.1	no	SRR29654630	SRR29654630	no	SAMN42178451	
+NCPPB 479	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 480	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 481	present_in_both	raw_reads_only	taxonomy_review_required_before_sequence_use	yes	SAMN42278566	SAMN42278566	no			no	SRR30016545; SRR29692761		yes	SAMN42278566	
+NCPPB 485	present_in_both	raw_reads_only	raw_reads_only	no	SAMN42284446	SAMN42284446	no			no	SRR30036952; SRR29695153	SRR29695153; SRR30036952	no	SAMN42284446	
+NCPPB 488	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42178439	SAMN42178439	no	GCF_053571405.1	GCF_053571405.1	no	SRR30041327; SRR29654670	SRR29654670; SRR30041327	no	SAMN42178439	
+NCPPB 490	present_in_both	complete_genome_available	complete_genome_available	no	SAMEA2272013; SAMN41471108	SAMN41471108; SAMEA2272013	no	GCF_000263335.2; GCF_042638415.1	GCF_042638415.1; GCF_000263335.2	no			no		SAMN41471108; SAMEA2272013
+NCPPB 509	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03175433	SAMN03175433	no	GCF_001469445.1	GCF_001469445.1	no	SRR4717825	SRR4717825	no		SAMN03175433
+NCPPB 510	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 526	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 528	present_in_both	complete_genome_available	complete_genome_available	no	SAMN22552834; SAMN36368329; SAMN02603845	SAMN22552834; SAMN36368329; SAMN02603845	no	GCF_020813135.1; GCA_035023825.1; GCF_000007145.1	GCF_020813135.1; GCA_035023825.1; GCF_000007145.1	no	SRR29823160; SRR25205299	SRR29823160; SRR25205299	no	SAMN22552834; SAMN36368329	SAMN02603845
+NCPPB 529	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36346972	SAMN36346972	no	GCA_035026845.1	GCA_035026845.1	no	SRR25183329	SRR25183329	no	SAMN36346972	
+NCPPB 535	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42178440	SAMN42178440	no	GCF_041463965.1	GCF_041463965.1	no	SRR30041326; SRR29654669	SRR29654669; SRR30041326	no	SAMN42178440	
+NCPPB 536	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN42284536	SAMN42284536	no	GCF_053615305.1	GCF_053615305.1	no	SRR30037788; SRR29695060	SRR29695060; SRR30037788	no	SAMN42284536	
+NCPPB 554	present_in_both	complete_genome_available	complete_genome_available	no	SAMN02469936; SAMN18397212	SAMN02469936; SAMN18397212	no	GCF_000495275.1; GCF_017723855.1	GCF_000495275.1; GCF_017723855.1	no	SRR14026742; SRR14028219	SRR14026742; SRR14028219	no		SAMN02469936; SAMN18397212
+NCPPB 555	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 556	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN56511388; SAMN03203484	SAMN56511388; SAMN03203484	no	GCF_000818835.2	GCF_000818835.2	no	SRR37789886; SRR37629069; SRR2051461	SRR2051461	yes	SAMN56511388; SAMN03203484	
+NCPPB 557	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN56511389; SAMN03257620	SAMN56511389; SAMN03257620	no	GCF_000808655.2	GCF_000808655.2	no	SRR37789885; SRR37629068; SRR2051462	SRR2051462	yes	SAMN56511389; SAMN03257620	
+NCPPB 570	present_in_both	raw_reads_only	raw_reads_only	no	SAMN42488058	SAMN42488058	no			no	SRR29823100	SRR29823100	no	SAMN42488058	
+NCPPB 571	present_in_both	complete_genome_available	complete_genome_available	no	SAMN14601050	SAMN14601050	no	GCF_012848175.1	GCF_012848175.1	no	SRR11568976	SRR11568976	no		SAMN14601050
+NCPPB 573	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN42284473	SAMN42284473	no	GCF_053614595.1	GCF_053614595.1	no	SRR30037371; SRR29694809	SRR29694809; SRR30037371	no	SAMN42284473	
+NCPPB 575	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN19988990	SAMN19988990	no	GCF_019201225.1		yes	SRR15305412		yes	SAMN19988990	
+NCPPB 577	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42278567	SAMN42278567	no	GCF_041464215.1	GCF_041464215.1	no	SRR30016544; SRR29692759	SRR29692759; SRR30016544	no	SAMN42278567	
+NCPPB 578	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 579	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN19988991	SAMN19988991	no	GCF_019201185.1		yes	SRR15305414		yes	SAMN19988991	
+NCPPB 581	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42178463	SAMN42178463	no	GCF_041486685.1	GCF_041486685.1	no	SRR30037949; SRR29654624	SRR29654624; SRR30037949	no	SAMN42178463	
+NCPPB 582	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 584	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42278574	SAMN42278574	no	GCF_041466645.1	GCF_041466645.1	no	SRR29692752	SRR29692752	no	SAMN42278574	
+NCPPB 585	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN19988994	SAMN19988994	no	GCA_019201525.1		yes	SRR15305424		yes	SAMN19988994	
+NCPPB 586	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN19988992	SAMN19988992	no	GCF_019201115.1		yes	SRR15305427		yes	SAMN19988992	
+NCPPB 599	present_in_both	complete_genome_available	complete_genome_available	no	SAMN43282147; SAMD00253046; SAMN02894432; SAMN12660098; SAMN05560286	SAMN12660098; SAMN05560286; SAMN02894432; SAMN43282147; SAMD00253046	no	GCF_042648025.1; GCF_001010435.1; GCF_009769165.1; GCF_002939895.1	GCF_009769165.1; GCF_002939895.1; GCF_001010435.1; GCF_042648025.1	no	SRR10043048	SRR10043048	no		SAMN12660098; SAMN05560286; SAMN02894432; SAMN43282147; SAMD00253046
+NCPPB 614	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 631	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 633	present_in_both	complete_genome_available	complete_genome_available	no	SAMN40354537; SAMN40354530; SAMN08729580; SAMN22082069; SAMN07418358	SAMN40354537; SAMN40354530; SAMN08729580; SAMN07418358; SAMN22082069	no	GCF_040202935.2; GCF_040202075.1; GCF_003064125.1; GCF_027186285.1	GCF_040202935.2; GCF_040202075.1; GCF_003064125.1; GCF_027186285.1	no	SRR30293580; SRR28281416; SRR28281454; SRR7642345; SRR17318718; SRR5901872	SRR28281416; SRR30293580; SRR28281454; SRR7642345; SRR5901872; SRR17318718	no	SAMN40354537; SAMN40354530; SAMN08729580	SAMN07418358; SAMN22082069
+NCPPB 634	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 637	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42180202	SAMN42180202	no	GCF_041463595.1	GCF_041463595.1	no	SRR30037601; SRR29655428	SRR29655428; SRR30037601	no	SAMN42180202	
+NCPPB 638	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 642	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 645	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42178452	SAMN42178452	no	GCF_041519365.1	GCF_041519365.1	no	SRR30037587; SRR29654629	SRR29654629; SRR30037587	no	SAMN42178452	
+NCPPB 646	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42284537; SAMN03175008	SAMN42284537	yes	GCF_053615295.1; GCF_000785925.1	GCF_053615295.1	yes	SRR30037787; SRR29695059; SRR2052876	SRR29695059; SRR30037787	yes	SAMN42284537	
+NCPPB 647	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 648	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 670	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03097370	SAMN03097370	no	GCF_000764875.1	GCF_000764875.1	no	SRR2052441	SRR2052441	no	SAMN03097370	
+NCPPB 701	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03175440	SAMN03175440	no	GCF_001469465.1	GCF_001469465.1	no	SRR4718188	SRR4718188	no		SAMN03175440
+NCPPB 702	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36357969; SAMN00002876	SAMN36357969; SAMN00002876	no	GCF_030551395.2; GCF_000159795.2	GCF_030551395.2; GCF_000159795.2	no	SRR25194036; SRR020202	SRR25194036; SRR020202	no	SAMN36357969; SAMN00002876	
+NCPPB 761	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 762	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMD00537713; SAMD00253068; SAMN02894433	SAMD00537713; SAMN02894433; SAMD00253068	no	GCF_001010415.1	GCF_001010415.1	no			no	SAMD00537713	SAMN02894433; SAMD00253068
+NCPPB 793	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 795	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN20034691; SAMN36357970	SAMN20034691; SAMN36357970	no	GCF_019209805.1; GCF_030551295.2	GCF_019209805.1; GCF_030551295.2	no	SRR29823134; SRR25194032	SRR29823134; SRR25194032	no	SAMN20034691; SAMN36357970	
+NCPPB 840	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42280122	SAMN42280122	no	GCF_041464165.1	GCF_041464165.1	no	SRR30018465; SRR29694608	SRR29694608; SRR30018465	no	SAMN42280122	
+NCPPB 875	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 881	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN56511390; SAMN09704275; SAMN33574910; SAMN02471772	SAMN56511390; SAMN09704275; SAMN33574910; SAMN02471772	no	GCF_046589575.1; GCF_000192065.1	GCF_046589575.1; GCF_000192065.1	no	SRR37789884; SRR37629067; SRR7628815; SRR23696936	SRR37629067; SRR37789884; SRR7628815; SRR23696936	no	SAMN56511390; SAMN09704275	SAMN09704275; SAMN33574910; SAMN02471772
+NCPPB 884	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 885	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42278569	SAMN42278569	no	GCF_041464115.1	GCF_041464115.1	no	SRR30016543; SRR29692757	SRR29692757; SRR30016543	no	SAMN42278569	
+NCPPB 887	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 888	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 889	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN20080225; SAMN36357971	SAMN20080225; SAMN36357971	no	GCF_019200945.1; GCF_030551345.2	GCF_019200945.1; GCF_030551345.2	no	SRR29823133; SRR25194031	SRR29823133; SRR25194031	no	SAMN20080225; SAMN36357971	
+NCPPB 891	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 892	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 893	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 895	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36357973; SAMN02439007	SAMN36357973; SAMN02439007	no	GCF_030551445.2; GCF_000278075.1	GCF_030551445.2; GCF_000278075.1	no	SRR25194029; SRR1045341	SRR25194029; SRR1045341	no	SAMN36357973; SAMN02439007	
+NCPPB 896	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 897	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 899	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 900	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN56511391; SAMN02854335	SAMN56511391; SAMN02854335	no	GCF_000724905.1	GCF_000724905.1	no	SRR37789883; SRR37629066; SRR1515236	SRR37629066; SRR37789883; SRR1515236	no	SAMN56511391; SAMN02854335	
+NCPPB 901	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161496	SAMN42161496	no	GCF_056725085.1	GCF_056725085.1	no	SRR30040125; SRR29644180	SRR29644180; SRR30040125	no	SAMN42161496	
+NCPPB 902	present_in_both	complete_genome_available	complete_genome_available	no	SAMN03140174	SAMN03140174	no	GCF_000772775.3	GCF_000772775.3	no			no	SAMN03140174	
+NCPPB 916	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 917	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 918	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 922	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 923	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 924	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 926	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 935	present_in_both	complete_genome_available	complete_genome_available	no	SAMN41996496; SAMEA7984667; SAMN05559866	SAMN41996496; SAMEA7984667; SAMN05559866	no	GCF_041228085.2; GCF_905220785.1; GCF_002939845.1	GCF_041228085.2; GCF_905220785.1; GCF_002939845.1	no	SRR30016866; SRR29500232; ERR5260059; ERR5260054	SRR29500232; SRR30016866; ERR5260054; ERR5260059	no	SAMN41996496; SAMEA7984667	SAMEA7984667; SAMN05559866
+NCPPB 936	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 937	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN22552838	SAMN22552838	no	GCF_020813295.1	GCF_020813295.1	no	SRR29823159	SRR29823159	no	SAMN22552838	
+NCPPB 938	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 939	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN08729581; SAMN43284563; SAMN43281910; SAMD00253066	SAMN08729581; SAMN43284563; SAMN43281910; SAMD00253066	no	GCF_003064105.1	GCF_003064105.1	no			no	SAMN08729581	SAMN43284563; SAMN43281910; SAMD00253066
+NCPPB 940	present_in_both	complete_genome_available	complete_genome_available	no	SAMEA6962652	SAMEA6962652	no	GCA_903978185.1	GCA_903978185.1	no	ERR4327122	ERR4327122	no	SAMEA6962652	SAMEA6962652
+NCPPB 941	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 942	present_in_both	raw_reads_only	raw_reads_only	no	SAMN57360824	SAMN57360824	no			no	SRR38178868	SRR38178868	no	SAMN57360824	
+NCPPB 969	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 970	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 971	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42284547	SAMN42284547	no	GCF_041492255.1	GCF_041492255.1	no	SRR30037791; SRR29695345	SRR29695345; SRR30037791	no	SAMN42284547	
+NCPPB 972	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42284548	SAMN42284548	no	GCF_041519315.1	GCF_041519315.1	no	SRR30037790; SRR29695344	SRR29695344; SRR30037790	no	SAMN42284548	
+NCPPB 973	present_in_both	complete_genome_available	draft_assembly_available	yes	SAMN23026111; SAMN43281667; SAMD00253072; SAMEA2271958; SAMEA4358958	SAMN23026111; SAMEA2271958; SAMN43281667; SAMD00253072	yes	GCF_020880735.1; GCF_042432025.1; GCF_900094325.1	GCF_020880735.1; GCF_042432025.1	yes	SRR16936500	SRR16936500	no		SAMN23026111; SAMEA2271958; SAMN43281667; SAMD00253072
+NCPPB 974	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 975	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 976	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN09704274; SAMN11047482	SAMN09704274; SAMN11047482	no	GCF_012922295.1		yes	SRR7628814; SRR8732949		yes	SAMN09704274	SAMN11047482
+NCPPB 983	present_in_both	complete_genome_available	complete_genome_available	no	SAMN22552839	SAMN22552839	no	GCF_020813315.3	GCF_020813315.3	no	SRR29823158; SRR27397526	SRR27397526; SRR29823158	no	SAMN22552839	
+NCPPB 984	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 985	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN02903999	SAMN02903999	no	GCF_001401545.2		yes	SRR3715273; SRR1522076; SRR1509951		yes		SAMN02903999
+NCPPB 986	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 987	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 989	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03140188	SAMN03140188	no	GCF_000772795.1	GCF_000772795.1	no			no	SAMN03140188	
+NCPPB 990	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 993	present_in_both	raw_reads_only	raw_reads_only	no	SAMN42278571	SAMN42278571	no			no	SRR29692755	SRR29692755	no	SAMN42278571	
+NCPPB 994	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1009	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1014	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1025	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1043	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36368321	SAMN36368321	no	GCA_035023025.1	GCA_035023025.1	no	SRR25205308	SRR25205308	no	SAMN36368321	
+NCPPB 1046	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1048	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1050	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1056	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03142809	SAMN03142809	no	GCF_000786945.1	GCF_000786945.1	no	SRR2052425	SRR2052425	no	SAMN03142809	
+NCPPB 1058	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03142815	SAMN03142815	no	GCF_000786935.1	GCF_000786935.1	no	SRR2052426	SRR2052426	no	SAMN03142815	
+NCPPB 1059	present_in_both	raw_reads_only	raw_reads_only	no	SAMN56511356	SAMN56511356	no			no	SRR37789912; SRR37629095	SRR37629095; SRR37789912	no	SAMN56511356	
+NCPPB 1060	present_in_both	complete_genome_available	complete_genome_available	no	SAMN03140122	SAMN03140122	no	GCF_000772715.2	GCF_000772715.2	no			no	SAMN03140122	
+NCPPB 1061	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN56511357; SAMN22552840	SAMN56511357; SAMN22552840	no	GCF_020813005.1	GCF_020813005.1	no	SRR37789911; SRR37629094; SRR29823165	SRR37629094; SRR37789911; SRR29823165	no	SAMN56511357; SAMN22552840	
+NCPPB 1062	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161497	SAMN42161497	no	GCF_041481705.1	GCF_041481705.1	no	SRR30040145; SRR29644179	SRR29644179; SRR30040145	no	SAMN42161497	
+NCPPB 1063	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42178441; SAMN26561900	SAMN42178441; SAMN26561900	no	GCF_053571465.1; GCF_029872435.1	GCF_053571465.1	yes	SRR30041333; SRR29654668	SRR29654668; SRR30041333	no	SAMN42178441	SAMN26561900
+NCPPB 1067	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN22555470	SAMN22555470	no	GCF_020783795.1	GCF_020783795.1	no	SRR22272567	SRR22272567	no	SAMN22555470	
+NCPPB 1068	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161498	SAMN42161498	no	GCF_041479385.1	GCF_041479385.1	no	SRR30040144; SRR29644178	SRR29644178; SRR30040144	no	SAMN42161498	
+NCPPB 1117	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1124	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1128	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03777426	SAMN03777426	no	GCF_001043115.1	GCF_001043115.1	no	SRR2094884	SRR2094884	no	SAMN03777426	
+NCPPB 1129	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1131	present_in_both	complete_genome_available	complete_genome_available	no	SAMN56511358; SAMN00752559	SAMN56511358; SAMN00752559	no	GCF_056612685.1; GCF_000226895.1	GCF_056612685.1; GCF_000226895.1	no	SRR37789900; SRR37629083; SRR364086; SRR364085	SRR37629083; SRR37789900; SRR364085; SRR364086	no	SAMN56511358; SAMN00752559	
+NCPPB 1132	present_in_both	complete_genome_available	complete_genome_available	no	SAMN56511359; SAMN00752560	SAMN56511359; SAMN00752560	no	GCF_056629235.1; GCF_000226915.1	GCF_056629235.1; GCF_000226915.1	no	SRR37789889; SRR37629072; SRR364087	SRR37629072; SRR37789889; SRR364087	no	SAMN56511359; SAMN00752560	
+NCPPB 1135	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1136	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1138	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03262510	SAMN03262510	no	GCF_000808735.2	GCF_000808735.2	no	SRR2052902	SRR2052902	no	SAMN03262510	
+NCPPB 1141	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1143	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1144	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN43286083	SAMN43286083	no	GCF_041521255.1	GCF_041521255.1	no	SRR30327311	SRR30327311	no	SAMN43286083	
+NCPPB 1145	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1146	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1147	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1148	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1149	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1150	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1151	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1152	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1153	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1154	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1155	present_in_both	raw_reads_only	raw_reads_only	no	SAMN56511360	SAMN56511360	no			no	SRR37789882; SRR37629065	SRR37629065; SRR37789882	no	SAMN56511360	
+NCPPB 1158	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN03142401	SAMN03142401	no	GCF_000775205.1		yes	SRR2052443		yes	SAMN03142401	
+NCPPB 1159	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN01090336	SAMN01090336	no	GCF_000266285.1	GCF_000266285.1	no	SRR527320	SRR527320	no	SAMN01090336	
+NCPPB 1160	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1161	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1235	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1241	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03140147	SAMN03140147	no	GCF_000772695.1	GCF_000772695.1	no			no	SAMN03140147	
+NCPPB 1244	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1324	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN42178442	SAMN42178442	no	GCF_053571505.1	GCF_053571505.1	no	SRR29654667	SRR29654667	no	SAMN42178442	
+NCPPB 1325	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161499	SAMN42161499	no	GCF_041477645.1	GCF_041477645.1	no	SRR30040133; SRR29644177	SRR29644177; SRR30040133	no	SAMN42161499	
+NCPPB 1326	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36701288; SAMN36357974; SAMN02471728; SAMN00991247	SAMN36701288; SAMN36357974; SAMN02471728; SAMN00991247	no	GCF_045897555.1; GCF_000277995.1	GCF_045897555.1; GCF_000277995.1	no	SRR25411586; SRR494491	SRR25411586; SRR494491	no	SAMN36701288; SAMN36357974; SAMN02471728; SAMN00991247	
+NCPPB 1332	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1334	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN19988970	SAMN19988970	no	GCF_019201465.1		yes	SRR15305422		yes	SAMN19988970	
+NCPPB 1336	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN19988971	SAMN19988971	no	GCF_019193005.1	GCF_019193005.1	no	SRR15305425	SRR15305425	no	SAMN19988971	
+NCPPB 1337	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN56511361; SAMN42278572	SAMN56511361; SAMN42278572	no	GCF_041448975.1		yes	SRR37789881; SRR37629064; SRR29692754		yes	SAMN56511361; SAMN42278572	
+NCPPB 1381	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36701289; SAMN36357975; SAMN00991255	SAMN36701289; SAMN36357975; SAMN00991255	no	GCF_045897775.1; GCF_000278015.1	GCF_045897775.1; GCF_000278015.1	no	SRR25411585; SRR494499	SRR25411585; SRR494499	no	SAMN36701289; SAMN36357975; SAMN00991255	
+NCPPB 1393	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1394	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03145753; SAMN03140149	SAMN03145753; SAMN03140149	no	GCF_000774005.1	GCF_000774005.1	no			no	SAMN03145753; SAMN03140149	
+NCPPB 1395	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03140175	SAMN03140175	no	GCF_000772785.1	GCF_000772785.1	no			no	SAMN03140175	
+NCPPB 1396	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03140173	SAMN03140173	no	GCF_000772725.1	GCF_000772725.1	no			no	SAMN03140173	
+NCPPB 1402	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03142810	SAMN03142810	no	GCF_000774025.2	GCF_000774025.2	no	SRR2052442	SRR2052442	no	SAMN03142810	
+NCPPB 1420	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03175025	SAMN03175025	no	GCF_000785935.1	GCF_000785935.1	no	SRR2052880	SRR2052880	no	SAMN03175025	
+NCPPB 1421	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1422	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1423	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1426	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1431	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1433	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03142399	SAMN03142399	no	GCF_000775215.1	GCF_000775215.1	no	SRR2052427	SRR2052427	no	SAMN03142399	
+NCPPB 1438	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1439	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1447	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN02469596	SAMN02469596	no	GCF_000306055.1	GCF_000306055.1	no			no	SAMN02469596	
+NCPPB 1451	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 1452	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1453	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1454	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1455	present_in_both	raw_reads_only	raw_reads_only	no	SAMN41763920	SAMN41763920	no			no	SRR29334729	SRR29334729	no	SAMN41763920	
+NCPPB 1457	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1469	present_in_both	complete_genome_available	complete_genome_available	no	SAMN39942670; SAMEA104068692; SAMN43284562; SAMN43282235; SAMN43282231; SAMN43282199; SAMD00253071	SAMN39942670; SAMEA104068692; SAMN43284562; SAMN43282235; SAMN43282231; SAMN43282199; SAMD00253071	no	GCF_900183975.1; GCF_042665935.1; GCA_042647025.1; GCF_042647305.1	GCF_900183975.1; GCF_042665935.1; GCA_042647025.1; GCF_042647305.1	no	SRR27965832	SRR27965832	no	SAMN39942670; SAMEA104068692	SAMEA104068692; SAMN43284562; SAMN43282235; SAMN43282231; SAMN43282199; SAMD00253071
+NCPPB 1471	present_in_both	raw_reads_only	raw_reads_only	no	SAMN30973815	SAMN30973815	no			no	SRR21684635	SRR21684635	no	SAMN30973815	
+NCPPB 1472	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 1473	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42178443	SAMN42178443	no	GCF_053571445.1	GCF_053571445.1	no	SRR30041331; SRR29654666	SRR29654666; SRR30041331	no	SAMN42178443	
+NCPPB 1475	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42178453	SAMN42178453	no	GCF_053646575.1	GCF_053646575.1	no	SRR30037586; SRR29654628	SRR29654628; SRR30037586	no	SAMN42178453	
+NCPPB 1482	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1495	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN03142808	SAMN03142808	no	GCF_000786915.1		yes	SRR2052458		yes	SAMN03142808	
+NCPPB 1560	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161500	SAMN42161500	no	GCF_041475815.1	GCF_041475815.1	no	SRR30040124; SRR29644176	SRR29644176; SRR30040124	no	SAMN42161500	
+NCPPB 1568	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1585	present_in_both	complete_genome_available	complete_genome_available	no	SAMN40354542; SAMN08729510	SAMN40354542; SAMN08729510; SAMN03612252	yes	GCF_040202085.2; GCF_003064145.1	GCF_040202085.2; GCF_003064145.1; GCF_001042735.1	yes	SRR30284786; SRR28281450	SRR28281450; SRR30284786; SRR2033534; SRR2047367; SRR2047368; SRR2047369; SRR2047370; SRR2047371	yes	SAMN40354542; SAMN08729510	SAMN03612252
+NCPPB 1593	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1594	present_in_both	complete_genome_available	taxonomy_review_required_before_sequence_use	yes	SAMN56511363	SAMN56511363	no	GCF_056612795.1		yes	SRR37789879; SRR37629062		yes	SAMN56511363	
+NCPPB 1595	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1596	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1607	present_in_both	complete_genome_available	ambiguous_needs_review	yes	SAMEA104068692		yes	GCF_900183975.1		yes			no		
+NCPPB 1610	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1612	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1615	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1616	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1622	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1628	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1629	present_in_both	raw_reads_only	raw_reads_only	no	SAMN42283062	SAMN42283062	no			no	SRR29695112	SRR29695112	no	SAMN42283062	
+NCPPB 1630	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN02854337	SAMN02854337	no	GCF_000724915.1	GCF_000724915.1	no	SRR1515237	SRR1515237	no	SAMN02854337	
+NCPPB 1632	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1633	present_in_both	complete_genome_available	complete_genome_available	no	SAMN07252112	SAMN07252112	no	GCF_002218245.1	GCF_002218245.1	no			no		SAMN07252112
+NCPPB 1638	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161501	SAMN42161501	no	GCF_041475635.1	GCF_041475635.1	no	SRR30040123; SRR29644175	SRR29644175; SRR30040123	no	SAMN42161501	
+NCPPB 1645	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36368322	SAMN36368322	no	GCA_035023525.1	GCA_035023525.1	no	SRR25205307	SRR25205307	no	SAMN36368322	
+NCPPB 1646	present_in_both	draft_assembly_available	ambiguous_needs_review	yes	SAMN03175008		yes	GCF_000785925.1		yes	SRR2052876		yes		
+NCPPB 1648	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1654	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03142402	SAMN03142402	no	GCF_000775185.1	GCF_000775185.1	no	SRR2052433	SRR2052433	no	SAMN03142402	
+NCPPB 1659	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1668	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1671	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1672	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1680	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03257737	SAMN03257737	no	GCF_000808695.2	GCF_000808695.2	no	SRR2052882	SRR2052882	no	SAMN03257737	
+NCPPB 1683	present_in_both	no_confirmed_public_sequence_data	draft_assembly_available	yes		SAMN02441648; SAMN37626383; SAMN13507659; SAMN02194609	yes		GCF_000382065.1	yes		SRR26265284	yes		SAMN02441648; SAMN37626383; SAMN13507659; SAMN02194609
+NCPPB 1684	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42178444	SAMN42178444	no	GCF_041462375.1	GCF_041462375.1	no	SRR30041330; SRR29654665	SRR29654665; SRR30041330	no	SAMN42178444	
+NCPPB 1685	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1697	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1698	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1699	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1700	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1701	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1711	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36346973	SAMN36346973	no	GCA_035026785.1	GCA_035026785.1	no	SRR25183328	SRR25183328	no	SAMN36346973	
+NCPPB 1712	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1713	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN56511364; SAMN03257621	SAMN56511364; SAMN03257621	no	GCF_000807875.2	GCF_000807875.2	no	SRR37789878; SRR37629061; SRR2051464	SRR37629061; SRR37789878; SRR2051464	no	SAMN56511364; SAMN03257621	
+NCPPB 1714	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1715	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1717	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1737	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1738	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1754	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161502	SAMN42161502	no	GCF_041475725.1	GCF_041475725.1	no	SRR30040122; SRR29644174	SRR29644174; SRR30040122	no	SAMN42161502	
+NCPPB 1755	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1756	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN19988972	SAMN19988972	no	GCF_019192985.1	GCF_019192985.1	no	SRR15305417	SRR15305417	no	SAMN19988972	
+NCPPB 1757	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN19988973	SAMN19988973	no	GCF_019201485.1		yes	SRR15305423		yes	SAMN19988973	
+NCPPB 1758	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN19988974	SAMN19988974	no	GCF_019201305.1		yes	SRR15305430		yes	SAMN19988974	
+NCPPB 1759	present_in_both	complete_genome_available	taxonomy_review_required_before_sequence_use	yes	SAMN49561544; SAMEA114332028	SAMN49561544; SAMEA114332028	no	GCF_052883265.1; GCF_963669615.1		yes	ERR12095367		yes	SAMN49561544; SAMEA114332028	
+NCPPB 1760	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN19988975	SAMN19988975	no	GCF_019201445.1		yes	SRR15305421		yes	SAMN19988975	
+NCPPB 1765	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1774	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1785	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1786	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1787	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN19988976	SAMN19988976	no	GCF_019201345.1		yes	SRR15305432		yes	SAMN19988976	
+NCPPB 1811	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03257682	SAMN03257682; SAMN18440089	yes	GCF_000808675.2	GCF_000808675.2; GCF_017745315.1	yes	SRR2052881	SRR2052881	no	SAMN03257682; SAMN18440089	
+NCPPB 1821	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1822	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN39942671; SAMEA4590042	SAMN39942671; SAMEA4590042	no	GCF_900380035.1	GCF_900380035.1	no	SRR27965831; ERR2528885	SRR27965831; ERR2528885	no	SAMN39942671; SAMEA4590042	
+NCPPB 1826	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161503	SAMN42161503	no	GCF_056725285.1	GCF_056725285.1	no	SRR30040121; SRR29644173	SRR29644173; SRR30040121	no	SAMN42161503	
+NCPPB 1827	present_in_both	raw_reads_only	raw_reads_only	no	SAMN42180188	SAMN42180188	no			no	SRR30037966; SRR29655371	SRR29655371; SRR30037966	no	SAMN42180188	
+NCPPB 1828	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN19988977	SAMN19988977	no	GCF_019201425.1		yes	SRR15305420		yes	SAMN19988977	
+NCPPB 1829	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1830	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1832	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN02903333	SAMN02903333	no	GCF_000724925.1	GCF_000724925.1	no	SRR1515238	SRR1515238	no	SAMN02903333	
+NCPPB 1833	present_in_both	chromosome_level_assembly_available	chromosome_level_assembly_available	no	SAMN18440024; SAMN04481176; SAMN02903992	SAMN18440024; SAMN04481176; SAMN02903992	no	GCF_017746675.1; GCF_001564415.1; GCF_001402235.1	GCF_017746675.1; GCF_001564415.1; GCF_001402235.1	no	SRR1509933	SRR1509933	no	SAMN18440024	SAMN04481176; SAMN02903992
+NCPPB 1834	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1836	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1837	present_in_both	complete_genome_available	complete_genome_available	no	SAMN18876900	SAMN18876900	no	GCF_021919185.1	GCF_021919185.1	no			no		SAMN18876900
+NCPPB 1838	present_in_both	complete_genome_available	complete_genome_available	no	SAMN40354538; SAMN07252091	SAMN40354538; SAMN07252091	no	GCF_040202945.2; GCF_002218265.1	GCF_002218265.1	yes	SRR30293569; SRR28281415		yes	SAMN40354538	SAMN07252091
+NCPPB 1839	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1841	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1925	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 1929	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1930	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1932	present_in_both	raw_reads_only	taxonomy_review_required_before_sequence_use	yes	SAMN56511365	SAMN56511365	no			no	SRR37789877; SRR37629060		yes	SAMN56511365	
+NCPPB 1933	present_in_both	raw_reads_only	taxonomy_review_required_before_sequence_use	yes	SAMN56511366	SAMN56511366	no			no	SRR37789910; SRR37629093		yes	SAMN56511366	
+NCPPB 1934	present_in_both	draft_assembly_available	ambiguous_needs_review	yes	SAMN36318705		yes	GCF_035011385.1		yes	SRR25237018		yes		
+NCPPB 1935	present_in_both	complete_genome_available	complete_genome_available	no	SAMN22555463; SAMEA14107389	SAMN22555463; SAMEA14107389	no	GCA_020783725.1; GCA_938743425.1	GCA_020783725.1; GCA_938743425.1	no	SRR22272564	SRR22272564	no	SAMN22555463; SAMEA14107389	SAMEA14107389
+NCPPB 1936	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1938	present_in_both	draft_assembly_available	ambiguous_needs_review	yes	SAMN36318706		yes	GCF_035011825.1		yes	SRR25237017		yes		
+NCPPB 1939	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42178461	SAMN42178461	no	GCF_041484315.1	GCF_041484315.1	no	SRR30037951; SRR29654626	SRR29654626; SRR30037951	no	SAMN42178461	
+NCPPB 1942	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 1943	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN05258070	SAMN05258070	no	GCF_001707115.1	GCF_001707115.1	no	SRR5110836	SRR5110836	no	SAMN05258070	
+NCPPB 1944	present_in_both	complete_genome_available	complete_genome_available	no	SAMN03246830	SAMN03246830	no	GCF_021903335.1; GCF_000807145.1	GCF_000807145.1; GCF_021903335.1	no			no		SAMN03246830
+NCPPB 1945	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 1946	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36368324; SAMN22552835; SAMN17385960; SAMN36315929	SAMN36368324; SAMN22552835; SAMN17385960	yes	GCA_035023745.1; GCF_020813075.1; GCF_035011485.1	GCF_020813075.1	yes	SRR25205305; SRR29823164; SRR14648387; SRR25155931	SRR29823164; SRR14648387	yes	SAMN36368324; SAMN22552835; SAMN17385960	SAMN17385960
+NCPPB 1974	present_in_both	ambiguous_candidate_records_need_review	draft_assembly_available	yes		SAMD00538104; SAMN05721779; SAMN01176238	yes		GCF_001997185.1	yes		SRR4114369; SRR5481499; SRR5481500; SRR5481501; SRR5481502	yes	SAMD00538104	SAMD00538104; SAMN05721779; SAMN01176238
+NCPPB 1975	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 1981	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 2005	present_in_both	complete_genome_available	complete_genome_available	no	SAMN49535419; SAMN02471727; SAMN00860199	SAMN49535419; SAMN02471727; SAMN00860199	no	GCF_055597945.1; GCF_000277875.1	GCF_055597945.1; GCF_000277875.1	no	SRR34105450; SRR34103842; SRR489154	SRR34103842; SRR34105450; SRR489154	no	SAMN49535419; SAMN02471727; SAMN00860199	
+NCPPB 2011	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 2016	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 2031	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2044	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2057	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN19988978	SAMN19988978	no	GCF_019201405.1		yes	SRR15305419		yes	SAMN19988978	
+NCPPB 2058	present_in_both	raw_reads_only	raw_reads_only	no	SAMN42278565	SAMN42278565	no			no	SRR29692762	SRR29692762	no	SAMN42278565	
+NCPPB 2059	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2060	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN42180189	SAMN42180189	no	GCF_053571485.1	GCF_053571485.1	no	SRR30037968; SRR29655370	SRR29655370; SRR30037968	no	SAMN42180189	
+NCPPB 2061	present_in_both	complete_genome_available	complete_genome_available	no	SAMN07251989	SAMN07251989	no	GCF_002218285.1	GCF_002218285.1	no			no		SAMN07251989
+NCPPB 2062	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2063	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42284474	SAMN42284474	no	GCF_041475655.1	GCF_041475655.1	no	SRR30037370; SRR29694808	SRR29694808; SRR30037370	no	SAMN42284474	
+NCPPB 2064	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN56511367; SAMN03142816	SAMN56511367; SAMN03142816	no	GCF_000786995.1	GCF_000786995.1	no	SRR37789909; SRR37629092; SRR2051463	SRR37629092; SRR37789909; SRR2051463	no	SAMN56511367; SAMN03142816	
+NCPPB 2066	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42278573	SAMN42278573	no	GCF_041464105.1	GCF_041464105.1	no	SRR29692753	SRR29692753	no	SAMN42278573	
+NCPPB 2067	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2095	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2097	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2099	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2147	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2181	present_in_both	biosample_metadata_only_no_linked_sequence	biosample_metadata_only_no_linked_sequence	no	SAMD00537715	SAMD00537715	no			no			no	SAMD00537715	
+NCPPB 2182	present_in_both	raw_reads_only	raw_reads_only	no	SAMN42488057	SAMN42488057	no			no	SRR29823101	SRR29823101	no	SAMN42488057	
+NCPPB 2183	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2190	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN56511368; SAMN22555465	SAMN56511368; SAMN22555465	no	GCF_020784125.1	GCF_020784125.1	no	SRR37789908; SRR37629091; SRR22272562	SRR37629091; SRR37789908; SRR22272562	no	SAMN56511368; SAMN22555465	
+NCPPB 2217	present_in_both	no_confirmed_public_sequence_data	raw_reads_only	yes		SAMN56511392; SAMEA5613848	yes			no		ERR3330907	yes	SAMN56511392	SAMEA5613848
+NCPPB 2218	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2226	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2228	present_in_both	raw_reads_only	raw_reads_only	no	SAMN42280121	SAMN42280121	no			no	SRR30018466; SRR29694609	SRR29694609; SRR30018466	no	SAMN42280121	
+NCPPB 2229	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2230	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN42278570	SAMN42278570	no	GCF_041447795.1	GCF_041447795.1	no	SRR29692756	SRR29692756	no	SAMN42278570	
+NCPPB 2247	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2248	present_in_both	raw_reads_only	raw_reads_only	no	SAMN09704264	SAMN09704264	no			no	SRR7628818	SRR7628818	no	SAMN09704264	
+NCPPB 2249	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2250	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161504	SAMN42161504	no	GCF_056725265.1	GCF_056725265.1	no	SRR30040120; SRR29644172	SRR29644172; SRR30040120	no	SAMN42161504	
+NCPPB 2251	present_in_both	complete_genome_available	complete_genome_available	no	SAMN49535420; SAMN42486836; SAMN00991248	SAMN49535420; SAMN42486836; SAMN00991248	no	GCF_055597905.1; GCF_001189905.1	GCF_055597905.1; GCF_001189905.1	no	SRR34105449; SRR34103841; SRR29823051; SRR494492	SRR34103841; SRR34105449; SRR29823051; SRR494492	no	SAMN49535420; SAMN42486836; SAMN00991248	
+NCPPB 2255	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2257	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2258	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2269	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2297	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2336	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2337	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN22555462	SAMN22555462	no	GCF_020783675.1	GCF_020783675.1	no	SRR22272559	SRR22272559	no	SAMN22555462	
+NCPPB 2338	present_in_both	raw_reads_only	raw_reads_only	no	SAMN56511369	SAMN56511369	no			no	SRR37789907; SRR37629090	SRR37629090; SRR37789907	no	SAMN56511369	
+NCPPB 2345	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN22552837	SAMN22552837	no	GCF_020812975.1	GCF_020812975.1	no	SRR29823157	SRR29823157	no	SAMN22552837	
+NCPPB 2346	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN19988995	SAMN19988995	no	GCF_019201075.1		yes	SRR15305435		yes	SAMN19988995	
+NCPPB 2352	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42284549	SAMN42284549	no	GCF_053646475.1	GCF_053646475.1	no	SRR30037789; SRR29695343	SRR29695343; SRR30037789	no	SAMN42284549	
+NCPPB 2368	present_in_both	raw_reads_only	raw_reads_only	no	SAMN42280123	SAMN42280123	no			no	SRR30018464; SRR29694607	SRR29694607; SRR30018464	no	SAMN42280123	
+NCPPB 2369	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42178445	SAMN42178445	no	GCF_041461625.1	GCF_041461625.1	no	SRR30041329; SRR29654664	SRR29654664; SRR30041329	no	SAMN42178445	
+NCPPB 2370	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2371	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2372	present_in_both	complete_genome_available	taxonomy_review_required_before_sequence_use	yes	SAMN42175581; SAMN19988979	SAMN42175581; SAMN19988979	no	GCF_041463625.1; GCF_019201375.1		yes	SRR30037665; SRR29651791; SRR15305418		yes	SAMN42175581; SAMN19988979	
+NCPPB 2373	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN19988980	SAMN19988980	no	GCF_019201365.1		yes	SRR15305433		yes	SAMN19988980	
+NCPPB 2374	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 2375	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2376	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2387	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2388	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2389	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2393	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2417	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36358005; SAMN03140148; SAMN05560344	SAMN36358005; SAMN03140148; SAMN05560344	no	GCF_030551335.2; GCF_000772705.2; GCF_002939925.1	GCF_030551335.2; GCF_000772705.2; GCF_002939925.1	no	SRR25194035	SRR25194035	no	SAMN36358005; SAMN03140148	SAMN05560344
+NCPPB 2436	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2438	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2439	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN56511370; SAMN22555466	SAMN56511370; SAMN22555466	no	GCF_020783815.1	GCF_020783815.1	no	SRR37789906; SRR37629089; SRR22272569	SRR37629089; SRR37789906; SRR22272569	no	SAMN56511370; SAMN22555466	
+NCPPB 2443	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2444	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2446	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2475	present_in_both	complete_genome_available	taxonomy_review_required_before_sequence_use	yes	SAMN26688428; SAMEA3139044	SAMN26688428; SAMEA3139044	no	GCF_053538855.1; GCF_000723725.2		yes			no		SAMN26688428; SAMEA3139044
+NCPPB 2490	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2492	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2493	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2494	present_in_both	raw_reads_only	raw_reads_only	no	SAMN42180197	SAMN42180197	no			no	SRR30037606; SRR29655433	SRR29655433; SRR30037606	no	SAMN42180197	
+NCPPB 2495	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2496	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2497	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2498	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN19988981	SAMN19988981	no	GCF_019201245.1		yes	SRR15305411		yes	SAMN19988981	
+NCPPB 2499	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2503	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2517	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36368330	SAMN36368330	no	GCA_035023345.1	GCA_035023345.1	no	SRR25205298	SRR25205298	no	SAMN36368330	
+NCPPB 2550	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2567	present_in_both	complete_genome_available	complete_genome_available	no	SAMN10290145	SAMN10290145	no	GCF_009883735.1	GCF_009883735.1	no	SRR10200225; SRR10200226; SRR10200227; SRR10200228; SRR10200229; SRR10200230; SRR10176391; SRR10176392	SRR10176392; SRR10176391; SRR10200230; SRR10200229; SRR10200228; SRR10200227; SRR10200226; SRR10200225	no		SAMN10290145
+NCPPB 2572	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2573	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2574	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2575	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2576	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2586	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161505; SAMN22552828	SAMN42161505; SAMN22552828	no	GCF_041475775.1; GCF_020813175.1	GCF_041475775.1; GCF_020813175.1	no	SRR30040119; SRR29644170; SRR29823156	SRR29644170; SRR30040119; SRR29823156	no	SAMN42161505; SAMN22552828	
+NCPPB 2587	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2588	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2592	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2593	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2594	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03177544	SAMN03177544	no	GCF_001691375.1	GCF_001691375.1	no	SRR4714149	SRR4714149	no		SAMN03177544
+NCPPB 2595	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2597	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN05560221	SAMN05560221	no	GCF_002939885.1	GCF_002939885.1	no			no		SAMN05560221
+NCPPB 2605	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2614	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2615	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2616	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2632	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161506	SAMN42161506	no	GCF_041228075.1	GCF_041228075.1	no	SRR30016876; SRR29644169	SRR29644169; SRR30016876	no	SAMN42161506	
+NCPPB 2649	present_in_both	complete_genome_available	complete_genome_available	no	SAMN03140274	SAMN03140274	no	GCF_000770355.2	GCF_000770355.2	no			no	SAMN03140274	
+NCPPB 2654	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161507; SAMN35699823	SAMN42161507; SAMN35699823	no	GCF_056725245.1; GCF_030287385.1	GCF_056725245.1; GCF_030287385.1	no	SRR30040118; SRR29644168	SRR29644168; SRR30040118	no	SAMN42161507; SAMN35699823	
+NCPPB 2665	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03142403	SAMN03142403	no	GCF_000775195.1	GCF_000775195.1	no	SRR2052428	SRR2052428	no	SAMN03142403	
+NCPPB 2695	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2696	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2697	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2698	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2699	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2700	present_in_both	complete_genome_available	complete_genome_available	no	SAMN18876882; SAMN03892232	SAMN03892232; SAMN18876882	no	GCF_021903375.1; GCF_001269865.1	GCF_001269865.1; GCF_021903375.1	no			no		SAMN03892232; SAMN18876882
+NCPPB 2701	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2817	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2819	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2820	present_in_both	no_confirmed_public_sequence_data	ambiguous_needs_review	yes			no			no			no		
+NCPPB 2821	present_in_both	complete_genome_available	complete_genome_available	no	SAMN18753780	SAMN18753780	no	GCF_021903275.1	GCF_021903275.1	no			no		SAMN18753780
+NCPPB 2822	present_in_both	complete_genome_available	complete_genome_available	no	SAMN18753387	SAMN18753387	no	GCF_021903295.1	GCF_021903295.1	no			no		SAMN18753387
+NCPPB 2825	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2826	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2827	present_in_both	no_confirmed_public_sequence_data	ambiguous_needs_review	yes			no			no			no		
+NCPPB 2828	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2829	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2831	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2832	present_in_both	raw_reads_only	raw_reads_only	no	SAMN42278575	SAMN42278575	no			no	SRR29692760	SRR29692760	no	SAMN42278575	
+NCPPB 2834	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2835	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2836	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2837	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2838	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2839	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2840	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2856	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN42161508	SAMN42161508	no	GCF_056675635.1	GCF_056675635.1	no	SRR29644167	SRR29644167	no	SAMN42161508	
+NCPPB 2857	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36346974	SAMN36346974	no	GCA_035026865.1	GCA_035026865.1	no	SRR25183327	SRR25183327	no	SAMN36346974	
+NCPPB 2859	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2864	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN42161509	SAMN42161509	no	GCF_056675615.1	GCF_056675615.1	no	SRR29644166	SRR29644166	no	SAMN42161509	
+NCPPB 2865	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161510	SAMN42161510	no	GCF_041475785.1	GCF_041475785.1	no	SRR30040143; SRR29644165	SRR29644165; SRR30040143	no	SAMN42161510	
+NCPPB 2866	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161511	SAMN42161511	no	GCF_041475745.1	GCF_041475745.1	no	SRR30040142; SRR29644164	SRR29644164; SRR30040142	no	SAMN42161511	
+NCPPB 2876	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2877	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN03164131	SAMN03164131	no	GCF_000802365.1		yes	SRR4718189		yes	SAMN03164131	
+NCPPB 2879	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2885	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2894	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2896	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2898	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2904	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2910	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2914	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN42180190	SAMN42180190	no	GCF_053571525.1	GCF_053571525.1	no	SRR30037967; SRR29655369	SRR29655369; SRR30037967	no	SAMN42180190	
+NCPPB 2918	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN57360828; SAMN22552833	SAMN57360828; SAMN22552833	no	GCF_057218975.1; GCF_020813055.1	GCF_057218975.1; GCF_020813055.1	no	SRR38178864; SRR29823155	SRR38178864; SRR29823155	no	SAMN57360828; SAMN22552833	
+NCPPB 2919	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2920	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2921	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2922	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN43286070; SAMN42485110	SAMN43286070; SAMN42485110	no	GCF_041520885.1	GCF_041520885.1	no	SRR30327310; SRR29821703	SRR30327310	yes	SAMN43286070; SAMN42485110	
+NCPPB 2925	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2927	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2928	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2930	present_in_both	no_confirmed_public_sequence_data	taxonomy_review_required_before_sequence_use	yes		SAMN41764005	yes			no			no	SAMN41764005	
+NCPPB 2931	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2932	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN19988982	SAMN19988982	no	GCF_019201325.1		yes	SRR15305431		yes	SAMN19988982	
+NCPPB 2933	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161512	SAMN42161512	no	GCF_056725225.1	GCF_056725225.1	no	SRR30040141; SRR29644163	SRR29644163; SRR30040141	no	SAMN42161512	
+NCPPB 2934	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2935	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2936	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2938	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2949	present_in_both	raw_reads_only	raw_reads_only	no	SAMN39942673	SAMN39942673	no			no	SRR27965829	SRR27965829	no	SAMN39942673	
+NCPPB 2953	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2955	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2959	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN43284582; SAMD00253073; SAMN05560300; SAMEA5613906	SAMN05560300; SAMN43284582; SAMD00253073; SAMEA5613906	no	GCA_042665655.1; GCF_002940065.1	GCF_002940065.1; GCA_042665655.1	no	ERR3330981	ERR3330981	no		SAMN05560300; SAMN43284582; SAMD00253073; SAMEA5613906
+NCPPB 2960	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2963	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2965	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2967	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2968	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN23026081; SAMN05003920; SAMN02903176	SAMN23026081; SAMN05003920; SAMN02903176	no	GCF_020880415.1; GCF_001401555.1	GCF_020880415.1; GCF_001401555.1	no	SRR16936533; SRR3530404; SRR1509955	SRR16936533; SRR3530404; SRR1509955	no		SAMN23026081; SAMN05003920; SAMN02903176
+NCPPB 2969	present_in_both	complete_genome_available	draft_assembly_available	yes	SAMN37985479; SAMN37985478; SAMN37985477; SAMN37985476; SAMN37985475; SAMN37985474; SAMN37985473; SAMN37985472; SAMN37985471; SAMN37985470; SAMN37985469; SAMEA6139367; SAMEA6139366; SAMEA6139365; SAMEA6139364; SAMEA6139363; SAMN05526486	SAMN37985479; SAMN37985478; SAMN37985477; SAMN37985476; SAMN37985475; SAMN37985474; SAMN37985473; SAMN37985472; SAMN37985471; SAMN37985470; SAMN37985469; SAMN05526486	yes	GCF_902712985.1; GCF_902712965.1; GCA_902712975.1; GCA_902712945.1; GCA_902712955.1; GCF_002939705.1	GCF_002939705.1	yes	SRR26525693; SRR26525694; SRR26525691; SRR26525692; SRR26525689; SRR26525690; SRR26525687; SRR26525688; SRR26525683; SRR26525684; SRR26525679; SRR26525680; SRR26525685; SRR26525686; SRR26525681; SRR26525682; SRR26525677; SRR26525678; SRR26525675; SRR26525676; SRR26525673; SRR26525674; ERR5548200; ERR5548201; ERR5548202; ERR5548203; ERR5548204	SRR26525693; SRR26525694; SRR26525691; SRR26525692; SRR26525689; SRR26525690; SRR26525687; SRR26525688; SRR26525683; SRR26525684; SRR26525679; SRR26525680; SRR26525685; SRR26525686; SRR26525681; SRR26525682; SRR26525677; SRR26525678; SRR26525675; SRR26525676; SRR26525673; SRR26525674	yes		SAMN37985479; SAMN37985478; SAMN37985477; SAMN37985476; SAMN37985475; SAMN37985474; SAMN37985473; SAMN37985472; SAMN37985471; SAMN37985470; SAMN37985469; SAMN05526486
+NCPPB 2970	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN22552843	SAMN22552843	no	GCF_020813015.2	GCF_020813015.2	no	SRR29823154; SRR27397525	SRR27397525; SRR29823154	no	SAMN22552843	
+NCPPB 2973	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42178454	SAMN42178454	no	GCF_053646635.1	GCF_053646635.1	no	SRR30037585; SRR29654627	SRR29654627; SRR30037585	no	SAMN42178454	
+NCPPB 2977	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2978	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2982	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2983	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN22555472	SAMN22555472	no	GCF_020783715.1	GCF_020783715.1	no	SRR22272563	SRR22272563	no	SAMN22555472	
+NCPPB 2985	present_in_both	complete_genome_available	complete_genome_available	no	SAMEA6962649; SAMN24251549; SAMN09704270	SAMEA6962649; SAMN24251549; SAMN09704270	no	GCF_903978215.1; GCF_021353095.1	GCF_903978215.1; GCF_021353095.1	no	ERR4327119; ERR4326261; SRR17286018; SRR7628820	ERR4326261; ERR4327119; SRR17286018; SRR7628820	no	SAMEA6962649	SAMEA6962649; SAMN24251549; SAMN09704270
+NCPPB 2986	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN22552830; SAMN17385948; SAMN36368323	SAMN22552830; SAMN17385948; SAMN36368323	no	GCF_020813115.1; GCA_035023805.1	GCF_020813115.1	yes	SRR29823153; SRR14648466; SRR25205306	SRR29823153; SRR14648466	yes	SAMN22552830; SAMN17385948; SAMN36368323	SAMN17385948
+NCPPB 2987	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 2997	present_in_both	raw_reads_only	raw_reads_only	no	SAMN42180198	SAMN42180198	no			no	SRR30037605; SRR29655432	SRR29655432; SRR30037605	no	SAMN42180198	
+NCPPB 2998	present_in_both	raw_reads_only	raw_reads_only	no	SAMN42180199	SAMN42180199	no			no	SRR30037604; SRR29655431	SRR29655431; SRR30037604	no	SAMN42180199	
+NCPPB 3002	present_in_both	complete_genome_available	complete_genome_available	no	SAMN40354541; SAMN02440720	SAMN40354541; SAMN02440720	no	GCF_040202795.2; GCF_000482445.1	GCF_040202795.2; GCF_000482445.1	no	SRR30284785; SRR28281451; SRR1592663; SRR1592662	SRR28281451; SRR30284785; SRR1592662; SRR1592663	no	SAMN40354541	SAMN02440720
+NCPPB 3003	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN05559875	SAMN05559875	no	GCF_002940645.1	GCF_002940645.1	no			no		SAMN05559875
+NCPPB 3005	present_in_both	complete_genome_available	taxonomy_review_required_before_sequence_use	yes	SAMN41997674	SAMN41997674	no	GCF_041228095.2		yes	SRR30016870; SRR29501315		yes	SAMN41997674	
+NCPPB 3020	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3022	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3024	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3026	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3027	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3028	present_in_both	raw_reads_only	raw_reads_only	no	SAMN39942674	SAMN39942674	no			no	SRR27965828	SRR27965828	no	SAMN39942674	
+NCPPB 3035	present_in_both	complete_genome_available	complete_genome_available	no	SAMN41997685; SAMN03142817	SAMN41997685; SAMN03142817	no	GCF_041228065.2; GCF_000774035.1	GCF_041228065.2; GCF_000774035.1	no	SRR30037810; SRR29501375; SRR2052883	SRR29501375; SRR30037810; SRR2052883	no	SAMN41997685; SAMN03142817	SAMN41997685
+NCPPB 3040	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3041	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3058	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3059	present_in_both	ambiguous_candidate_records_need_review	taxonomy_review_required_before_sequence_use	yes		SAMEA247356; SAMEA4156338	yes			no			no	SAMEA247356; SAMEA4156338	
+NCPPB 3060	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3061	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3062	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3066	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3078	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 3079	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN19988983	SAMN19988983	no	GCF_019201285.1		yes	SRR15305429		yes	SAMN19988983	
+NCPPB 3082	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3086	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42278568	SAMN42278568	no	GCF_041475625.1	GCF_041475625.1	no	SRR30016546; SRR29692758	SRR29692758; SRR30016546	no	SAMN42278568	
+NCPPB 3092	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3110	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3114	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN19988993	SAMN19988993	no	GCA_019201545.1		yes	SRR15305415		yes	SAMN19988993	
+NCPPB 3119	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3125	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3135	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3136	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3140	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3155	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3156	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3161	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3162	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN22555461	SAMN22555461	no	GCF_020783685.1		yes	SRR22272560		yes	SAMN22555461	
+NCPPB 3168	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3169	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3170	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3172	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3173	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3174	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161513	SAMN42161513	no	GCF_056725205.1	GCF_056725205.1	no	SRR30040140; SRR29644162	SRR29644162; SRR30040140	no	SAMN42161513	
+NCPPB 3176	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3177	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3178	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3182	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3187	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3191	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3192	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3194	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3200	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42923733	SAMN42923733	no	GCF_056393585.1	GCF_056393585.1	no	SRR30041396	SRR30041396	no	SAMN42923733	
+NCPPB 3204	present_in_both	raw_reads_only	raw_reads_only	no	SAMN42180200	SAMN42180200	no			no	SRR30037603; SRR29655430	SRR29655430; SRR30037603	no	SAMN42180200	
+NCPPB 3207	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3212	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3213	present_in_both	complete_genome_available	taxonomy_review_required_before_sequence_use	yes	SAMN49561543; SAMEA3121378; SAMEA114332029	SAMN49561543; SAMEA3121378; SAMEA114332029	no	GCF_052883735.1; GCF_001497855.1; GCF_963669635.1		yes	ERR12095368		yes	SAMN49561543; SAMEA3121378; SAMEA114332029	
+NCPPB 3215	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3218	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161514	SAMN42161514	no	GCF_056725185.1	GCF_056725185.1	no	SRR30040139; SRR29644161	SRR29644161; SRR30040139	no	SAMN42161514	
+NCPPB 3229	present_in_both	complete_genome_available	complete_genome_available	no	SAMN19468000; SAMEA3486180	SAMN19468000; SAMEA3486180	no	GCF_021919285.1; GCF_001282805.1	GCF_021919285.1; GCF_001282805.1	no			no		SAMN19468000; SAMEA3486180
+NCPPB 3230	present_in_both	complete_genome_available	complete_genome_available	no	SAMN19467923; SAMEA3486272; SAMN05258173	SAMN05258173; SAMN19467923; SAMEA3486272	no	GCF_021903515.1; GCF_001282765.1; GCF_001707435.1	GCF_001707435.1; GCF_021903515.1; GCF_001282765.1	no	SRR5110800	SRR5110800	no		SAMN05258173; SAMN19467923; SAMEA3486272
+NCPPB 3231	present_in_both	complete_genome_available	complete_genome_available	no	SAMN19467924; SAMEA3486273	SAMN19467924; SAMEA3486273	no	GCF_021906975.1; GCF_001282885.1	GCF_021906975.1; GCF_001282885.1	no			no		SAMN19467924; SAMEA3486273
+NCPPB 3232	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3233	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3234	present_in_both	draft_assembly_available	ambiguous_needs_review	yes	SAMEA114332007		yes	GCF_963669835.1		yes	ERR12095346		yes		
+NCPPB 3235	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3236	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMD00253039; SAMEA114331996	SAMD00253039; SAMEA114331996	no	GCF_963669675.1	GCF_963669675.1	no	ERR12095335	ERR12095335	no		SAMD00253039; SAMEA114331996
+NCPPB 3237	present_in_both	draft_assembly_available	ambiguous_needs_review	yes	SAMEA114332008; SAMN23026106		yes	GCF_963669495.1; GCF_020879535.1		yes	ERR12095347; SRR16936505		yes		
+NCPPB 3240	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3241	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3242	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3245	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3290	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3291	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3292	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3301	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3303	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3304	present_in_both	biosample_metadata_only_no_linked_sequence	ambiguous_needs_review	yes	SAMN06237132		yes			no			no		
+NCPPB 3311	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3312	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3313	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3314	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3315	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3329	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3330	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3361	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3363	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3380	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3381	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3382	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3426	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3434	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN22555469	SAMN22555469	no	GCF_020783655.1	GCF_020783655.1	no	SRR22272568	SRR22272568	no	SAMN22555469	
+NCPPB 3435	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3437	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3438	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3440	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN40354570	SAMN40354570	no	GCF_040203315.1		yes	SRR30293563; SRR28281419		yes	SAMN40354570	
+NCPPB 3441	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161515	SAMN42161515	no	GCF_056725165.1	GCF_056725165.1	no	SRR30040138; SRR29644159	SRR29644159; SRR30040138	no	SAMN42161515	
+NCPPB 3442	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161516	SAMN42161516	no	GCF_056725145.1	GCF_056725145.1	no	SRR30040137; SRR29644158	SRR29644158; SRR30040137	no	SAMN42161516	SAMN42161516
+NCPPB 3443	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161485	SAMN42161485	no	GCF_041475685.1	GCF_041475685.1	no	SRR30040136; SRR29644183	SRR29644183; SRR30040136	no	SAMN42161485	SAMN42161485
+NCPPB 3456	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3457	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3479	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3484	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3559	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3560	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3561	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3562	present_in_both	ambiguous_candidate_records_need_review	raw_reads_only	yes		SAMN13783129	yes			no		SRR11234662; SRR11234643	yes	SAMN13783129	
+NCPPB 3563	present_in_both	draft_assembly_available	biosample_metadata_only_no_linked_sequence	yes	SAMN06853998; SAMN30096794	SAMN06853998	yes	GCF_031630075.1		yes	SRR35290729; SRR35018596		yes	SAMN06853998	
+NCPPB 3566	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36346322	SAMN36346322	no	GCA_035060515.1	GCA_035060515.1	no	SRR25181712	SRR25181712	no	SAMN36346322	
+NCPPB 3567	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3568	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3569	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161486	SAMN42161486	no	GCF_041475645.1	GCF_041475645.1	no	SRR30040135; SRR29644182	SRR29644182; SRR30040135	no	SAMN42161486	
+NCPPB 3570	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161487	SAMN42161487	no	GCF_056725115.1	GCF_056725115.1	no	SRR30040134; SRR29644171	SRR29644171; SRR30040134	no	SAMN42161487	
+NCPPB 3573	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3582	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161488	SAMN42161488	no	GCF_041475735.1	GCF_041475735.1	no	SRR30040132; SRR29644160	SRR29644160; SRR30040132	no	SAMN42161488	
+NCPPB 3583	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161489	SAMN42161489	no	GCF_041475715.1	GCF_041475715.1	no	SRR30040131; SRR29644157	SRR29644157; SRR30040131	no	SAMN42161489	SAMN42161489
+NCPPB 3586	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN04481177; SAMN02903174	SAMN04481177; SAMN02903174	no	GCF_001640215.1; GCA_001412025.2	GCF_001640215.1; GCA_001412025.2	no	SRR3715269; SRR2182153; SRR1522064; SRR1509959	SRR1509959; SRR1522064; SRR2182153; SRR3715269	no		SAMN04481177; SAMN02903174
+NCPPB 3587	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 3588	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3589	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3592	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3593	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3595	present_in_both	draft_assembly_available	ambiguous_needs_review	yes	SAMN30096794		yes	GCF_031630075.1		yes	SRR35290729; SRR35018596		yes		
+NCPPB 3596	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3607	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMEA2827559	SAMEA2827559	no	GCF_000825345.2	GCF_000825345.2	no			no	SAMEA2827559	
+NCPPB 3608	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3609	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3611	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3612	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMEA2827237	SAMEA2827237; SAMN13783131	yes	GCF_000825385.2	GCF_000825385.2	no		SRR11234640	yes	SAMEA2827237; SAMN13783131	
+NCPPB 3614	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3615	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMEA2827229; SAMEA2827227	SAMEA2827229; SAMEA2827227	no	GCF_000825585.2; GCF_000825565.2	GCF_000825585.2; GCF_000825565.2	no			no	SAMEA2827229; SAMEA2827227	
+NCPPB 3638	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3639	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3640	present_in_both	draft_assembly_available	ambiguous_needs_review	yes	SAMN30096796		yes	GCF_031630015.1		yes	SRR35018594		yes		
+NCPPB 3641	present_in_both	draft_assembly_available	ambiguous_needs_review	yes	SAMN30096797		yes	GCF_031629995.1		yes	SRR35018593		yes		
+NCPPB 3642	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3646	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3647	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3651	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3652	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3653	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3654	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3655	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3656	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3657	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3658	present_in_both	chromosome_level_assembly_available	chromosome_level_assembly_available	no	SAMN02469937	SAMN02469937	no	GCF_000488895.1	GCF_000488895.1	no	SRR14027991	SRR14027991	no		SAMN02469937
+NCPPB 3659	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3660	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03142811	SAMN03142811	no	GCF_000786925.1	GCF_000786925.1	no	SRR2052643	SRR2052643	no	SAMN03142811	
+NCPPB 3661	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3662	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42178438	SAMN42178438	no	GCF_053571425.1	GCF_053571425.1	no	SRR30041328; SRR29654671	SRR29654671; SRR30041328	no	SAMN42178438	
+NCPPB 3663	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3705	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3706	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3709	present_in_both	complete_genome_available	complete_genome_available	no	SAMN19468006; SAMEA4072397	SAMN19468006; SAMEA4072397	no	GCF_055476535.1; GCF_900092565.1	GCF_055476535.1; GCF_900092565.1	no			no	SAMN19468006; SAMEA4072397	
+NCPPB 3711	present_in_both	complete_genome_available	complete_genome_available	no	SAMN19021786	SAMN19021786	no	GCF_030168915.1	GCF_030168915.1	no			no	SAMN19021786	
+NCPPB 3712	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3713	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3714	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3716	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3717	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3718	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3719	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3720	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3722	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3742	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3743	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN39942675; SAMEA4590056	SAMN39942675; SAMEA4590056	no	GCF_900380055.1	GCF_900380055.1	no	SRR27965827; ERR2528887	SRR27965827; ERR2528887	no	SAMN39942675; SAMEA4590056	
+NCPPB 3744	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3753	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN03164132	SAMN03164132	no	GCF_000802405.1		yes	SRR4718190		yes	SAMN03164132	
+NCPPB 3754	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3758	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42180201	SAMN42180201	no	GCF_041462925.1	GCF_041462925.1	no	SRR30037602; SRR29655429	SRR29655429; SRR30037602	no	SAMN42180201	
+NCPPB 3759	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN19988984	SAMN19988984	no	GCF_019201105.1		yes	SRR15305426		yes	SAMN19988984	
+NCPPB 3761	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161490	SAMN42161490	no	GCF_041475705.1	GCF_041475705.1	no	SRR30040130; SRR29644156	SRR29644156; SRR30040130	no	SAMN42161490	
+NCPPB 3776	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3786	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3795	present_in_both	complete_genome_available	taxonomy_review_required_before_sequence_use	yes	SAMN42175582	SAMN42175582	no	GCF_041463615.1		yes	SRR30037664; SRR29651790		yes	SAMN42175582	
+NCPPB 3796	present_in_both	complete_genome_available	taxonomy_review_required_before_sequence_use	yes	SAMN42175583	SAMN42175583	no	GCF_041463605.1		yes	SRR30037663; SRR29651789		yes	SAMN42175583	
+NCPPB 3797	present_in_both	complete_genome_available	taxonomy_review_required_before_sequence_use	yes	SAMN42175584	SAMN42175584	no	GCF_041463635.1		yes	SRR30037662; SRR29651788		yes	SAMN42175584	
+NCPPB 3799	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3800	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3801	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3829	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3830	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3831	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3832	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3870	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3875	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3876	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 3877	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 3878	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3880	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 3883	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN57360827; SAMN22552831	SAMN57360827; SAMN22552831	no	GCF_020813155.1	GCF_020813155.1	no	SRR38178865; SRR29823151	SRR38178865; SRR29823151	no	SAMN57360827; SAMN22552831	
+NCPPB 3884	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN57360826; SAMN22552832	SAMN57360826; SAMN22552832	no	GCF_020813085.1	GCF_020813085.1	no	SRR38178866; SRR29823150	SRR38178866; SRR29823150	no	SAMN57360826; SAMN22552832	
+NCPPB 3885	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3886	present_in_both	complete_genome_available	taxonomy_review_required_before_sequence_use	yes	SAMN42175585	SAMN42175585	no	GCF_041463755.1		yes	SRR30037661; SRR29651787		yes	SAMN42175585	
+NCPPB 3887	present_in_both	complete_genome_available	taxonomy_review_required_before_sequence_use	yes	SAMN42175586	SAMN42175586	no	GCF_041463645.1		yes	SRR30037660; SRR29651786		yes	SAMN42175586	
+NCPPB 3888	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN22555468	SAMN22555468	no	GCF_020783765.1	GCF_020783765.1	no	SRR22272566	SRR22272566	no	SAMN22555468	
+NCPPB 3890	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3925	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3926	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3927	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN43286079	SAMN43286079	no	GCF_041521265.1	GCF_041521265.1	no	SRR30327315	SRR30327315	no	SAMN43286079	
+NCPPB 3931	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3932	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3942	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3943	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3944	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3947	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3948	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42178462	SAMN42178462	no	GCF_041489455.1	GCF_041489455.1	no	SRR30037950; SRR29654625	SRR29654625; SRR30037950	no	SAMN42178462	
+NCPPB 3949	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3950	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3951	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3953	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3954	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3955	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3956	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3957	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 3959	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN42161491	SAMN42161491	no	GCF_056675575.1	GCF_056675575.1	no	SRR29644155	SRR29644155	no	SAMN42161491	
+NCPPB 3960	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4013	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN56511371; SAMN22555464	SAMN56511371; SAMN22555464	no	GCF_020784175.1	GCF_020784175.1	no	SRR37789905; SRR37629088; SRR22272570	SRR37629088; SRR37789905; SRR22272570	no	SAMN56511371; SAMN22555464	
+NCPPB 4014	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4015	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4031	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4032	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4033	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4034	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4037	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161492; SAMN22552836	SAMN42161492; SAMN22552836	no	GCF_041475695.1; GCF_020812955.1	GCF_041475695.1; GCF_020812955.1	no	SRR30040129; SRR29644154; SRR29823163	SRR29644154; SRR30040129; SRR29823163	no	SAMN42161492; SAMN22552836	
+NCPPB 4058	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN24251536	SAMN24251536	no	GCF_021352915.1	GCF_021352915.1	no	SRR17286009	SRR17286009	no	SAMN24251536	
+NCPPB 4181	present_in_both	raw_reads_only	raw_reads_only	no	SAMN39942677	SAMN39942677	no			no	SRR27965825	SRR27965825	no	SAMN39942677	
+NCPPB 4183	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4210	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4231	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN22552841	SAMN22552841	no	GCF_020812995.1		yes	SRR29823162		yes	SAMN22552841	
+NCPPB 4232	present_in_both	draft_assembly_available	taxonomy_review_required_before_sequence_use	yes	SAMN22552842	SAMN22552842	no	GCF_020813195.1		yes	SRR29823161		yes	SAMN22552842	
+NCPPB 4321	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN14837221	SAMN14837221	no	GCF_013112235.1	GCF_013112235.1	no	SRR11788032	SRR11788032	no		SAMN14837221
+NCPPB 4322	present_in_both	draft_assembly_available	ambiguous_needs_review	yes	SAMN23026091		yes	GCF_020879955.1		yes	SRR16936522		yes		
+NCPPB 4323	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4324	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4326	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4340	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4341	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4342	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4343	present_in_both	ambiguous_candidate_records_need_review	no_confirmed_public_data	yes			no			no			no		
+NCPPB 4344	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4345	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN22555471	SAMN22555471	no	GCA_020783755.1	GCA_020783755.1	no	SRR22272565	SRR22272565	no	SAMN22555471	
+NCPPB 4346	present_in_both	complete_genome_available	taxonomy_review_required_before_sequence_use	yes	SAMN10956069; SAMN03862116	SAMN10956069; SAMN03862116	no	GCF_001276975.2		yes	SRR8618953; SRR2133447		yes	SAMN10956069; SAMN03862116	
+NCPPB 4347	present_in_both	raw_reads_only	raw_reads_only	no	SAMN42488056	SAMN42488056	no			no	SRR29823102	SRR29823102	no	SAMN42488056	
+NCPPB 4348	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN19988985	SAMN19988985	no	GCF_019201145.1	GCF_019201145.1	no	SRR15305428	SRR15305428	no	SAMN19988985	
+NCPPB 4349	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN19988986	SAMN19988986	no	GCF_019201165.1	GCF_019201165.1	no	SRR15305416	SRR15305416	no	SAMN19988986	
+NCPPB 4350	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN56511372; SAMN44672901; SAMD00253079	SAMN56511372; SAMN44672901; SAMD00253079	no	GCF_046365405.1	GCF_046365405.1	no	SRR37789904; SRR37629087; SRR31305555	SRR37629087; SRR37789904; SRR31305555	no	SAMN56511372; SAMN44672901	SAMD00253079
+NCPPB 4351	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN19988987	SAMN19988987	no	GCF_019201265.1	GCF_019201265.1	no	SRR15305410	SRR15305410	no	SAMN19988987	
+NCPPB 4352	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN19988988	SAMN19988988	no	GCF_019201205.1	GCF_019201205.1	no	SRR15305413	SRR15305413	no	SAMN19988988	
+NCPPB 4353	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4355	present_in_both	chromosome_level_assembly_available	chromosome_level_assembly_available	no	SAMN02646549	SAMN02646549	no	GCF_000730305.1	GCF_000730305.1	no			no		SAMN02646549
+NCPPB 4356	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN09704276; SAMN24251551; SAMN05560222; SAMD00253043	SAMN09704276; SAMN24251551; SAMN05560222; SAMD00253043	no	GCF_021352995.1; GCF_002939985.1	GCF_021352995.1; GCF_002939985.1	no	SRR7628813; SRR17286016	SRR7628813; SRR17286016	no	SAMN09704276	SAMN24251551; SAMN05560222; SAMD00253043
+NCPPB 4363	present_in_both	raw_reads_only	raw_reads_only	no	SAMN56511373	SAMN56511373	no			no	SRR37789903; SRR37629086	SRR37629086; SRR37789903	no	SAMN56511373	
+NCPPB 4364	present_in_both	raw_reads_only	raw_reads_only	no	SAMN56511374	SAMN56511374	no			no	SRR37789902; SRR37629085	SRR37629085; SRR37789902	no	SAMN56511374	
+NCPPB 4367	present_in_both	raw_reads_only	raw_reads_only	no	SAMN56511375	SAMN56511375	no			no	SRR37789901; SRR37629084	SRR37629084; SRR37789901	no	SAMN56511375	
+NCPPB 4372	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4373	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4374	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4375	present_in_both	no_confirmed_public_sequence_data	ambiguous_needs_review	yes			no			no			no		
+NCPPB 4376	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMEA114332027	SAMEA114332027	no	GCF_963669575.1	GCF_963669575.1	no	ERR12095366	ERR12095366	no		SAMEA114332027
+NCPPB 4377	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4378	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN20034692	SAMN20034692	no	GCF_019209705.1	GCF_019209705.1	no	SRR29823136	SRR29823136	no	SAMN20034692	
+NCPPB 4379	present_in_both	complete_genome_available	complete_genome_available	no	SAMN49535423; SAMN00991242	SAMN49535423; SAMN00991242	no	GCF_055597685.1; GCF_000277895.2	GCF_055597685.1; GCF_000277895.2	no	SRR34105446; SRR34103838; SRR494484	SRR34103838; SRR34105446; SRR494484	no	SAMN49535423; SAMN00991242	
+NCPPB 4380	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN00991243	SAMN00991243	no	GCF_000277915.1	GCF_000277915.1	no	SRR494485	SRR494485	no	SAMN00991243	
+NCPPB 4381	present_in_both	complete_genome_available	complete_genome_available	no	SAMN49535422; SAMN00002877	SAMN49535422; SAMN00002877	no	GCF_055598165.1; GCF_000159815.1	GCF_055598165.1; GCF_000159815.1	no	SRR34105447; SRR34103839; SRR020203	SRR34103839; SRR34105447; SRR020203	no	SAMN49535422; SAMN00002877	
+NCPPB 4383	present_in_both	raw_reads_only	raw_reads_only	no	SAMN00991249	SAMN00991249	no			no	SRR494493	SRR494493	no	SAMN00991249	
+NCPPB 4384	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN00991244	SAMN00991244	no	GCF_000277935.1	GCF_000277935.1	no	SRR494488	SRR494488	no	SAMN00991244	
+NCPPB 4385	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4386	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4387	present_in_both	raw_reads_only	raw_reads_only	no	SAMN00991250	SAMN00991250	no			no	SRR494494	SRR494494	no	SAMN00991250	
+NCPPB 4388	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4389	present_in_both	raw_reads_only	raw_reads_only	no	SAMN00991251	SAMN00991251	no			no	SRR494495	SRR494495	no	SAMN00991251	
+NCPPB 4390	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN20034693	SAMN20034693	no	GCF_019209735.1	GCF_019209735.1	no	SRR29823135	SRR29823135	no	SAMN20034693	
+NCPPB 4391	present_in_both	raw_reads_only	raw_reads_only	no	SAMN41763921	SAMN41763921	no			no	SRR29334731	SRR29334731	no	SAMN41763921	
+NCPPB 4392	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN02471739; SAMN00991254	SAMN02471739; SAMN00991254	no	GCF_000277955.1	GCF_000277955.1	no	SRR494498	SRR494498	no	SAMN02471739; SAMN00991254	
+NCPPB 4393	present_in_both	draft_assembly_available	raw_reads_only	yes	SAMN42486834; SAMN02471171; SAMN00752561	SAMN42486834; SAMN02471171; SAMN00752561	no	GCF_000225975.1		yes	SRR29823053; SRR364088	SRR29823053	yes	SAMN42486834; SAMN02471171; SAMN00752561	
+NCPPB 4394	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN00991245	SAMN00991245	no	GCF_000277975.1	GCF_000277975.1	no	SRR494489	SRR494489	no	SAMN00991245	
+NCPPB 4395	present_in_both	complete_genome_available	complete_genome_available	no	SAMN49535421; SAMN00991246	SAMN49535421; SAMN00991246	no	GCF_055597605.1	GCF_055597605.1	no	SRR34105448; SRR34103840; SRR494490	SRR34103840; SRR34105448; SRR494490	no	SAMN49535421; SAMN00991246	
+NCPPB 4397	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4398	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4399	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4402	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4403	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN43282785; SAMN43281686; SAMD00253057	SAMN43282785; SAMN43281686; SAMD00253057	no	GCF_042431565.1	GCF_042431565.1	no			no		SAMN43282785; SAMN43281686; SAMD00253057
+NCPPB 4404	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4405	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4407	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN03265443	SAMN03265443	no	GCF_000831625.1	GCF_000831625.1	no			no		SAMN03265443
+NCPPB 4409	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMEA104393682	SAMEA104393682	no	GCF_900240435.1	GCF_900240435.1	no			no		SAMEA104393682
+NCPPB 4410	present_in_both	no_confirmed_public_sequence_data	ambiguous_needs_review	yes			no			no			no		
+NCPPB 4411	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4412	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN05003921; SAMN02903171	SAMN05003921; SAMN02903171	no	GCF_001401625.1	GCF_001401625.1	no	SRR3530426; SRR1510075	SRR3530426; SRR1510075	no		SAMN05003921; SAMN02903171
+NCPPB 4413	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4414	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4415	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4416	missing_from_v2_snapshot	no_confirmed_public_sequence_data		no			no			no			no		
+NCPPB 4418	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4433	present_in_both	raw_reads_only	raw_reads_only	no	SAMN00991252	SAMN00991252	no			no	SRR494496	SRR494496	no	SAMN00991252	
+NCPPB 4434	present_in_both	raw_reads_only	raw_reads_only	no	SAMN00991253	SAMN00991253	no			no	SRR494497	SRR494497	no	SAMN00991253	
+NCPPB 4435	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4446	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN56511376; SAMN43282364; SAMN43282128; SAMN43281663; SAMD00253031; SAMN05560230	SAMN56511376; SAMN05560230; SAMN43282364; SAMN43282128; SAMN43281663; SAMD00253031	no	GCF_042685705.1; GCF_042648245.1; GCF_042432045.1; GCF_002939865.1	GCF_002939865.1; GCF_042685705.1; GCF_042648245.1; GCF_042432045.1	no	SRR37789899; SRR37629082	SRR37629082; SRR37789899	no	SAMN56511376	SAMN05560230; SAMN43282364; SAMN43282128; SAMN43281663; SAMD00253031
+NCPPB 4448	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4449	present_in_both	complete_genome_available	taxonomy_review_required_before_sequence_use	yes	SAMN21172023	SAMN21172023	no	GCF_021906995.1		yes			no		SAMN21172023
+NCPPB 4450	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4451	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4466	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161493; SAMN40354561	SAMN42161493; SAMN40354561	no	GCF_056725105.1; GCF_040203125.2	GCF_056725105.1; GCF_040203125.2	no	SRR30040128; SRR29644153; SRR30293598; SRR28281429	SRR29644153; SRR30040128; SRR28281429; SRR30293598	no	SAMN42161493	SAMN40354561
+NCPPB 4468	present_in_both	complete_genome_available	complete_genome_available	no	SAMN42161495	SAMN42161495	no	GCF_041475675.1	GCF_041475675.1	no	SRR30040126; SRR29644181	SRR29644181; SRR30040126	no	SAMN42161495	
+NCPPB 4584	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4590	present_in_both	complete_genome_available	complete_genome_available	no	SAMN40354539; SAMEA114332011; SAMN05003919; SAMN02903175; SAMN47254572	SAMN40354539; SAMN47254572; SAMEA114332011; SAMN05003919; SAMN02903175	no	GCF_040202855.1; GCF_963669775.1; GCF_001401655.1; GCF_056846615.1	GCF_040202855.1; GCF_056846615.1; GCF_963669775.1; GCF_001401655.1	no	SRR30293561; SRR28281414; ERR12095350; SRR3530231; SRR1509921; SRR32606474	SRR28281414; SRR30293561; SRR32606474; ERR12095350; SRR3530231; SRR1509921	no	SAMN40354539	SAMN47254572; SAMEA114332011; SAMN05003919; SAMN02903175
+NCPPB 4594	present_in_both	raw_reads_only	taxonomy_review_required_before_sequence_use	yes	SAMN56511377	SAMN56511377	no			no	SRR37789898; SRR37629081		yes	SAMN56511377	
+NCPPB 4600	present_in_both	complete_genome_available	complete_genome_available	no	SAMN27412262; SAMN04922375	SAMN27412262; SAMN04922375	no	GCF_023337295.3; GCF_001660815.1	GCF_023337295.3; GCF_001660815.1	no	SRR27397231; SRR25378124; SRR6131963	SRR25378124; SRR27397231; SRR6131963	no		SAMN27412262; SAMN04922375
+NCPPB 4601	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36318506; SAMN04922374	SAMN36318506; SAMN04922374	no	GCF_034929335.1; GCF_001642575.1	GCF_034929335.1; GCF_001642575.1	no	SRR25160157; SRR6130696	SRR25160157; SRR6130696	no		SAMN36318506; SAMN04922374
+NCPPB 4613	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36357967	SAMN36357967	no	GCF_030551435.2	GCF_030551435.2	no	SRR25194058	SRR25194058	no	SAMN36357967	
+NCPPB 4614	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36357968; SAMN36357978	SAMN36357968	yes	GCF_030551355.2; GCF_045887055.1	GCF_030551355.2	yes	SRR25194047; SRR25194028	SRR25194047	yes	SAMN36357968	
+NCPPB 4615	present_in_both	raw_reads_only	ambiguous_needs_review	yes	SAMN25050887		yes			no	SRR17731500; SRR17731501; SRR17731502; SRR17731503; SRR17731504; SRR17731505; SRR17731506; SRR17731507; SRR17731508; SRR17731509; SRR17731510; SRR17731511		yes		
+NCPPB 4618	present_in_both	complete_genome_available	complete_genome_available	no	SAMN26806290	SAMN26806290	no	GCA_022749655.1	GCA_022749655.1	no			no		SAMN26806290
+NCPPB 4622	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4623	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4625	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4629	present_in_both	raw_reads_only	raw_reads_only	no	SAMN56511378	SAMN56511378	no			no	SRR37789897; SRR37629080	SRR37629080; SRR37789897	no	SAMN56511378	
+NCPPB 4630	present_in_both	raw_reads_only	raw_reads_only	no	SAMN56511379	SAMN56511379	no			no	SRR37789896; SRR37629079	SRR37629079; SRR37789896	no	SAMN56511379	
+NCPPB 4631	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN40354518	SAMN40354518	no	GCF_040194495.1	GCF_040194495.1	no	SRR30295612; SRR28281129	SRR28281129; SRR30295612	no		SAMN40354518
+NCPPB 4632	present_in_both	raw_reads_only	raw_reads_only	no	SAMN56511380	SAMN56511380	no			no	SRR37789895; SRR37629078	SRR37629078; SRR37789895	no	SAMN56511380	
+NCPPB 4633	present_in_both	raw_reads_only	raw_reads_only	no	SAMN56511381	SAMN56511381	no			no	SRR37789894; SRR37629077	SRR37629077; SRR37789894	no	SAMN56511381	
+NCPPB 4634	present_in_both	raw_reads_only	raw_reads_only	no	SAMN56511382	SAMN56511382	no			no	SRR37789893; SRR37629076	SRR37629076; SRR37789893	no	SAMN56511382	
+NCPPB 4635	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4660	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36001536	SAMN36001536	no	GCF_034553975.1	GCF_034553975.1	no	SRR25039487	SRR25039487	no		SAMN36001536
+NCPPB 4661	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36368309; SAMN10440464	SAMN36368309; SAMN10440464	no	GCA_035023425.1; GCF_047458975.1	GCA_035023425.1; GCF_047458975.1	no	SRR25205302	SRR25205302	no		SAMN36368309; SAMN10440464
+NCPPB 4662	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36001539	SAMN36001539	no	GCF_034554015.1	GCF_034554015.1	no	SRR25039484	SRR25039484	no		SAMN36001539
+NCPPB 4663	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36293677	SAMN36293677	no	GCF_035011845.1	GCF_035011845.1	no	SRR25133474	SRR25133474	no		SAMN36293677
+NCPPB 4664	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36001541	SAMN36001541	no	GCF_034554075.1	GCF_034554075.1	no	SRR25039482	SRR25039482	no		SAMN36001541
+NCPPB 4665	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36001542	SAMN36001542	no	GCF_034554095.1	GCF_034554095.1	no	SRR25039481	SRR25039481	no		SAMN36001542
+NCPPB 4666	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN27412261; SAMN09828208	SAMN27412261; SAMN09828208	no	GCF_023337315.1; GCF_003409975.1	GCF_023337315.1; GCF_003409975.1	no	SRR25378123	SRR25378123	no		SAMN27412261; SAMN09828208
+NCPPB 4668	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36346923; SAMN10440477	SAMN36346923; SAMN10440477	no	GCA_035023305.1; GCF_047458755.1	GCA_035023305.1; GCF_047458755.1	no	SRR25183344; SRR25183374	SRR25183374; SRR25183344	no		SAMN36346923; SAMN10440477
+NCPPB 4669	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36368340; SAMN10440482	SAMN36368340; SAMN10440482	no	GCA_035025925.1; GCA_056578565.1	GCA_035025925.1; GCA_056578565.1	no	SRR25205287	SRR25205287	no		SAMN36368340; SAMN10440482
+NCPPB 4670	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36368317; SAMN10440467	SAMN36368317; SAMN10440467	no	GCF_047458875.1	GCF_047458875.1	no	SRR25205312	SRR25205312	no		SAMN36368317; SAMN10440467
+NCPPB 4671	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN36368308; SAMN10440469	SAMN36368308; SAMN10440469	no	GCF_047458835.1	GCF_047458835.1	no	SRR25205313	SRR25205313	no		SAMN36368308; SAMN10440469
+NCPPB 4675	present_in_both	complete_genome_available	complete_genome_available	no	SAMEA4722874; SAMEA7742038	SAMEA4722874; SAMEA7742038	no	GCF_900476395.1; GCF_905187425.1	GCF_900476395.1; GCF_905187425.1	no	ERR2767969; ERR5106569	ERR2767969; ERR5106569	no	SAMEA4722874	SAMEA4722874; SAMEA7742038
+NCPPB 4676	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMEA4722873	SAMEA4722873	no	GCF_900476315.1	GCF_900476315.1	no	ERR2767972	ERR2767972	no		SAMEA4722873
+NCPPB 4678	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN56511383; SAMN43286080	SAMN56511383; SAMN43286080	no	GCF_041521225.1	GCF_041521225.1	no	SRR37789892; SRR37629075; SRR30327314	SRR37629075; SRR37789892; SRR30327314	no	SAMN56511383; SAMN43286080	
+NCPPB 4679	present_in_both	raw_reads_only	raw_reads_only	no	SAMN56511384	SAMN56511384	no			no	SRR37789891; SRR37629074	SRR37629074; SRR37789891	no	SAMN56511384	
+NCPPB 4680	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN56511385; SAMN43286081	SAMN56511385; SAMN43286081	no	GCF_041521275.1	GCF_041521275.1	no	SRR37789890; SRR37629073; SRR30327313	SRR37629073; SRR37789890; SRR30327313	no	SAMN56511385; SAMN43286081	
+NCPPB 4681	present_in_both	complete_genome_available	raw_reads_only	yes	SAMN56511386; SAMN17198917; SAMN17198916; SAMN17198915	SAMN56511386	yes	GCF_028750535.1; GCF_028750555.1; GCF_028750515.1		yes	SRR37789888; SRR37629071; SRR14108855; SRR14108857; SRR14108858	SRR37629071; SRR37789888	yes	SAMN56511386	
+NCPPB 4682	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN56511387; SAMN43286082	SAMN56511387; SAMN43286082	no	GCF_041519825.1	GCF_041519825.1	no	SRR37789887; SRR37629070; SRR30327312	SRR37629070; SRR37789887; SRR30327312	no	SAMN56511387; SAMN43286082	
+NCPPB 4692	present_in_both	complete_genome_available	complete_genome_available	no	SAMN41996498; SAMEA7356589	SAMN41996498; SAMEA7356589	no	GCF_041228055.1; GCA_905142475.1	GCF_041228055.1; GCA_905142475.1	no	SRR30016869; SRR29500230; ERR4656970; ERR4656966	SRR29500230; SRR30016869; ERR4656966; ERR4656970	no	SAMN41996498	SAMEA7356589
+NCPPB 4693	present_in_both	complete_genome_available	complete_genome_available	no	SAMEA7356591	SAMEA7356591	no	GCF_905142465.1	GCF_905142465.1	no	ERR4656972; ERR4656968	ERR4656968; ERR4656972	no		SAMEA7356591
+NCPPB 4698	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4699	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4700	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4701	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4702	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4703	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4704	present_in_both	no_confirmed_public_sequence_data	ambiguous_needs_review	yes			no			no			no		
+NCPPB 4705	present_in_both	draft_assembly_available	ambiguous_needs_review	yes	SAMN36357994; SAMN07735936		yes	GCF_045887275.1; GCF_002490275.1		yes	SRR25194045		yes		
+NCPPB 4706	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4707	present_in_both	draft_assembly_available	ambiguous_needs_review	yes	SAMN36357996		yes	GCF_045892375.1		yes	SRR25194044		yes		
+NCPPB 4708	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4709	present_in_both	no_confirmed_public_sequence_data	ambiguous_needs_review	yes			no			no			no		
+NCPPB 4710	present_in_both	draft_assembly_available	ambiguous_needs_review	yes	SAMN36701295; SAMN36357995; SAMN08773711		yes	GCF_045897655.1; GCF_003725055.1		yes	SRR25411579		yes		
+NCPPB 4711	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4712	present_in_both	draft_assembly_available	ambiguous_needs_review	yes	SAMN36701296; SAMN36357998; SAMN08773805		yes	GCF_045897635.1; GCF_003725115.1		yes	SRR25411578		yes		
+NCPPB 4713	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4714	present_in_both	draft_assembly_available	ambiguous_needs_review	yes	SAMN36357997		yes	GCF_045892395.1		yes	SRR25194043		yes		
+NCPPB 4715	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4716	present_in_both	no_confirmed_public_sequence_data	ambiguous_needs_review	yes			no			no			no		
+NCPPB 4717	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4718	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4719	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4720	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4721	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4722	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4727	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4728	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4729	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4730	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4731	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4732	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4733	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4753	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN08031359	SAMN08031359	no	GCF_002846205.1	GCF_002846205.1	no			no		SAMN08031359
+NCPPB 4754	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN08031988	SAMN08031988	no	GCF_002846225.1	GCF_002846225.1	no			no		SAMN08031988
+NCPPB 4755	present_in_both	draft_assembly_available	draft_assembly_available	no	SAMN08032457	SAMN08032457	no	GCF_002846195.1	GCF_002846195.1	no			no		SAMN08032457
+NCPPB 4763	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4770	present_in_both	no_confirmed_public_sequence_data	no_confirmed_public_data	no			no			no			no		
+NCPPB 4771	present_in_both	no_confirmed_public_sequence_data	ambiguous_needs_review	yes			no			no			no		
+NCPPB 4772	present_in_both	raw_reads_only	raw_reads_only	no	SAMN39942678	SAMN39942678	no			no	SRR27965824	SRR27965824	no	SAMN39942678	

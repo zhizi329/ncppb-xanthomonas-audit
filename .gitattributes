@@ -1,0 +1,7 @@
+# Normalize source/document text. Generated TSV files are byte-preserved so
+# run-manifest size/SHA-256 checks remain valid after clone or checkout.
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.tsv -text whitespace=-blank-at-eol
+*.iqtree -text whitespace=-blank-at-eol,-blank-at-eof

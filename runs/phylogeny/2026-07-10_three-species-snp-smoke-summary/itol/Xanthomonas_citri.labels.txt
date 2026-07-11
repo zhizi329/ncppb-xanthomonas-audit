@@ -1,0 +1,40 @@
+LABELS
+SEPARATOR TAB
+DATA
+NCPPB-1471__Xanthomonas_citri	NCPPB-1471 | citri | China | SRR21684635
+NCPPB_1056__Xanthomonas_citri	NCPPB 1056 | unassigned | United Kingdom | SRR2052425
+NCPPB_1058__Xanthomonas_citri	NCPPB 1058 | unassigned | Ethiopia | SRR2052426
+NCPPB_1158__Xanthomonas_citri	NCPPB 1158 | fuscans | United Kingdom | SRR2052443
+NCPPB_1335__Xanthomonas_citri	NCPPB 1335 | bauhiniae | India | SRR29695113
+NCPPB_1402__Xanthomonas_citri	NCPPB 1402 | unassigned | Uganda | SRR2052442
+NCPPB_1433__Xanthomonas_citri	NCPPB 1433 | unassigned | Hungary | SRR2052427
+NCPPB_1495__Xanthomonas_citri	NCPPB 1495 | fuscans | United Kingdom | SRR2052458
+NCPPB_1654__Xanthomonas_citri	NCPPB 1654 | unassigned | South Africa | SRR2052433
+NCPPB_1713__Xanthomonas_citri	NCPPB 1713 | unassigned | Zimbabwe | SRR37629061
+NCPPB_1827__Xanthomonas_citri	NCPPB 1827 | rhynchosiae | Sudan | SRR29655371
+NCPPB_1838__Xanthomonas_citri	WHRI 10263 (NCPPB 1838) | fuscans | unassigned | SRR28281415
+NCPPB_2058__Xanthomonas_citri	NCPPB 2058 | vignaeradiatae | Sudan | SRR29692762
+NCPPB_2060__Xanthomonas_citri	NCPPB 2060 | rhynchosiae | Sudan | SRR29655370
+NCPPB_2063__Xanthomonas_citri	NCPPB 2063 | cajani | Sudan | SRR29694808
+NCPPB_2064__Xanthomonas_citri	NCPPB 2064 | unassigned | Sudan | SRR37629092
+NCPPB_211__Xanthomonas_citri	NCPPB_211 | citri | India | SRR11234665
+NCPPB_226__Xanthomonas_citri	NCPPB_226 | citri | New Zealand | SRR11234664
+NCPPB_2665__Xanthomonas_citri	NCPPB 2665 | unassigned | Italy | SRR2052428
+NCPPB_2832__Xanthomonas_citri	NCPPB 2832 | aracearum | France | SRR29692760
+NCPPB_2914__Xanthomonas_citri	NCPPB 2914 | rhynchosiae | Barbados | SRR29655369
+NCPPB_3086__Xanthomonas_citri	NCPPB 3086 | desmodiilaxiflori | India | SRR29692758
+NCPPB_3114__Xanthomonas_citri	NCPPB 3114 | merremiae | India | SRR15305415
+NCPPB_3162__Xanthomonas_citri	NCPPB 3162 | unassigned | India | SRR22272560
+NCPPB_3562__Xanthomonas_citri	NCPPB3562 | unassigned | India | SRR11234662
+NCPPB_381__Xanthomonas_citri	WHRI 10261 (NCPPB 381) | fuscans | Canada | SRR28281417
+NCPPB_406__Xanthomonas_citri	NCPPB406 | citri | New Zealand | SRR11234661
+NCPPB_4590__Xanthomonas_citri	WHRI 10264 (NCPPB 4590) | citri | United States | SRR28281414
+NCPPB_536__Xanthomonas_citri	NCPPB 536 | khayae | Sudan | SRR29695060
+NCPPB_556__Xanthomonas_citri	NCPPB 556 | unassigned | Sudan | SRR37629069
+NCPPB_557__Xanthomonas_citri	NCPPB 557 | unassigned | Sudan | SRR37629068
+NCPPB_573__Xanthomonas_citri	NCPPB 573 | cajani | India | SRR29694809
+NCPPB_585__Xanthomonas_citri	NCPPB 585 | trichodesmae | India | SRR15305424
+NCPPB_633__Xanthomonas_citri	WHRI 10262 (NCPPB 633) | malvacearum | Sudan | SRR28281416
+NCPPB_646__Xanthomonas_citri	NCPPB 646 | khayae | Sudan | SRR29695059
+NCPPB_670__Xanthomonas_citri	NCPPB 670 | unassigned | Uganda | SRR2052441
+NCPPB_976__Xanthomonas_citri	NCPPB 976 | unassigned | United States | SRR7628814

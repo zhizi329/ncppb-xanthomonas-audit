@@ -1,0 +1,233 @@
+ncppb_number	identifier_raw	identifier_normalized	identifier_type	clause_type	clause_order	source_start	source_end	normalization_status	validation_status	identifier_strength	risk_level	search_eligible	review_reason	collision_strain_count	collision_strains	reviewer_decision	reviewer_notes
+NCPPB 208	PC5	PC5	isolate_code	isolated_by	1	38	41	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 208		
+NCPPB 273	B67	B67	isolate_code	source_of_isolate	1	45	48	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 273		
+NCPPB 290	38/2	382	donor_reference	donor_reference	1	23	27	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 290		
+NCPPB 302	XP 8	XP8	donor_reference	donor_reference	1	23	27	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 302		
+NCPPB 381	ZK4	ZK4	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 381		
+NCPPB 404	Q2	Q2	isolate_code	isolated_by	1	38	40	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 404		
+NCPPB 405	R1	R1	isolate_code	isolated_by	1	38	40	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 405		
+NCPPB 406	R	R	donor_reference	donor_reference	1	23	24	comparison_only_no_source_edit	review_required	weak	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 406		
+NCPPB 406	R2	R2	isolate_code	isolated_by	2	63	65	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 406		
+NCPPB 407	R3	R3	isolate_code	isolated_by	1	38	40	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 407		
+NCPPB 408	R4	R4	isolate_code	isolated_by	1	38	40	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 408		
+NCPPB 409	R5	R5	isolate_code	isolated_by	2	107	109	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 409		
+NCPPB 410	R6	R6	isolate_code	isolated_by	1	38	40	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 410		
+NCPPB 411	S3	S3	donor_reference	donor_reference	1	23	25	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 411		
+NCPPB 412	S6	S6	isolate_code	isolated_by	1	38	40	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 412		
+NCPPB 414	S10	S10	isolate_code	isolated_by	1	38	41	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 414		
+NCPPB 415	S12	S12	isolate_code	isolated_by	1	38	41	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 415		
+NCPPB 418	T6	T6	isolate_code	isolated_by	1	38	40	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 418		
+NCPPB 419	T7	T7	isolate_code	isolated_by	1	38	40	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 419		
+NCPPB 420	T8	T8	isolate_code	isolated_by	1	38	40	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 420		
+NCPPB 421	T9	T9	isolate_code	isolated_by	1	38	40	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 421		
+NCPPB 422	X1	X1	isolate_code	isolated_by	2	108	110	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 422		
+NCPPB 423	X3	X3	isolate_code	isolated_by	2	96	98	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 423		
+NCPPB 424	X4	X4	isolate_code	isolated_by	2	96	98	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 424		
+NCPPB 425	ZC1	ZC1	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 425		
+NCPPB 490	18	18	donor_reference	donor_reference	1	23	25	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 490		
+NCPPB 509	391	391	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 509		
+NCPPB 510	392	392	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 510		
+NCPPB 526	412	412	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 526		
+NCPPB 528	P25	P25	isolate_code	isolated_by	2	122	125	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 528		
+NCPPB 582	LMG 867	LMG867	collection_number	collection_list	1	63	70	comparison_only_no_source_edit	review_required	strong	high	no	identifier_collision	2	NCPPB 1758; NCPPB 582		
+NCPPB 599	Y6	Y6	donor_reference	donor_reference	1	23	25	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 599		
+NCPPB 642	423	423	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 642		
+NCPPB 646	Kh2	KH2	isolate_code	isolated_by	1	40	43	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 646		
+NCPPB 761	Yzl	YZL	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 761		
+NCPPB 762	XAl	XAL	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 762		
+NCPPB 881	Strain sombor	STRAINSOMBOR	donor_reference	donor_reference	1	23	36	comparison_only_no_source_edit	review_required	medium	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 881		
+NCPPB 924	A26	A26	isolate_code	isolated_by	2	74	77	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 924		
+NCPPB 926	A12	A12	isolate_code	isolated_by	2	74	77	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 926		
+NCPPB 939	XH5	XH5	isolate_code	isolated_by	2	118	121	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 939		
+NCPPB 987	XH6	XH6	isolate_code	isolated_by	2	119	122	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 987		
+NCPPB 990	St3	ST3	isolate_code	isolated_by	1	48	51	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 990		
+NCPPB 1143	X3	X3	isolate_code	isolated_by	1	42	44	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1143		
+NCPPB 1144	X9	X9	isolate_code	isolated_by	1	42	44	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1144		
+NCPPB 1145	X10	X10	isolate_code	isolated_by	1	42	45	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1145		
+NCPPB 1147	X13	X13	isolate_code	isolated_by	1	42	45	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1147		
+NCPPB 1148	XGl	XGL	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 1148		
+NCPPB 1149	XHl	XHL	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 1149		
+NCPPB 1150	Ykl	YKL	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 1150		
+NCPPB 1151	YK2	YK2	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1151		
+NCPPB 1152	YK3	YK3	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1152		
+NCPPB 1153	YK4	YK4	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1153		
+NCPPB 1161	M3	M3	isolate_code	isolated_by	1	41	43	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1161		
+NCPPB 1421	S 20	S20	isolate_code	isolated_by	1	0	4	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1421		
+NCPPB 1423	S 07	S07	isolate_code	isolated_by	2	59	63	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1423		
+NCPPB 1426	S 10	S10	isolate_code	isolated_by	2	59	63	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1426		
+NCPPB 1431	S 04	S04	isolate_code	isolated_by	2	59	63	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1431		
+NCPPB 1447	19	19	donor_reference	donor_reference	1	23	25	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1447		
+NCPPB 1452	ATCC 23577	ATCC23577	collection_number	collection_list	1	61	71	comparison_only_no_source_edit	review_required	strong	high	no	identifier_collision	2	NCPPB 1452; NCPPB 2977		
+NCPPB 1452	ICMP 5852	ICMP5852	collection_number	collection_list	1	41	50	comparison_only_no_source_edit	review_required	strong	high	no	identifier_collision	2	NCPPB 1452; NCPPB 2977		
+NCPPB 1452	LMG 872	LMG872	collection_number	collection_list	1	52	59	comparison_only_no_source_edit	review_required	strong	high	no	identifier_collision	2	NCPPB 1452; NCPPB 2977		
+NCPPB 1568	1	1	donor_reference	donor_reference	1	23	24	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1568		
+NCPPB 1585	ATCC 49072	ATCC49072	collection_number	collection_list	1	84	94	comparison_only_no_source_edit	review_required	strong	high	no	identifier_collision	2	NCPPB 1585; NCPPB 1932		
+NCPPB 1585	ICMP 5743	ICMP5743	collection_number	collection_list	1	53	62	comparison_only_no_source_edit	review_required	strong	high	no	identifier_collision	2	NCPPB 1585; NCPPB 1932		
+NCPPB 1585	ICPB XOlll	ICPBXOLLL	collection_number	collection_list	1	41	51	comparison_only_no_source_edit	review_required	strong	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 1585		
+NCPPB 1632	B50	B50	isolate_code	source_of_isolate	1	42	45	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1632		
+NCPPB 1633	ICPB XSl	ICPBXSL	collection_number	collection_list	1	41	49	comparison_only_no_source_edit	review_required	strong	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 1633		
+NCPPB 1654	F6	F6	isolate_code	isolated_by	3	123	125	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1654		
+NCPPB 1738	X.a.5	XA5	isolate_code	isolated_by	1	43	48	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1738		
+NCPPB 1758	LMG 867	LMG867	collection_number	collection_list	2	96	103	comparison_only_no_source_edit	review_required	strong	high	no	identifier_collision	2	NCPPB 1758; NCPPB 582		
+NCPPB 1774	Pt3	PT3	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1774		
+NCPPB 1836	10b	10B	isolate_code	source_of_isolate	1	46	49	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1836		
+NCPPB 1932	ATCC 49072	ATCC49072	collection_number	collection_list	1	61	71	comparison_only_no_source_edit	review_required	strong	high	no	identifier_collision	2	NCPPB 1585; NCPPB 1932		
+NCPPB 1932	ICMP 5743	ICMP5743	collection_number	collection_list	1	41	50	comparison_only_no_source_edit	review_required	strong	high	no	identifier_collision	2	NCPPB 1585; NCPPB 1932		
+NCPPB 1933	I-2	I2	isolate_code	isolated_by	1	42	45	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1933		
+NCPPB 1935	ZT2	ZT2	isolate_code	source_of_isolate	3	151	154	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1935		
+NCPPB 1939	XP6	XP6	isolate_code	source_of_isolate	1	48	51	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1939		
+NCPPB 1942	ZQ1	ZQ1	isolate_code	source_of_isolate	1	43	46	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1942		
+NCPPB 1943	ICMP1409	ICMP1409	collection_candidate	collection_list	1	41	49	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 1944		
+NCPPB 1974	CCM 1640	CCM1640	collection_candidate	collection_list	1	53	61	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 1974		
+NCPPB 1974	NCIMB 9203	NCIMB9203	collection_candidate	collection_list	1	75	85	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 1974		
+NCPPB 1974	NCPPB 1974	NCPPB1974	collection_candidate	collection_list	1	110	120	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 1974		
+NCPPB 1981	332	332	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 1981		
+NCPPB 2217	CECT 7646	CECT7646	collection_candidate	collection_list	1	52	61	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 2217		
+NCPPB 2217	CNBP 1192	CNBP1192	collection_candidate	collection_list	1	62	71	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 2217		
+NCPPB 2257	X32	X32	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2257		
+NCPPB 2258	X42	X42	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2258		
+NCPPB 2337	B63	B63	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2337		
+NCPPB 2338	B99	B99	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2338		
+NCPPB 2368	XPEl	XPEL	donor_reference	donor_reference	1	23	27	comparison_only_no_source_edit	review_required	medium	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 2368		
+NCPPB 2369	XRI	XRI	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 2369		
+NCPPB 2370	XH1	XH1	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2370		
+NCPPB 2371	Xal	XAL	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 2371		
+NCPPB 2372	XFl	XFL	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 2372		
+NCPPB 2373	XCl	XCL	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 2373		
+NCPPB 2374	XC2	XC2	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2374		
+NCPPB 2375	Dowson 265	DOWSON265	collection_candidate	collection_list	1	46	56	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 2375		
+NCPPB 2375	W.J	WJ	collection_candidate	collection_list	1	41	44	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 2375		
+NCPPB 2376	Dowson 266	DOWSON266	collection_candidate	collection_list	1	46	56	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 2376		
+NCPPB 2376	W.J	WJ	collection_candidate	collection_list	1	41	44	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 2376		
+NCPPB 2387	PM	PM	donor_reference	donor_reference	1	23	25	comparison_only_no_source_edit	review_required	weak	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 2387		
+NCPPB 2388	PA	PA	donor_reference	donor_reference	1	23	25	comparison_only_no_source_edit	review_required	weak	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 2388		
+NCPPB 2389	B5	B5	donor_reference	donor_reference	1	23	25	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2389		
+NCPPB 2417	YW5	YW5	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2417		
+NCPPB 2436	VMl	VML	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 2436		
+NCPPB 2443	23L	23L	isolate_code	isolated_by	1	41	44	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2443		
+NCPPB 2444	30L	30L	isolate_code	isolated_by	1	41	44	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2444		
+NCPPB 2572	555	555	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2572		
+NCPPB 2573	557	557	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2573		
+NCPPB 2574	558	558	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2574		
+NCPPB 2575	560	560	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2575		
+NCPPB 2576	561	561	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2576		
+NCPPB 2597	E78	E78	isolate_code	isolated_by	2	125	128	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2597		
+NCPPB 2614	NU2	NU2	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2614		
+NCPPB 2615	NU3	NU3	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2615		
+NCPPB 2616	NU5	NU5	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2616		
+NCPPB 2876	XC7	XC7	isolate_code	isolated_by	1	40	43	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2876		
+NCPPB 2877	XC8	XC8	isolate_code	isolated_by	2	137	140	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2877		
+NCPPB 2935	D42	D42	isolate_code	isolated_by	2	76	79	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2935		
+NCPPB 2936	XA1	XA1	isolate_code	isolated_by	2	77	80	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2936		
+NCPPB 2953	Tri lb	TRILB	donor_reference	donor_reference	1	23	29	comparison_only_no_source_edit	review_required	medium	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 2953		
+NCPPB 2955	Bt3	BT3	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2955		
+NCPPB 2959	Reg	REG	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 2959		
+NCPPB 2960	BII	BII	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 2960		
+NCPPB 2968	X12	X12	isolate_code	source_of_isolate	3	181	184	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2968		
+NCPPB 2969	ZA6	ZA6	isolate_code	isolated_by	2	134	137	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2969		
+NCPPB 2970	ZI 2	ZI2	isolate_code	source_of_isolate	3	160	164	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2970		
+NCPPB 2973	M.K	MK	collection_candidate	collection_list	1	65	68	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 2973		
+NCPPB 2973	Patel 6	PATEL6	collection_candidate	collection_list	1	70	77	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 2973		
+NCPPB 2973	YD2	YD2	isolate_code	source_of_isolate	3	191	194	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2973		
+NCPPB 2977	ATCC 23577	ATCC23577	collection_number	collection_list	1	41	51	comparison_only_no_source_edit	review_required	strong	high	no	identifier_collision	2	NCPPB 1452; NCPPB 2977		
+NCPPB 2977	ICMP 5852	ICMP5852	collection_number	collection_list	1	62	71	comparison_only_no_source_edit	review_required	strong	high	no	identifier_collision	2	NCPPB 1452; NCPPB 2977		
+NCPPB 2977	LMG 872	LMG872	collection_number	collection_list	1	53	60	comparison_only_no_source_edit	review_required	strong	high	no	identifier_collision	2	NCPPB 1452; NCPPB 2977		
+NCPPB 2977	WK2	WK2	isolate_code	source_of_isolate	3	155	158	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2977		
+NCPPB 2982	PC1	PC1	isolate_code	isolated_by	2	124	127	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 2982		
+NCPPB 3003	NZRCC 10031	NZRCC10031	collection_candidate	collection_list	1	53	64	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 3003		
+NCPPB 3003	Z4	Z4	isolate_code	isolated_by	2	149	151	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3003		
+NCPPB 3028	X-84	X84	isolate_code	isolated_by	1	39	43	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3028		
+NCPPB 3061	R662	R662	isolate_code	isolated_by	2	100	104	comparison_only_no_source_edit	review_required	medium	high	no	identifier_collision	2	NCPPB 3061; NCPPB 3192		
+NCPPB 3114	P30	P30	isolate_code	isolated_by	2	103	106	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3114		
+NCPPB 3140	120	120	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3140		
+NCPPB 3161	C6	C6	isolate_code	isolated_by	2	72	74	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3161		
+NCPPB 3177	No3	NO3	isolate_code	isolated_by	2	73	76	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3177		
+NCPPB 3192	NCPPB 3061	NCPPB3061	collection_candidate	collection_list	2	70	80	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 3192		
+NCPPB 3192	R662	R662	isolate_code	isolated_by	3	124	128	comparison_only_no_source_edit	review_required	medium	high	no	identifier_collision	2	NCPPB 3061; NCPPB 3192		
+NCPPB 3218	Y3	Y3	isolate_code	isolated_by	2	71	73	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3218		
+NCPPB 3230	724	724	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3230		
+NCPPB 3233	CIVEROLO XC70	CIVEROLOXC70	collection_candidate	collection_list	2	79	92	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 3233		
+NCPPB 3236	B-4	B4	isolate_code	source_of_isolate	3	158	161	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3236		
+NCPPB 3236	CIVEROLO XC64	CIVEROLOXC64	collection_candidate	collection_list	2	102	115	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 3236		
+NCPPB 3312	100	100	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3312		
+NCPPB 3314	109	109	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3314		
+NCPPB 3315	100	100	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3315		
+NCPPB 3434	NETO 68	NETO68	collection_candidate	collection_list	1	62	69	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 3434		
+NCPPB 3435	NETO 250	NETO250	collection_candidate	collection_list	1	62	70	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 3435		
+NCPPB 3457	M21	M21	isolate_code	isolated_by	1	39	42	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3457		
+NCPPB 3559	507	507	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3559		
+NCPPB 3560	ICMP 9261	ICMP9261	collection_number	collection_list	2	74	83	comparison_only_no_source_edit	review_required	strong	high	no	identifier_collision	2	NCPPB 3560; NCPPB 4351		
+NCPPB 3566	IIHXCCRI	IIHXCCRI	donor_reference	donor_reference	1	23	31	comparison_only_no_source_edit	review_required	medium	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 3566		
+NCPPB 3567	IIHXCCL	IIHXCCL	donor_reference	donor_reference	1	23	30	comparison_only_no_source_edit	review_required	medium	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 3567		
+NCPPB 3568	IIHXCCCN	IIHXCCCN	donor_reference	donor_reference	1	23	31	comparison_only_no_source_edit	review_required	medium	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 3568		
+NCPPB 3569	1	1	donor_reference	donor_reference	1	23	24	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3569		
+NCPPB 3570	2	2	donor_reference	donor_reference	1	23	24	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3570		
+NCPPB 3586	CVCPB 1806	CVCPB1806	collection_candidate	collection_list	1	41	51	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 3586		
+NCPPB 3587	CVCPB 1696	CVCPB1696	collection_candidate	collection_list	1	41	51	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 3587		
+NCPPB 3588	X24	X24	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3588		
+NCPPB 3589	X37	X37	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3589		
+NCPPB 3595	11H	11H	isolate_code	isolated_by	1	39	42	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3595		
+NCPPB 3742	XC-8	XC8	isolate_code	source_of_isolate	2	77	81	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3742		
+NCPPB 3786	9	9	donor_reference	donor_reference	1	23	24	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3786		
+NCPPB 3800	13	13	donor_reference	donor_reference	1	23	25	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3800		
+NCPPB 3801	14	14	donor_reference	donor_reference	1	23	25	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3801		
+NCPPB 3925	RCCP	RCCP	donor_reference	donor_reference	1	23	27	comparison_only_no_source_edit	review_required	medium	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 3925		
+NCPPB 3926	RCIPO	RCIPO	donor_reference	donor_reference	1	23	28	comparison_only_no_source_edit	review_required	medium	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 3926		
+NCPPB 3942	W4	W4	isolate_code	isolated_by	1	40	42	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3942		
+NCPPB 3943	G6	G6	isolate_code	isolated_by	1	40	42	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3943		
+NCPPB 3944	58B	58B	isolate_code	isolated_by	1	43	46	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 3944		
+NCPPB 4013	6	6	donor_reference	donor_reference	1	23	24	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 4013		
+NCPPB 4014	SB-K	SBK	donor_reference	donor_reference	1	23	27	comparison_only_no_source_edit	review_required	weak	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 4014		
+NCPPB 4015	M-9	M9	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 4015		
+NCPPB 4181	463	463	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 4181		
+NCPPB 4183	17065	17065	collection_candidate	collection_list	2	71	76	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4183		
+NCPPB 4343	Samson 1601.1	SAMSON16011	collection_candidate	collection_list	2	93	106	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4343		
+NCPPB 4345	1	1	donor_reference	donor_reference	1	23	24	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 4345		
+NCPPB 4346	G2	G2	donor_reference	donor_reference	1	23	25	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 4346		
+NCPPB 4347	Ma 2	MA2	donor_reference	donor_reference	1	23	27	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 4347		
+NCPPB 4348	ITCC	ITCC	collection_number	collection_list	1	52	56	comparison_only_no_source_edit	review_required	strong	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4348		
+NCPPB 4349	B6	B6	donor_reference	donor_reference	1	23	25	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 4349		
+NCPPB 4351	FC1	FC1	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 4351		
+NCPPB 4351	IBSF 575	IBSF575	collection_candidate	collection_list	2	79	87	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4351		
+NCPPB 4351	ICMP 9261	ICMP9261	collection_number	collection_list	2	68	77	comparison_only_no_source_edit	review_required	strong	high	no	identifier_collision	2	NCPPB 3560; NCPPB 4351		
+NCPPB 4352	Zo2	ZO2	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 4352		
+NCPPB 4353	NZRCC 10488	NZRCC10488	collection_candidate	collection_list	2	89	100	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4353		
+NCPPB 4353	TC1	TC1	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 4353		
+NCPPB 4372	618	618	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 4372		
+NCPPB 4375	FDC 012	FDC012	collection_candidate	collection_list	2	81	88	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4375		
+NCPPB 4377	Xc 90-78-4-3	XC907843	collection_candidate	collection_list	2	81	93	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4377		
+NCPPB 4405	Latch PRGRQ	LATCHPRGRQ	collection_candidate	collection_list	2	84	95	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4405		
+NCPPB 4407	Beramis 6	BERAMIS6	collection_candidate	collection_list	2	72	81	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4407		
+NCPPB 4407	VdM9	VDM9	collection_candidate	collection_list	2	83	87	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4407		
+NCPPB 4409	ISPAVE-B-641	ISPAVEB641	collection_candidate	collection_list	2	85	97	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4409		
+NCPPB 4409	SWINGS R-5214	SWINGSR5214	collection_candidate	collection_list	2	107	120	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4409		
+NCPPB 4414	B950367	B950367	collection_candidate	collection_list	2	77	84	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4414		
+NCPPB 4415	A4833/B	A4833B	collection_candidate	collection_list	2	76	83	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4415		
+NCPPB 4433	Cabi 395428	CABI395428	collection_candidate	collection_list	2	73	84	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4433		
+NCPPB 4434	BXWK1	BXWK1	collection_candidate	collection_list	2	73	78	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4434		
+NCPPB 4450	A4832/1	A48321	donor_reference	donor_reference	1	23	30	comparison_only_no_source_edit	review_required	medium	high	no	identifier_collision	2	NCPPB 4450; NCPPB 4451		
+NCPPB 4450	Protect 763	PROTECT763	collection_candidate	collection_list	2	72	83	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4450		
+NCPPB 4451	A4832/1	A48321	donor_reference	donor_reference	1	23	30	comparison_only_no_source_edit	review_required	medium	high	no	identifier_collision	2	NCPPB 4450; NCPPB 4451		
+NCPPB 4451	Protect 764	PROTECT764	collection_candidate	collection_list	2	72	83	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4451		
+NCPPB 4466	64A	64A	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 4466		
+NCPPB 4468	P2431	P2431	collection_candidate	collection_list	2	74	79	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4468		
+NCPPB 4584	7384	7384	collection_candidate	collection_list	2	84	88	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4584		
+NCPPB 4594	NYAGA S	NYAGAS	donor_reference	donor_reference	1	23	30	comparison_only_no_source_edit	review_required	medium	high	no	digit_free_donor_reference_requires_review_before_search	1	NCPPB 4594		
+NCPPB 4629	NZRCC 10647	NZRCC10647	collection_candidate	collection_list	2	95	106	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4629		
+NCPPB 4633	CFPB 7263 NZRCC 10646 PDDCC 6759	CFPB7263NZRCC10646PDDCC6759	collection_candidate	collection_list	2	85	117	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4633		
+NCPPB 4635	XT3	XT3	isolate_code	isolated_by	3	122	125	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 4635		
+NCPPB 4675	CCOS 1891	CCOS1891	collection_candidate	collection_list	2	94	103	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4675		
+NCPPB 4676	CBPF 1521	CBPF1521	collection_candidate	collection_list	2	74	83	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4676		
+NCPPB 4676	CCOS 1894	CCOS1894	collection_candidate	collection_list	2	96	105	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4676		
+NCPPB 4678	Xc6	XC6	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 4678		
+NCPPB 4679	Xc9	XC9	donor_reference	donor_reference	1	23	26	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 4679		
+NCPPB 4692	CCOS 1956	CCOS1956	collection_candidate	collection_list	2	85	94	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4692		
+NCPPB 4693	CCOS 1957	CCOS1957	collection_candidate	collection_list	2	85	94	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4693		
+NCPPB 4706	CO-8	CO8	donor_reference	donor_reference	1	23	27	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 4706		
+NCPPB 4711	NE-7	NE7	donor_reference	donor_reference	1	23	27	comparison_only_no_source_edit	review_required	weak	medium	no	identifier_too_weak_for_automatic_search	1	NCPPB 4711		
+NCPPB 4753	CECT 9404	CECT9404	collection_candidate	collection_list	2	85	94	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4753		
+NCPPB 4753	IVIA 3287.1	IVIA32871	collection_candidate	collection_list	2	96	107	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4753		
+NCPPB 4754	CECT 9405	CECT9405	collection_candidate	collection_list	2	85	94	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4754		
+NCPPB 4754	IVIA 3287.2	IVIA32872	collection_candidate	collection_list	2	96	107	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4754		
+NCPPB 4755	CECT 9406	CECT9406	collection_candidate	collection_list	2	85	94	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4755		
+NCPPB 4755	IVIA 3287.3	IVIA32873	collection_candidate	collection_list	2	96	107	comparison_only_no_source_edit	review_required	not_searchable	high	no	unrecognised_or_digit_free_collection_identifier	1	NCPPB 4755		

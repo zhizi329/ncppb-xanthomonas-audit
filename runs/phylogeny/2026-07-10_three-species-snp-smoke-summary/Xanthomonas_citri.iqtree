@@ -1,0 +1,279 @@
+IQ-TREE 3.1.2 built May 17 2026
+
+Input file name: results/three_species_phylogeny/alignments/Xanthomonas_citri.core.fna
+Type of analysis: tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 811212
+
+REFERENCES
+----------
+
+To cite IQ-TREE 3 please use:
+
+Thomas K.F. Wong, Nhan Ly-Trong, Huaiyan Ren, Hector Banos, Andrew J. Roger,
+Edward Susko, Chris Bielow, Nicola De Maio, Nick Goldman, Matthew W. Hahn,
+Gavin Huttley, Robert Lanfear, Bui Quang Minh (2025)
+IQ-TREE 3: Phylogenomic Inference Software using Complex Evolutionary Models.
+Submitted.
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+NOTE: Alignment sequence type is auto-detected. If in doubt, specify it via -st option.
+Input data: 37 sequences with 3788385 nucleotide sites
+Number of constant sites: 3.54354e+06 (= 93.537% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 3.54354e+06 (= 93.537% of all sites)
+Number of parsimony informative sites: 188781
+Number of distinct site patterns: 14846
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+G4
+
+Rate parameter R:
+
+  A-C: 0.9961
+  A-G: 4.6289
+  A-T: 0.4420
+  C-G: 1.0236
+  C-T: 4.6614
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.1732
+  pi(C) = 0.3269
+  pi(G) = 0.3273
+  pi(T) = 0.1726
+
+Rate matrix Q:
+
+  A    -1.259     0.214    0.9954   0.05013
+  C    0.1133   -0.8621    0.2201    0.5286
+  G    0.5266    0.2199   -0.8599    0.1134
+  T   0.05029     1.001     0.215    -1.267
+
+Model of rate heterogeneity: Gamma with 4 categories
+Gamma shape alpha: 0.02002
+
+ Category  Relative_rate  Proportion
+  1         4.762e-31      0.25
+  2         1.032e-15      0.25
+  3         9.657e-07      0.25
+  4         4              0.25
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -7404291.0322 (s.e. 4481.3241)
+Unconstrained log-likelihood (without tree): -7221913.5070
+Number of free parameters (#branches + #model parameters): 80
+Akaike information criterion (AIC) score: 14808742.0643
+Corrected Akaike information criterion (AICc) score: 14808742.0678
+Bayesian information criterion (BIC) score: 14809793.8604
+
+Total tree length (sum of branch lengths): 0.1007
+Sum of internal branch lengths: 0.0680 (67.4784% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'NCPPB-1471__Xanthomonas_citri' is drawn at root
+Numbers in parentheses are SH-aLRT support (%) / ultrafast bootstrap support (%)
+
++--NCPPB-1471__Xanthomonas_citri
+|
+|                                                                             +--NCPPB_1056__Xanthomonas_citri
+|                                                                          +--| (100/100)
+|                                                                          |  |     +--NCPPB_1402__Xanthomonas_citri
+|                                                                          |  |  +--| (99/100)
+|                                                                          |  |  |  +--NCPPB_1495__Xanthomonas_citri
+|                                                                          |  +--| (100/100)
+|                                                                          |     +--NCPPB_670__Xanthomonas_citri
+|                                                                       +--| (100/65)
+|                                                                       |  +--NCPPB_381__Xanthomonas_citri
+|                                                                    +--| (100/65)
+|                                                                    |  |        +--NCPPB_1158__Xanthomonas_citri
+|                                                                    |  |     +--| (49.9/67)
+|                                                                    |  |     |  +--NCPPB_2665__Xanthomonas_citri
+|                                                                    |  |  +--| (29.2/63)
+|                                                                    |  |  |  +--NCPPB_1433__Xanthomonas_citri
+|                                                                    |  +--| (100/100)
+|                                                                    |     +--NCPPB_1654__Xanthomonas_citri
+|                                                               +----| (100/100)
+|                                                               |    +--NCPPB_1058__Xanthomonas_citri
+|                                                            +--| (100/100)
+|                                                            |  +------------NCPPB_2832__Xanthomonas_citri
+|                                                         +--| (100/100)
+|                                                         |  |        +--NCPPB_1838__Xanthomonas_citri
+|                                                         |  |  +-----| (100/100)
+|                                                         |  |  |     +--NCPPB_3114__Xanthomonas_citri
+|                                                         |  +--| (100/100)
+|                                                         |     +----NCPPB_2058__Xanthomonas_citri
+|                                                      +--| (100/100)
+|                                                      |  +----NCPPB_585__Xanthomonas_citri
+|                       +------------------------------| (100/100)
+|                       |                              |           +--NCPPB_1827__Xanthomonas_citri
+|                       |                              |        +--| (100/100)
+|                       |                              |        |  +--NCPPB_2060__Xanthomonas_citri
+|                       |                              |     +--| (100/100)
+|                       |                              |     |  +--NCPPB_2063__Xanthomonas_citri
+|                       |                              +-----| (100/100)
+|                       |                                    +--NCPPB_2914__Xanthomonas_citri
+|                    +--| (100/100)
+|                    |  |     +--NCPPB_536__Xanthomonas_citri
+|                    |  +-----| (100/100)
+|                    |        +--NCPPB_646__Xanthomonas_citri
+|                 +--| (83.5/84)
+|                 |  |     +--NCPPB_3086__Xanthomonas_citri
+|                 |  +-----| (100/100)
+|                 |        |  +--NCPPB_3162__Xanthomonas_citri
+|                 |        +--| (100/100)
+|                 |           |  +--NCPPB_633__Xanthomonas_citri
+|                 |           +--| (100/100)
+|                 |              +--NCPPB_976__Xanthomonas_citri
+|              +--| (100/100)
+|              |  +-----NCPPB_1335__Xanthomonas_citri
+|           +--| (100/100)
+|           |  |    +--NCPPB_1713__Xanthomonas_citri
+|           |  +----| (100/100)
+|           |       |  +--NCPPB_2064__Xanthomonas_citri
+|           |       +--| (100/100)
+|           |          |  +--NCPPB_556__Xanthomonas_citri
+|           |          +--| (78.8/94)
+|           |             +--NCPPB_557__Xanthomonas_citri
+|        +--| (100/100)
+|        |  +---NCPPB_573__Xanthomonas_citri
+|     +--| (100/100)
+|     |  +--NCPPB_3562__Xanthomonas_citri
+|  +--| (100/100)
+|  |  +--NCPPB_211__Xanthomonas_citri
++--| (100/100)
+|  |  +--NCPPB_226__Xanthomonas_citri
+|  +--| (100/100)
+|     +--NCPPB_406__Xanthomonas_citri
+|
++--NCPPB_4590__Xanthomonas_citri
+
+Tree in newick format:
+
+(NCPPB-1471__Xanthomonas_citri:0.0000131502,((((((((((((((((NCPPB_1056__Xanthomonas_citri:0.0000452650,((NCPPB_1402__Xanthomonas_citri:0.0001515026,NCPPB_1495__Xanthomonas_citri:0.0000536209)99/100:0.0000445594,NCPPB_670__Xanthomonas_citri:0.0000791361)100/100:0.0000334980)100/100:0.0001121952,NCPPB_381__Xanthomonas_citri:0.0002541643)100/65:0.0000192011,(((NCPPB_1158__Xanthomonas_citri:0.0000778772,NCPPB_2665__Xanthomonas_citri:0.0000405982)49.9/67:0.0000172072,NCPPB_1433__Xanthomonas_citri:0.0000567293)29.2/63:0.0000096808,NCPPB_1654__Xanthomonas_citri:0.0000288678)100/100:0.0000851560)100/65:0.0000691017,NCPPB_1058__Xanthomonas_citri:0.0002263901)100/100:0.0039640591,NCPPB_2832__Xanthomonas_citri:0.0104038095)100/100:0.0009897784,((NCPPB_1838__Xanthomonas_citri:0.0000386368,NCPPB_3114__Xanthomonas_citri:0.0001142058)100/100:0.0049867397,NCPPB_2058__Xanthomonas_citri:0.0040639500)100/100:0.0008412894)100/100:0.0004747809,NCPPB_585__Xanthomonas_citri:0.0041134965)100/100:0.0013233271,(((NCPPB_1827__Xanthomonas_citri:0.0000293107,NCPPB_2060__Xanthomonas_citri:0.0000217561)100/100:0.0025886598,NCPPB_2063__Xanthomonas_citri:0.0010184404)100/100:0.0005316781,NCPPB_2914__Xanthomonas_citri:0.0014030791)100/100:0.0049044095)100/100:0.0239302036,(NCPPB_536__Xanthomonas_citri:0.0000069653,NCPPB_646__Xanthomonas_citri:0.0000073964)100/100:0.0048485675)100/100:0.0024686348,(NCPPB_3086__Xanthomonas_citri:0.0019782789,(NCPPB_3162__Xanthomonas_citri:0.0000253709,(NCPPB_633__Xanthomonas_citri:0.0000118543,NCPPB_976__Xanthomonas_citri:0.0000242381)100/100:0.0000170561)100/100:0.0007798740)100/100:0.0049388392)83.5/84:0.0006464104,NCPPB_1335__Xanthomonas_citri:0.0046793087)100/100:0.0006883506,(NCPPB_1713__Xanthomonas_citri:0.0003213563,(NCPPB_2064__Xanthomonas_citri:0.0000095026,(NCPPB_556__Xanthomonas_citri:0.0000056443,NCPPB_557__Xanthomonas_citri:0.0000059291)78.8/94:0.0000015240)100/100:0.0002968406)100/100:0.0042173801)100/100:0.0017007333,NCPPB_573__Xanthomonas_citri:0.0031617993)100/100:0.0021334087,NCPPB_3562__Xanthomonas_citri:0.0002082803)100/100:0.0002463773,NCPPB_211__Xanthomonas_citri:0.0000558775)100/100:0.0000218431,(NCPPB_226__Xanthomonas_citri:0.0000028210,NCPPB_406__Xanthomonas_citri:0.0000019788)100/100:0.0000238744)100/100:0.0000124112,NCPPB_4590__Xanthomonas_citri:0.0000167526);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -7404291.032825296
+Robinson-Foulds distance between ML tree and consensus tree: 0
+
+Branches with support >0.000000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--NCPPB-1471__Xanthomonas_citri
+|
+|                                                                             +--NCPPB_1056__Xanthomonas_citri
+|                                                                          +--| (100)
+|                                                                          |  |     +--NCPPB_1402__Xanthomonas_citri
+|                                                                          |  |  +--| (100)
+|                                                                          |  |  |  +--NCPPB_1495__Xanthomonas_citri
+|                                                                          |  +--| (100)
+|                                                                          |     +--NCPPB_670__Xanthomonas_citri
+|                                                                       +--| (65)
+|                                                                       |  +--NCPPB_381__Xanthomonas_citri
+|                                                                    +--| (65)
+|                                                                    |  |        +--NCPPB_1158__Xanthomonas_citri
+|                                                                    |  |     +--| (67)
+|                                                                    |  |     |  +--NCPPB_2665__Xanthomonas_citri
+|                                                                    |  |  +--| (63)
+|                                                                    |  |  |  +--NCPPB_1433__Xanthomonas_citri
+|                                                                    |  +--| (100)
+|                                                                    |     +--NCPPB_1654__Xanthomonas_citri
+|                                                               +----| (100)
+|                                                               |    +--NCPPB_1058__Xanthomonas_citri
+|                                                            +--| (100)
+|                                                            |  +------------NCPPB_2832__Xanthomonas_citri
+|                                                         +--| (100)
+|                                                         |  |        +--NCPPB_1838__Xanthomonas_citri
+|                                                         |  |  +-----| (100)
+|                                                         |  |  |     +--NCPPB_3114__Xanthomonas_citri
+|                                                         |  +--| (100)
+|                                                         |     +----NCPPB_2058__Xanthomonas_citri
+|                                                      +--| (100)
+|                                                      |  +----NCPPB_585__Xanthomonas_citri
+|                       +------------------------------| (100)
+|                       |                              |           +--NCPPB_1827__Xanthomonas_citri
+|                       |                              |        +--| (100)
+|                       |                              |        |  +--NCPPB_2060__Xanthomonas_citri
+|                       |                              |     +--| (100)
+|                       |                              |     |  +--NCPPB_2063__Xanthomonas_citri
+|                       |                              +-----| (100)
+|                       |                                    +--NCPPB_2914__Xanthomonas_citri
+|                    +--| (100)
+|                    |  |     +--NCPPB_536__Xanthomonas_citri
+|                    |  +-----| (100)
+|                    |        +--NCPPB_646__Xanthomonas_citri
+|                 +--| (84)
+|                 |  |     +--NCPPB_3086__Xanthomonas_citri
+|                 |  +-----| (100)
+|                 |        |  +--NCPPB_3162__Xanthomonas_citri
+|                 |        +--| (100)
+|                 |           |  +--NCPPB_633__Xanthomonas_citri
+|                 |           +--| (100)
+|                 |              +--NCPPB_976__Xanthomonas_citri
+|              +--| (100)
+|              |  +-----NCPPB_1335__Xanthomonas_citri
+|           +--| (100)
+|           |  |    +--NCPPB_1713__Xanthomonas_citri
+|           |  +----| (100)
+|           |       |  +--NCPPB_2064__Xanthomonas_citri
+|           |       +--| (100)
+|           |          |  +--NCPPB_556__Xanthomonas_citri
+|           |          +**| (94)
+|           |             +--NCPPB_557__Xanthomonas_citri
+|        +--| (100)
+|        |  +---NCPPB_573__Xanthomonas_citri
+|     +--| (100)
+|     |  +--NCPPB_3562__Xanthomonas_citri
+|  +--| (100)
+|  |  +--NCPPB_211__Xanthomonas_citri
++--| (100)
+|  |  +--NCPPB_226__Xanthomonas_citri
+|  +--| (100)
+|     +**NCPPB_406__Xanthomonas_citri
+|
++--NCPPB_4590__Xanthomonas_citri
+
+
+Consensus tree in newick format: 
+
+(NCPPB-1471__Xanthomonas_citri:0.0000131571,((((((((((((((((NCPPB_1056__Xanthomonas_citri:0.0000452589,((NCPPB_1402__Xanthomonas_citri:0.0001514778,NCPPB_1495__Xanthomonas_citri:0.0000536423)100:0.0000445743,NCPPB_670__Xanthomonas_citri:0.0000791235)100:0.0000334992)100:0.0001121918,NCPPB_381__Xanthomonas_citri:0.0002541512)65:0.0000191903,(((NCPPB_1158__Xanthomonas_citri:0.0000778723,NCPPB_2665__Xanthomonas_citri:0.0000406088)67:0.0000171976,NCPPB_1433__Xanthomonas_citri:0.0000567399)63:0.0000096660,NCPPB_1654__Xanthomonas_citri:0.0000288869)100:0.0000851526)65:0.0000690876,NCPPB_1058__Xanthomonas_citri:0.0002263780)100:0.0039640716,NCPPB_2832__Xanthomonas_citri:0.0104038698)100:0.0009897724,((NCPPB_1838__Xanthomonas_citri:0.0000386185,NCPPB_3114__Xanthomonas_citri:0.0001142118)100:0.0049867545,NCPPB_2058__Xanthomonas_citri:0.0040639624)100:0.0008413018)100:0.0004747676,NCPPB_585__Xanthomonas_citri:0.0041135148)100:0.0013233396,(((NCPPB_1827__Xanthomonas_citri:0.0000293013,NCPPB_2060__Xanthomonas_citri:0.0000217491)100:0.0025886852,NCPPB_2063__Xanthomonas_citri:0.0010184450)100:0.0005316861,NCPPB_2914__Xanthomonas_citri:0.0014031066)100:0.0049044369)100:0.0239302340,(NCPPB_536__Xanthomonas_citri:0.0000069581,NCPPB_646__Xanthomonas_citri:0.0000073929)100:0.0048485751)100:0.0024686450,(NCPPB_3086__Xanthomonas_citri:0.0019783080,(NCPPB_3162__Xanthomonas_citri:0.0000253645,(NCPPB_633__Xanthomonas_citri:0.0000118320,NCPPB_976__Xanthomonas_citri:0.0000242338)100:0.0000170545)100:0.0007798630)100:0.0049388717)84:0.0006464045,NCPPB_1335__Xanthomonas_citri:0.0046793228)100:0.0006883465,(NCPPB_1713__Xanthomonas_citri:0.0003213698,(NCPPB_2064__Xanthomonas_citri:0.0000094907,(NCPPB_556__Xanthomonas_citri:0.0000056366,NCPPB_557__Xanthomonas_citri:0.0000059216)94:0.0000015413)100:0.0002968446)100:0.0042173838)100:0.0017007349,NCPPB_573__Xanthomonas_citri:0.0031617982)100:0.0021334124,NCPPB_3562__Xanthomonas_citri:0.0002082728)100:0.0002463837,NCPPB_211__Xanthomonas_citri:0.0000558815)100:0.0000218558,(NCPPB_226__Xanthomonas_citri:0.0000028373,NCPPB_406__Xanthomonas_citri:0.0000019860)100:0.0000238848)100:0.0000124190,NCPPB_4590__Xanthomonas_citri:0.0000167604);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t results/three_species_phylogeny/trees/Xanthomonas_citri.treefile -m "GTR{0.996096,4.62892,0.442013,1.02361,4.66137}+F{0.173155,0.326945,0.32729,0.17261}+G4{0.020022}" --length 3788385
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s results/three_species_phylogeny/alignments/Xanthomonas_citri.core.fna --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s results/three_species_phylogeny/alignments/Xanthomonas_citri.core.fna --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Fri Jul 10 16:38:37 2026
+Total CPU time used: 366.84397 seconds (0h:6m:6s)
+Total wall-clock time used: 184.3431649 seconds (0h:3m:4s)
+

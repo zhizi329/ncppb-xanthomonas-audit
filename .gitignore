@@ -1,0 +1,35 @@
+# Python and test byproducts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Private inputs and rebuildable working runs
+private_inputs/
+.cache/
+runs/audit/work/
+
+# Large biological payloads must be represented by accession + checksum.
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.sra
+*.sam
+*.bam
+*.bai
+*.cram
+*.crai
+*.bcf
+*.vcf.gz
+*.tbi
+
+# Generated inspection artefacts
+*.inspect.ndjson
+*.roundtrip.ndjson
+
+# Finder metadata
+.DS_Store
