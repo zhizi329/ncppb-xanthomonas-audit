@@ -1,0 +1,56 @@
+ncppb_number	review_reason	v2_v3_status	changed_fields	presence_pattern	v2_current_name	v3_current_name	latest_catalogue_url
+NCPPB 182	core_metadata_changed	changed	current_name; alternative_names	v1+v2+v3	Xanthomonas sp. (Cobb 1893) Vauterin et al. 1995	Xanthomonas vasicola pv. vasculorum (Cobb 1893) Vauterin et al. 1995	https://ncppb.fera.co.uk/furtherinfo/182
+NCPPB 225	new_record	added		v3		Pseudomonas syringae pv. dysoxyli (Hutchinson 1949) Young, Dye & Wilkie 1978	https://ncppb.fera.co.uk/furtherinfo/225
+NCPPB 245	new_record	added		v3		Serratia proteamaculans (Paine and Stansfield 1919) Grimont, Grimont & Starr 1978	https://ncppb.fera.co.uk/furtherinfo/245
+NCPPB 272	new_record	added		v3		Xanthomonas arboricola pv. pruni (Smith 1903) Vauterin et al. 1995	https://ncppb.fera.co.uk/furtherinfo/272
+NCPPB 449	new_record	added		v3		Pantoea stewartii subsp. stewartii (Smith 1898) Mergaert et al. 1993	https://ncppb.fera.co.uk/furtherinfo/449
+NCPPB 583	new_record	added		v3		Chryseobacterium sp. Vandamme et al. 1994	https://ncppb.fera.co.uk/furtherinfo/583
+NCPPB 761	probable_v3_display_truncation_or_formatting	changed	alternative_names; host	v1+v2+v3	Xanthomonas euvesicatoria pv. physalidicola (Goto & Okabe 1958) Constantin et al. 2016 comb. nov.	Xanthomonas euvesicatoria pv. physalidicola (Goto & Okabe 1958) Constantin et al. 2016 comb. nov.	https://ncppb.fera.co.uk/furtherinfo/761
+NCPPB 1043	core_metadata_changed	changed	country	v1+v2+v3	Xanthomonas campestris pv. campestris (Pammel 1895) Dowson 1939	Xanthomonas campestris pv. campestris (Pammel 1895) Dowson 1939	https://ncppb.fera.co.uk/furtherinfo/1043
+NCPPB 1062	core_metadata_changed	changed	current_name; alternative_names	v1+v2+v3	Xanthomonas sp. Dowson 1939	Xanthomonas euvesicatoria Jones et al. 2006	https://ncppb.fera.co.uk/furtherinfo/1062
+NCPPB 1560	core_metadata_changed	changed	current_name; alternative_names	v1+v2+v3	Xanthomonas sp. Dowson 1939	Xanthomonas dyei Young et al. 2010	https://ncppb.fera.co.uk/furtherinfo/1560
+NCPPB 1562	new_record	added		v3		Pantoea stewartii subsp. indologenes Mergaert et al. 1993	https://ncppb.fera.co.uk/furtherinfo/1562
+NCPPB 1638	core_metadata_changed	changed	current_name; alternative_names	v1+v2+v3	Xanthomonas sp. Dowson 1939	Xanthomonas cucurbitae Dowson 1939	https://ncppb.fera.co.uk/furtherinfo/1638
+NCPPB 1682	new_record	added		v3		Pantoea anthophila Brady et al. 2009	https://ncppb.fera.co.uk/furtherinfo/1682
+NCPPB 1683	record_removed_from_latest	removed		v1+v2	Stenotrophomonas hibiscicola (Moniz 1963) Nguyen et al. 2024		
+NCPPB 1754	core_metadata_changed	changed	current_name; alternative_names	v1+v2+v3	Xanthomonas sp. Dowson 1939	Xanthomonas euvesicatoria Jones et al. 2006	https://ncppb.fera.co.uk/furtherinfo/1754
+NCPPB 1835	new_record	added		v3		Burkholderia sp.	https://ncppb.fera.co.uk/furtherinfo/1835
+NCPPB 1931	new_record	added		v3		Pantoea agglomerans (Lohnis 1911) Dye 1964	https://ncppb.fera.co.uk/furtherinfo/1931
+NCPPB 1937	new_record	added		v3		Sphingomonas sp. (Bryan and McWhorter 1930) Dye 1978	https://ncppb.fera.co.uk/furtherinfo/1937
+NCPPB 1941	new_record	added		v3		Pantoea anthophila Brady et al. 2009	https://ncppb.fera.co.uk/furtherinfo/1941
+NCPPB 2275	new_record	added		v3		Pantoea stewartii subsp. indologenes Mergaert et al. 1993	https://ncppb.fera.co.uk/furtherinfo/2275
+NCPPB 2276	new_record	added		v3		Pantoea anthophila Gavini et al. 1989	https://ncppb.fera.co.uk/furtherinfo/2276
+NCPPB 2279	new_record	added		v3		Pantoea dispersa Gavini et al. 1989	https://ncppb.fera.co.uk/furtherinfo/2279
+NCPPB 2280	new_record	added		v3		Pantoea stewartii subsp. indologenes Mergaert et al. 1993	https://ncppb.fera.co.uk/furtherinfo/2280
+NCPPB 2281	new_record	added		v3		Pantoea stewartii subsp. indologenes Mergaert et al. 1993	https://ncppb.fera.co.uk/furtherinfo/2281
+NCPPB 2282	new_record	added		v3		Pantoea stewartii subsp. indologenes Mergaert et al. 1993	https://ncppb.fera.co.uk/furtherinfo/2282
+NCPPB 2285	new_record	added		v3		Pantoea dispersa Gavini et al. 1989	https://ncppb.fera.co.uk/furtherinfo/2285
+NCPPB 2388	probable_v3_display_truncation_or_formatting	changed	host	v1+v2+v3	Xanthomonas campestris pv. azadirachtae (Desai et al.1966) Dye 1978	Xanthomonas campestris pv. azadirachtae (Desai et al.1966) Dye 1978	https://ncppb.fera.co.uk/furtherinfo/2388
+NCPPB 2473	new_record	added		v3		Xanthomonas fragariae Kennedy and King 1962	https://ncppb.fera.co.uk/furtherinfo/2473
+NCPPB 2586	core_metadata_changed	changed	current_name; alternative_names	v1+v2+v3	Xanthomonas sp. Dowson 1939	Xanthomonas campestris (Pammel 1895) Dowson 1939 (Approved Lists 1980)	https://ncppb.fera.co.uk/furtherinfo/2586
+NCPPB 2864	core_metadata_changed	changed	current_name; name_as_received; alternative_names	v1+v2+v3	Xanthomonas sp. Dowson 1939	Xanthomonas arboricola Vauterin et al. 1995	https://ncppb.fera.co.uk/furtherinfo/2864
+NCPPB 2865	core_metadata_changed	changed	current_name; name_as_received; alternative_names	v1+v2+v3	Xanthomonas sp. Dowson 1939	Xanthomonas arboricola Vauterin et al. 1995	https://ncppb.fera.co.uk/furtherinfo/2865
+NCPPB 2866	core_metadata_changed	changed	current_name; name_as_received; alternative_names	v1+v2+v3	Xanthomonas sp. Dowson 1939	Xanthomonas arboricola Vauterin et al. 1995	https://ncppb.fera.co.uk/furtherinfo/2866
+NCPPB 2877	core_metadata_changed	changed	current_name; alternative_names	v1+v2+v3	Xanthomonas campestris pv. cannabis Severin 1978	Xanthomonas cannabis (ex Severin 1978) McKnight et al. 2026	https://ncppb.fera.co.uk/furtherinfo/2877
+NCPPB 2933	core_metadata_changed	changed	current_name; name_as_received; alternative_names; country	v1+v2+v3	Xanthomonas sp. Dowson 1939	Xanthomonas hortorum Vauterin et al. 1995	https://ncppb.fera.co.uk/furtherinfo/2933
+NCPPB 2963	core_metadata_changed	changed	current_name; alternative_names	v1+v2+v3	Xanthomonas populi subsp. populi (ex Ridé 1958) van den Mooter & Swings 1990	Xanthomonas populi (ex Ridé 1958) van den Mooter & Swings 1990	https://ncppb.fera.co.uk/furtherinfo/2963
+NCPPB 3200	core_metadata_changed	changed	current_name; name_as_received	v1+v2+v3	Xanthomonas sp. Dowson 1939	Xanthomonas arboricola Vauterin et al. 1995	https://ncppb.fera.co.uk/furtherinfo/3200
+NCPPB 3218	core_metadata_changed	changed	current_name; name_as_received	v1+v2+v3	Xanthomonas sp. Dowson 1939	Xanthomonas arboricola Vauterin et al. 1995	https://ncppb.fera.co.uk/furtherinfo/3218
+NCPPB 3339	new_record	added		v3		Xanthomonas arboricola pv. corylina (Miller et al. 1940) Vauterin et al. 1995	https://ncppb.fera.co.uk/furtherinfo/3339
+NCPPB 3340	new_record	added		v3		Xanthomonas arboricola pv. juglandis (Pierce 1901) Vauterin et al. 1995	https://ncppb.fera.co.uk/furtherinfo/3340
+NCPPB 3582	core_metadata_changed	changed	current_name; name_as_received; alternative_names	v1+v2+v3	Xanthomonas sp. Dowson 1939	Xanthomonas codiaei Vauterin et al. 1995	https://ncppb.fera.co.uk/furtherinfo/3582
+NCPPB 3722	probable_v3_display_truncation_or_formatting	changed	host	v1+v2+v3	Xanthomonas axonopodis pv. begoniae (Takimoto 1934) Vauterin et al. 1995	Xanthomonas axonopodis pv. begoniae (Takimoto 1934) Vauterin et al. 1995	https://ncppb.fera.co.uk/furtherinfo/3722
+NCPPB 3942	core_metadata_changed	changed	current_name	v1+v2+v3	Xanthomonas sp. Dowson 1939	Xanthomonas euvesicatoria Jones et al. 2006	https://ncppb.fera.co.uk/furtherinfo/3942
+NCPPB 3943	core_metadata_changed	changed	current_name	v1+v2+v3	Xanthomonas sp. Dowson 1939	Xanthomonas euvesicatoria Jones et al. 2006	https://ncppb.fera.co.uk/furtherinfo/3943
+NCPPB 3957	core_metadata_changed	changed	current_name; name_as_received; alternative_names	v1+v2+v3	Xanthomonas sp. Dowson 1939	Xanthomonas translucens (ex Jones et al. 1917) Vauterin et al. 1995	https://ncppb.fera.co.uk/furtherinfo/3957
+NCPPB 3958	new_record	added		v3		Acidovorax sp. Willems et al. 1990 emend. Willems et al. 1992	https://ncppb.fera.co.uk/furtherinfo/3958
+NCPPB 3959	core_metadata_changed	changed	current_name	v1+v2+v3	Xanthomonas sp. Dowson 1939	Xanthomonas hortorum Vauterin et al. 1995	https://ncppb.fera.co.uk/furtherinfo/3959
+NCPPB 4182	new_record	added		v3		Xanthomonas arboricola pv. fragariae Janse et al 2001	https://ncppb.fera.co.uk/furtherinfo/4182
+NCPPB 4326	probable_v3_display_truncation_or_formatting	changed	host	v1+v2+v3	Xanthomonas campestris pv. zantedeschiae (Joubert & Truter 1972) Dye 1978	Xanthomonas campestris pv. zantedeschiae (Joubert & Truter 1972) Dye 1978	https://ncppb.fera.co.uk/furtherinfo/4326
+NCPPB 4345	probable_v3_display_truncation_or_formatting	changed	host	v1+v2+v3	Xanthomonas campestris pv. cannae Easwaramurthy et al. 1984	Xanthomonas campestris pv. cannae Easwaramurthy et al. 1984	https://ncppb.fera.co.uk/furtherinfo/4345
+NCPPB 4347	probable_v3_display_truncation_or_formatting	changed	host	v1+v2+v3	Xanthomonas campestris pv. malloti Goto 1993	Xanthomonas campestris pv. malloti Goto 1993	https://ncppb.fera.co.uk/furtherinfo/4347
+NCPPB 4349	probable_v3_display_truncation_or_formatting	changed	alternative_names; host	v1+v2+v3	Xanthomonas euvesicatoria pv. pennamericanum (Qhobela & Claflin 1988) Harrison et al. 2023	Xanthomonas euvesicatoria pv. pennamericanum (Qhobela & Claflin 1988) Harrison et al. 2023	https://ncppb.fera.co.uk/furtherinfo/4349
+NCPPB 4416	record_restored_from_v1	added		v1+v3		Xanthomonas campestris (Pammel 1895) Dowson 1939	https://ncppb.fera.co.uk/furtherinfo/4416
+NCPPB 4661	core_metadata_changed	changed	host	v1+v2+v3	Xanthomonas campestris pv. campestris (Pammel 1895) Dowson 1939	Xanthomonas campestris pv. campestris (Pammel 1895) Dowson 1939	https://ncppb.fera.co.uk/furtherinfo/4661
+NCPPB 4826	new_record	added		v3		Xanthomonas sp. Dowson 1939 (Approved Lists 1980)	https://ncppb.fera.co.uk/furtherinfo/4826
+NCPPB 4830	new_record	added		v3		Xanthomonas hydrangeae Dia et al, 2022	https://ncppb.fera.co.uk/furtherinfo/4830

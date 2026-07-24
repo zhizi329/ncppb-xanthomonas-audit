@@ -1,0 +1,147 @@
+{
+  "created_at_utc": "2026-07-24T04:49:45.155181+00:00",
+  "inputs": {
+    "v1": {
+      "path": "data/raw/ncppb_catalogue.csv",
+      "rows": 898,
+      "sha256": "73c90248cdf632b947b503366c5e8a90f5d9b99b749c55daef07362ff71c8aff"
+    },
+    "v2": {
+      "path": "runs/audit/2026-07-15_v2.1.2-reviewed/catalogue_strains.tsv",
+      "rows": 897,
+      "sha256": "dbb897b50e4aa105223e798ed4c9052b12bbe100b8b38ddf2865f82f379d515a"
+    },
+    "v3": {
+      "path": "runs/catalogue/2026-07-24_ncppb-website-v3/ncppb_xanthomonas_latest_summary.tsv",
+      "rows": 922,
+      "sha256": "3b9a17782bc0dab01502be97a9aa1c3f84f764159b07935967e33bdb585fc593"
+    }
+  },
+  "summary": {
+    "version_record_counts": {
+      "v1": 898,
+      "v2": 897,
+      "v3": 922
+    },
+    "union_record_count": 923,
+    "presence_pattern_counts": {
+      "v1+v2": 1,
+      "v1+v2+v3": 896,
+      "v1+v3": 1,
+      "v3": 25
+    },
+    "pairwise": {
+      "v1_v2": {
+        "comparable_fields": [
+          "current_name",
+          "name_as_received",
+          "alternative_names",
+          "host",
+          "country",
+          "other_references"
+        ],
+        "record_status_counts": {
+          "changed": 33,
+          "not_in_pair": 25,
+          "removed": 1,
+          "unchanged": 864
+        },
+        "field_change_counts": {
+          "alternative_names": 7,
+          "name_as_received": 26
+        },
+        "change_class_counts": {
+          "formatting_only": 27,
+          "value_changed": 6
+        }
+      },
+      "v2_v3": {
+        "comparable_fields": [
+          "current_name",
+          "name_as_received",
+          "alternative_names",
+          "host",
+          "country"
+        ],
+        "record_status_counts": {
+          "added": 26,
+          "changed": 484,
+          "removed": 1,
+          "unchanged": 412
+        },
+        "field_change_counts": {
+          "alternative_names": 472,
+          "country": 2,
+          "current_name": 19,
+          "host": 8,
+          "name_as_received": 8
+        },
+        "change_class_counts": {
+          "formatting_only": 5,
+          "probable_v3_truncation": 48,
+          "v3_contains_old_value": 20,
+          "v3_value_expanded": 174,
+          "value_added": 181,
+          "value_changed": 72,
+          "value_cleared": 9
+        }
+      },
+      "v1_v3": {
+        "comparable_fields": [
+          "current_name",
+          "name_as_received",
+          "alternative_names",
+          "host",
+          "country",
+          "year_added",
+          "type_strain_of_species",
+          "pathotype_strain",
+          "notes"
+        ],
+        "record_status_counts": {
+          "added": 25,
+          "changed": 502,
+          "removed": 1,
+          "unchanged": 395
+        },
+        "field_change_counts": {
+          "alternative_names": 472,
+          "country": 2,
+          "current_name": 19,
+          "host": 8,
+          "name_as_received": 35,
+          "notes": 18,
+          "pathotype_strain": 2,
+          "type_strain_of_species": 2
+        },
+        "change_class_counts": {
+          "formatting_only": 40,
+          "probable_v3_truncation": 48,
+          "v3_contains_old_value": 20,
+          "v3_value_expanded": 173,
+          "value_added": 183,
+          "value_changed": 84,
+          "value_cleared": 10
+        }
+      }
+    }
+  },
+  "outputs": {
+    "catalogue_three_version_comparison.tsv": {
+      "bytes": 295902,
+      "sha256": "8a153a04111fbf0b5c0025538467bdc67ff8a028bf9f1a7a9470166ebd2d2c4c"
+    },
+    "catalogue_field_changes.tsv": {
+      "bytes": 230646,
+      "sha256": "cae4eba73c2c176597c2b3d44240cd77ab5c49563b3c69babc210b46431b996a"
+    },
+    "catalogue_v3_priority_review.tsv": {
+      "bytes": 9931,
+      "sha256": "ae9b80f9ef5d212da3fa0eeee52d91b64c57d1d378d3f78ca48336556fd3c7d4"
+    },
+    "comparison_summary_zh.md": {
+      "bytes": 1891,
+      "sha256": "f860313513c61e51e327eb7b0d48b1f481de4c74293ce851c39e9bbdbebd0670"
+    }
+  }
+}
