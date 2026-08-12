@@ -1,42 +1,36 @@
 # NCPPB Xanthomonas public-genome audit
 
-Minimal reproducible repository for linking NCPPB *Xanthomonas* strains to NCBI BioSample, Assembly, SRA, BioProject and Taxonomy records.
+Reproducible project materials for linking NCPPB *Xanthomonas* catalogue records to NCBI BioSample, Assembly, SRA and BioProject resources.
 
-## Current state
+## Submission dataset
 
-The only authoritative audit run is `runs/audit/2026-07-10_v2.1.1/`.
+The frozen record-level table used for the project report is:
 
-- 897 current catalogue records;
-- 1,376/1,376 NCBI queries completed;
-- 533 accepted BioSamples covering 360 strains;
-- 262 preferred assemblies and 46 WGS-read fallbacks;
-- 92 strains still require identity and/or taxonomy review;
-- validated interim dataset, not a frozen final dataset.
+`runs/audit/2026-07-24_v3-922/results_availability.tsv`
 
-Start with:
+It contains 922 NCPPB records returned by the frozen catalogue search: 892 records with a current *Xanthomonas* name and 30 scope-retained records whose current name is outside the genus. Among the 892-record main cohort, 375 records have an accepted BioSample link and 346 have an accepted Assembly or WGS resource under the frozen rules.
 
-| File | Purpose |
-|---|---|
-| `supervisor_sequence_availability.tsv` | One-row-per-strain authoritative table |
-| `phylogeny_input_manifest.tsv` | Preferred sequence source and readiness/block status |
-| `manual_review_queue.tsv` | Outstanding human review |
-| `run_summary.md` | Headline counts |
-| `run_manifest.json` | Version, parameters and SHA-256 manifest |
+The table distinguishes record scope, identifier evidence, sequence availability, taxonomy review, preferred resources and downstream readiness. A missing accepted link means that no acceptable relationship was confirmed under the frozen identifiers and rules; it does not prove that a strain has never been sequenced.
 
-Supporting tables are explained in `runs/audit/2026-07-10_v2.1.1/README.md` and `docs/results_catalog_zh.md`.
+## Repository structure
 
-## Run and validate
-
-The audit workflow uses the Python standard library.
-
-```bash
-python3 scripts/run_ncppb_audit_v2.py \
-  --catalogue-html /path/to/NCPPB_catalogue.html \
-  --run-ncbi \
-  --email your.email@example.org \
-  --prompt-api-key \
-  --outdir runs/audit/my_run
+```text
+ncppb_audit_v2/   audit library retained for reproducibility
+scripts/          audit, validation and recovery tools
+tests/            workflow tests
+data/             catalogue baseline and processed tables
+runs/audit/       frozen and archived record-level audit outputs
+runs/phylogeny/   accession, QC and smoke-test tree evidence
+docs/             method, field and review documentation
 ```
+
+`runs/audit/2026-07-10_v2.1.1/` is an earlier validated 897-record run retained as provenance. It is not the submission denominator.
+
+Public FASTA and FASTQ payloads are not stored in this repository. They can be recovered from the retained accessions and sequence manifests.
+
+## Validation
+
+The retained V2.1 workflow uses the Python standard library:
 
 ```bash
 make hygiene
@@ -44,51 +38,10 @@ make test
 make validate
 ```
 
-`make validate-reviewed` should fail until all required pair-level review decisions are complete.
-
-## Minimal repository layout
-
-```text
-ncppb_audit_v2/   current audit library
-scripts/          current audit CLI, validation and phylogeny smoke tooling
-tests/            V2.1 tests
-data/             small catalogue baseline tables
-runs/audit/       frozen authoritative audit run
-runs/phylogeny/   accession/QC/tree-only smoke-test summary
-docs/             concise method and output documentation
-private_inputs/   local proposal and saved NCPPB HTML; ignored by Git
-work -> ../xanthomonas-data
-                  local FASTQ/BAM analysis workspace outside the repository
-```
-
-FASTQ and BAM live physically in the sibling `../xanthomonas-data/` directory; ignored `work` is only a local symlink. They are never committed to GitHub and are not touched when the repository itself is cleaned or rebuilt. Public reads can be verified or reconstructed from accession, ENA URL and MD5 metadata with `scripts/recover_three_species_fastq.py`.
-
-Set `XANTHOMONAS_DATA_ROOT` only when the external data directory should live somewhere else.
-
-## Phylogeny smoke test
-
-Create the ignored local analysis environment from the tracked specification:
-
-```bash
-.cache/bin/micromamba create -y -f environment.yml -p .cache/conda-envs/phylogeny
-.cache/bin/micromamba run -p .cache/conda-envs/phylogeny \
-  python scripts/recover_three_species_fastq.py --jobs 8
-```
-
-`runs/phylogeny/2026-07-10_three-species-snp-smoke-summary/` retains only:
-
-- 145 selected paired Illumina runs and ENA MD5 values;
-- fastp QC for all 145 runs;
-- mapping QC, SNP distances and IQ-TREE outputs for 37 *X. citri* strains;
-- iTOL annotations.
-
-Raw and processed reads were deleted because they are reproducible from the retained accession manifest.
-
-## Key documentation
+Methods, fields and manual-review rules are described in:
 
 - `docs/v2_1_open_source_cli.md`
-- `docs/v2_1_validation_report_zh.md`
+- `docs/v2_1_validation_report.md`
 - `docs/data_dictionary.md`
+- `docs/decision_rules.md`
 - `docs/manual_review_protocol.md`
-- `docs/sequence_retrieval_and_phylogeny_workflow_zh.md`
-- `docs/project_structure_zh.md`

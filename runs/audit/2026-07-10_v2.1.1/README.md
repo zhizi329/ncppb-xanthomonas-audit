@@ -1,6 +1,6 @@
-# NCPPB-NCBI audit V2.1.1 - 2026-07-10
+# NCPPB-NCBI audit V2.1.1 - 2026-07-10 (archived)
 
-Status: validated interim run; manual biological review is not frozen.
+Status: archived validated interim run; manual biological review is not frozen. This run is retained as provenance and is not the final submission denominator.
 
 NCBI evidence timestamp: 2026-07-01. The saved evidence was recomputed with the V2.1.1 taxonomy/pathovar safety gate on 2026-07-10.
 
@@ -8,7 +8,7 @@ NCBI evidence timestamp: 2026-07-01. The saved evidence was recomputed with the 
 
 | File | Use |
 |---|---|
-| `supervisor_sequence_availability.tsv` | Authoritative one-row-per-current-strain audit table |
+| `supervisor_sequence_availability.tsv` | One-row-per-current-strain table for this archived run |
 | `phylogeny_input_manifest.tsv` | Preferred sequence source and block/readiness status for each strain |
 | `manual_review_queue.tsv` | 92 strains requiring identity and/or taxonomy review |
 | `run_summary.md` | Human-readable run statistics |
